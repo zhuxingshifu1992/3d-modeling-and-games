@@ -1,0 +1,7427 @@
+{
+  "version": 2,
+  "name": "欧洲漫游",
+  "regions": [
+    {
+      "id": "FR_Paris",
+      "name": "法国 · 巴黎",
+      "model": "res://assets/models/FR_Paris.glb",
+      "lod": "res://assets/models/FR_Paris_low.glb",
+      "collision": "res://assets/models/FR_Paris_collision.glb",
+      "position": [
+        -90,
+        0,
+        -85
+      ],
+      "bounds": [
+        140,
+        120
+      ],
+      "spawn": [
+        -90,
+        0.26,
+        -48
+      ]
+    },
+    {
+      "id": "IT_Rome",
+      "name": "意大利 · 罗马",
+      "model": "res://assets/models/IT_Rome.glb",
+      "lod": "res://assets/models/IT_Rome_low.glb",
+      "collision": "res://assets/models/IT_Rome_collision.glb",
+      "position": [
+        90,
+        0,
+        -85
+      ],
+      "bounds": [
+        140,
+        120
+      ],
+      "spawn": [
+        90,
+        0.35,
+        -36
+      ]
+    },
+    {
+      "id": "CH_Alps",
+      "name": "瑞士 · 阿尔卑斯",
+      "model": "res://assets/models/CH_Alps.glb",
+      "lod": "res://assets/models/CH_Alps_low.glb",
+      "collision": "res://assets/models/CH_Alps_collision.glb",
+      "position": [
+        -90,
+        0,
+        85
+      ],
+      "bounds": [
+        140,
+        120
+      ],
+      "spawn": [
+        -90,
+        0.12,
+        136
+      ]
+    },
+    {
+      "id": "DE_Bavaria",
+      "name": "德国 · 巴伐利亚",
+      "model": "res://assets/models/DE_Bavaria.glb",
+      "lod": "res://assets/models/DE_Bavaria_low.glb",
+      "collision": "res://assets/models/DE_Bavaria_collision.glb",
+      "position": [
+        90,
+        0,
+        85
+      ],
+      "bounds": [
+        140,
+        120
+      ],
+      "spawn": [
+        73,
+        0.15,
+        137
+      ]
+    }
+  ],
+  "buildings": [
+    {
+      "id": "fr_haussmann_01",
+      "label": "巴黎旅行书店",
+      "center": [
+        -145,
+        6.98,
+        -136
+      ],
+      "size": [
+        20,
+        13,
+        13.6
+      ],
+      "front_angle": 0,
+      "entrance": [
+        -145.0,
+        0.26,
+        -128.0
+      ],
+      "inside": [
+        -145.0,
+        0.31,
+        -131.0
+      ],
+      "floor_levels": [
+        0.26,
+        3.66,
+        7.06,
+        10.46
+      ],
+      "floors": 4,
+      "style": "french",
+      "height": 13.6,
+      "base": 0.18,
+      "stair_landings": [
+        [
+          -135.975,
+          3.66,
+          -136.55
+        ],
+        [
+          -135.975,
+          7.06,
+          -136.55
+        ],
+        [
+          -135.975,
+          10.46,
+          -136.55
+        ]
+      ],
+      "access": "walk",
+      "region": "FR_Paris",
+      "bounds": {
+        "center": [
+          -145,
+          6.98,
+          -136
+        ],
+        "size": [
+          20.0,
+          13.6,
+          13.0
+        ]
+      }
+    },
+    {
+      "id": "fr_haussmann_02",
+      "label": "塞纳河咖啡馆",
+      "center": [
+        -122,
+        6.98,
+        -136
+      ],
+      "size": [
+        20,
+        13,
+        13.6
+      ],
+      "front_angle": 0,
+      "entrance": [
+        -122.0,
+        0.26,
+        -128.0
+      ],
+      "inside": [
+        -122.0,
+        0.31,
+        -131.0
+      ],
+      "floor_levels": [
+        0.26,
+        3.66,
+        7.06,
+        10.46
+      ],
+      "floors": 4,
+      "style": "french",
+      "height": 13.6,
+      "base": 0.18,
+      "stair_landings": [
+        [
+          -112.975,
+          3.66,
+          -136.55
+        ],
+        [
+          -112.975,
+          7.06,
+          -136.55
+        ],
+        [
+          -112.975,
+          10.46,
+          -136.55
+        ]
+      ],
+      "access": "walk",
+      "region": "FR_Paris",
+      "bounds": {
+        "center": [
+          -122,
+          6.98,
+          -136
+        ],
+        "size": [
+          20.0,
+          13.6,
+          13.0
+        ]
+      }
+    },
+    {
+      "id": "fr_haussmann_03",
+      "label": "巴黎艺术画廊",
+      "center": [
+        -99,
+        6.98,
+        -136
+      ],
+      "size": [
+        20,
+        13,
+        13.6
+      ],
+      "front_angle": 0,
+      "entrance": [
+        -99.0,
+        0.26,
+        -128.0
+      ],
+      "inside": [
+        -99.0,
+        0.31,
+        -131.0
+      ],
+      "floor_levels": [
+        0.26,
+        3.66,
+        7.06,
+        10.46
+      ],
+      "floors": 4,
+      "style": "french",
+      "height": 13.6,
+      "base": 0.18,
+      "stair_landings": [
+        [
+          -89.975,
+          3.66,
+          -136.55
+        ],
+        [
+          -89.975,
+          7.06,
+          -136.55
+        ],
+        [
+          -89.975,
+          10.46,
+          -136.55
+        ]
+      ],
+      "access": "walk",
+      "region": "FR_Paris",
+      "bounds": {
+        "center": [
+          -99,
+          6.98,
+          -136
+        ],
+        "size": [
+          20.0,
+          13.6,
+          13.0
+        ]
+      }
+    },
+    {
+      "id": "fr_haussmann_04",
+      "label": "法式精品旅馆",
+      "center": [
+        -75,
+        6.98,
+        -136
+      ],
+      "size": [
+        22,
+        13,
+        13.6
+      ],
+      "front_angle": 0,
+      "entrance": [
+        -75.0,
+        0.26,
+        -128.0
+      ],
+      "inside": [
+        -75.0,
+        0.31,
+        -131.0
+      ],
+      "floor_levels": [
+        0.26,
+        3.66,
+        7.06,
+        10.46
+      ],
+      "floors": 4,
+      "style": "french",
+      "height": 13.6,
+      "base": 0.18,
+      "stair_landings": [
+        [
+          -64.975,
+          3.66,
+          -136.55
+        ],
+        [
+          -64.975,
+          7.06,
+          -136.55
+        ],
+        [
+          -64.975,
+          10.46,
+          -136.55
+        ]
+      ],
+      "access": "walk",
+      "region": "FR_Paris",
+      "bounds": {
+        "center": [
+          -75,
+          6.98,
+          -136
+        ],
+        "size": [
+          22.0,
+          13.6,
+          13.0
+        ]
+      }
+    },
+    {
+      "id": "fr_haussmann_05",
+      "label": "巴黎花艺工坊",
+      "center": [
+        -49,
+        6.98,
+        -136
+      ],
+      "size": [
+        21,
+        13,
+        13.6
+      ],
+      "front_angle": 0,
+      "entrance": [
+        -49.0,
+        0.26,
+        -128.0
+      ],
+      "inside": [
+        -49.0,
+        0.31,
+        -131.0
+      ],
+      "floor_levels": [
+        0.26,
+        3.66,
+        7.06,
+        10.46
+      ],
+      "floors": 4,
+      "style": "french",
+      "height": 13.6,
+      "base": 0.18,
+      "stair_landings": [
+        [
+          -39.475,
+          3.66,
+          -136.55
+        ],
+        [
+          -39.475,
+          7.06,
+          -136.55
+        ],
+        [
+          -39.475,
+          10.46,
+          -136.55
+        ]
+      ],
+      "access": "walk",
+      "region": "FR_Paris",
+      "bounds": {
+        "center": [
+          -49,
+          6.98,
+          -136
+        ],
+        "size": [
+          21.0,
+          13.6,
+          13.0
+        ]
+      }
+    },
+    {
+      "id": "fr_haussmann_06",
+      "label": "巴黎建筑展馆",
+      "center": [
+        -29,
+        6.98,
+        -136
+      ],
+      "size": [
+        15,
+        13,
+        13.6
+      ],
+      "front_angle": 0,
+      "entrance": [
+        -29.0,
+        0.26,
+        -128.0
+      ],
+      "inside": [
+        -29.0,
+        0.31,
+        -131.0
+      ],
+      "floor_levels": [
+        0.26,
+        3.66,
+        7.06,
+        10.46
+      ],
+      "floors": 4,
+      "style": "french",
+      "height": 13.6,
+      "base": 0.18,
+      "stair_landings": [
+        [
+          -22.475,
+          3.66,
+          -136.55
+        ],
+        [
+          -22.475,
+          7.06,
+          -136.55
+        ],
+        [
+          -22.475,
+          10.46,
+          -136.55
+        ]
+      ],
+      "access": "walk",
+      "region": "FR_Paris",
+      "bounds": {
+        "center": [
+          -29,
+          6.98,
+          -136
+        ],
+        "size": [
+          15.0,
+          13.6,
+          13.0
+        ]
+      }
+    },
+    {
+      "id": "it_street_01",
+      "label": "罗马历史书店",
+      "center": [
+        42.4,
+        6.35,
+        -137.1
+      ],
+      "size": [
+        12.4,
+        9.7,
+        12.4
+      ],
+      "front_angle": 0.0,
+      "entrance": [
+        42.4,
+        0.23,
+        -130.75
+      ],
+      "inside": [
+        42.4,
+        0.28,
+        -133.75
+      ],
+      "floor_levels": [
+        0.23,
+        3.33,
+        6.43,
+        9.53
+      ],
+      "floors": 4,
+      "style": "italian",
+      "height": 12.4,
+      "base": 0.15,
+      "stair_landings": [
+        [
+          47.625,
+          3.33,
+          -136.694
+        ],
+        [
+          47.625,
+          6.43,
+          -136.694
+        ],
+        [
+          47.625,
+          9.53,
+          -136.694
+        ]
+      ],
+      "access": "walk",
+      "region": "IT_Rome",
+      "bounds": {
+        "center": [
+          42.4,
+          6.35,
+          -137.1
+        ],
+        "size": [
+          12.4,
+          12.4,
+          9.7
+        ]
+      }
+    },
+    {
+      "id": "it_street_02",
+      "label": "罗马咖啡馆",
+      "center": [
+        56.0,
+        4.8,
+        -137.1
+      ],
+      "size": [
+        12.4,
+        9.7,
+        9.3
+      ],
+      "front_angle": 0.0,
+      "entrance": [
+        56.0,
+        0.23,
+        -130.75
+      ],
+      "inside": [
+        56.0,
+        0.28,
+        -133.75
+      ],
+      "floor_levels": [
+        0.23,
+        3.33,
+        6.43
+      ],
+      "floors": 3,
+      "style": "italian",
+      "height": 9.3,
+      "base": 0.15,
+      "stair_landings": [
+        [
+          61.225,
+          3.33,
+          -136.694
+        ],
+        [
+          61.225,
+          6.43,
+          -136.694
+        ]
+      ],
+      "access": "walk",
+      "region": "IT_Rome",
+      "bounds": {
+        "center": [
+          56.0,
+          4.8,
+          -137.1
+        ],
+        "size": [
+          12.4,
+          9.3,
+          9.7
+        ]
+      }
+    },
+    {
+      "id": "it_street_03",
+      "label": "古典雕塑画廊",
+      "center": [
+        69.6,
+        4.8,
+        -137.1
+      ],
+      "size": [
+        12.4,
+        9.7,
+        9.3
+      ],
+      "front_angle": 0.0,
+      "entrance": [
+        69.6,
+        0.23,
+        -130.75
+      ],
+      "inside": [
+        69.6,
+        0.28,
+        -133.75
+      ],
+      "floor_levels": [
+        0.23,
+        3.33,
+        6.43
+      ],
+      "floors": 3,
+      "style": "italian",
+      "height": 9.3,
+      "base": 0.15,
+      "stair_landings": [
+        [
+          74.825,
+          3.33,
+          -136.694
+        ],
+        [
+          74.825,
+          6.43,
+          -136.694
+        ]
+      ],
+      "access": "walk",
+      "region": "IT_Rome",
+      "bounds": {
+        "center": [
+          69.6,
+          4.8,
+          -137.1
+        ],
+        "size": [
+          12.4,
+          9.3,
+          9.7
+        ]
+      }
+    },
+    {
+      "id": "it_street_04",
+      "label": "意式手工艺坊",
+      "center": [
+        83.2,
+        6.35,
+        -137.1
+      ],
+      "size": [
+        12.4,
+        9.7,
+        12.4
+      ],
+      "front_angle": 0.0,
+      "entrance": [
+        83.2,
+        0.23,
+        -130.75
+      ],
+      "inside": [
+        83.2,
+        0.28,
+        -133.75
+      ],
+      "floor_levels": [
+        0.23,
+        3.33,
+        6.43,
+        9.53
+      ],
+      "floors": 4,
+      "style": "italian",
+      "height": 12.4,
+      "base": 0.15,
+      "stair_landings": [
+        [
+          88.425,
+          3.33,
+          -136.694
+        ],
+        [
+          88.425,
+          6.43,
+          -136.694
+        ],
+        [
+          88.425,
+          9.53,
+          -136.694
+        ]
+      ],
+      "access": "walk",
+      "region": "IT_Rome",
+      "bounds": {
+        "center": [
+          83.2,
+          6.35,
+          -137.1
+        ],
+        "size": [
+          12.4,
+          12.4,
+          9.7
+        ]
+      }
+    },
+    {
+      "id": "it_street_05",
+      "label": "旅行者旅馆",
+      "center": [
+        96.8,
+        4.8,
+        -137.1
+      ],
+      "size": [
+        12.4,
+        9.7,
+        9.3
+      ],
+      "front_angle": 0.0,
+      "entrance": [
+        96.8,
+        0.23,
+        -130.75
+      ],
+      "inside": [
+        96.8,
+        0.28,
+        -133.75
+      ],
+      "floor_levels": [
+        0.23,
+        3.33,
+        6.43
+      ],
+      "floors": 3,
+      "style": "italian",
+      "height": 9.3,
+      "base": 0.15,
+      "stair_landings": [
+        [
+          102.025,
+          3.33,
+          -136.694
+        ],
+        [
+          102.025,
+          6.43,
+          -136.694
+        ]
+      ],
+      "access": "walk",
+      "region": "IT_Rome",
+      "bounds": {
+        "center": [
+          96.8,
+          4.8,
+          -137.1
+        ],
+        "size": [
+          12.4,
+          9.3,
+          9.7
+        ]
+      }
+    },
+    {
+      "id": "it_street_06",
+      "label": "罗马小餐馆",
+      "center": [
+        110.4,
+        4.8,
+        -137.1
+      ],
+      "size": [
+        12.4,
+        9.7,
+        9.3
+      ],
+      "front_angle": 0.0,
+      "entrance": [
+        110.4,
+        0.23,
+        -130.75
+      ],
+      "inside": [
+        110.4,
+        0.28,
+        -133.75
+      ],
+      "floor_levels": [
+        0.23,
+        3.33,
+        6.43
+      ],
+      "floors": 3,
+      "style": "italian",
+      "height": 9.3,
+      "base": 0.15,
+      "stair_landings": [
+        [
+          115.625,
+          3.33,
+          -136.694
+        ],
+        [
+          115.625,
+          6.43,
+          -136.694
+        ]
+      ],
+      "access": "walk",
+      "region": "IT_Rome",
+      "bounds": {
+        "center": [
+          110.4,
+          4.8,
+          -137.1
+        ],
+        "size": [
+          12.4,
+          9.3,
+          9.7
+        ]
+      }
+    },
+    {
+      "id": "it_street_07",
+      "label": "建筑档案馆",
+      "center": [
+        124.0,
+        6.35,
+        -137.1
+      ],
+      "size": [
+        12.4,
+        9.7,
+        12.4
+      ],
+      "front_angle": 0.0,
+      "entrance": [
+        124.0,
+        0.23,
+        -130.75
+      ],
+      "inside": [
+        124.0,
+        0.28,
+        -133.75
+      ],
+      "floor_levels": [
+        0.23,
+        3.33,
+        6.43,
+        9.53
+      ],
+      "floors": 4,
+      "style": "italian",
+      "height": 12.4,
+      "base": 0.15,
+      "stair_landings": [
+        [
+          129.225,
+          3.33,
+          -136.694
+        ],
+        [
+          129.225,
+          6.43,
+          -136.694
+        ],
+        [
+          129.225,
+          9.53,
+          -136.694
+        ]
+      ],
+      "access": "walk",
+      "region": "IT_Rome",
+      "bounds": {
+        "center": [
+          124.0,
+          6.35,
+          -137.1
+        ],
+        "size": [
+          12.4,
+          12.4,
+          9.7
+        ]
+      }
+    },
+    {
+      "id": "it_street_08",
+      "label": "特拉维丁石材展厅",
+      "center": [
+        137.6,
+        4.8,
+        -137.1
+      ],
+      "size": [
+        12.4,
+        9.7,
+        9.3
+      ],
+      "front_angle": 0.0,
+      "entrance": [
+        137.6,
+        0.23,
+        -130.75
+      ],
+      "inside": [
+        137.6,
+        0.28,
+        -133.75
+      ],
+      "floor_levels": [
+        0.23,
+        3.33,
+        6.43
+      ],
+      "floors": 3,
+      "style": "italian",
+      "height": 9.3,
+      "base": 0.15,
+      "stair_landings": [
+        [
+          142.825,
+          3.33,
+          -136.694
+        ],
+        [
+          142.825,
+          6.43,
+          -136.694
+        ]
+      ],
+      "access": "walk",
+      "region": "IT_Rome",
+      "bounds": {
+        "center": [
+          137.6,
+          4.8,
+          -137.1
+        ],
+        "size": [
+          12.4,
+          9.3,
+          9.7
+        ]
+      }
+    },
+    {
+      "id": "it_street_09",
+      "label": "意大利美术馆",
+      "center": [
+        34,
+        4.8,
+        -72
+      ],
+      "size": [
+        14.0,
+        10.5,
+        9.3
+      ],
+      "front_angle": 1.5707963267948966,
+      "entrance": [
+        40.75,
+        0.23,
+        -72.0
+      ],
+      "inside": [
+        37.75,
+        0.28,
+        -72.0
+      ],
+      "floor_levels": [
+        0.23,
+        3.33,
+        6.43
+      ],
+      "floors": 3,
+      "style": "italian",
+      "height": 9.3,
+      "base": 0.15,
+      "stair_landings": [
+        [
+          34.39,
+          3.33,
+          -78.025
+        ],
+        [
+          34.39,
+          6.43,
+          -78.025
+        ]
+      ],
+      "access": "walk",
+      "region": "IT_Rome",
+      "bounds": {
+        "center": [
+          34,
+          4.8,
+          -72
+        ],
+        "size": [
+          10.5,
+          9.3,
+          14.0
+        ]
+      }
+    },
+    {
+      "id": "it_street_10",
+      "label": "罗马阅读室",
+      "center": [
+        34,
+        6.35,
+        -92
+      ],
+      "size": [
+        14.0,
+        10.5,
+        12.4
+      ],
+      "front_angle": 1.5707963267948966,
+      "entrance": [
+        40.75,
+        0.23,
+        -92.0
+      ],
+      "inside": [
+        37.75,
+        0.28,
+        -92.0
+      ],
+      "floor_levels": [
+        0.23,
+        3.33,
+        6.43,
+        9.53
+      ],
+      "floors": 4,
+      "style": "italian",
+      "height": 12.4,
+      "base": 0.15,
+      "stair_landings": [
+        [
+          34.39,
+          3.33,
+          -98.025
+        ],
+        [
+          34.39,
+          6.43,
+          -98.025
+        ],
+        [
+          34.39,
+          9.53,
+          -98.025
+        ]
+      ],
+      "access": "walk",
+      "region": "IT_Rome",
+      "bounds": {
+        "center": [
+          34,
+          6.35,
+          -92
+        ],
+        "size": [
+          10.5,
+          12.4,
+          14.0
+        ]
+      }
+    },
+    {
+      "id": "it_street_11",
+      "label": "地中海旅馆",
+      "center": [
+        34,
+        4.8,
+        -113
+      ],
+      "size": [
+        14.0,
+        10.5,
+        9.3
+      ],
+      "front_angle": 1.5707963267948966,
+      "entrance": [
+        40.75,
+        0.23,
+        -113.0
+      ],
+      "inside": [
+        37.75,
+        0.28,
+        -113.0
+      ],
+      "floor_levels": [
+        0.23,
+        3.33,
+        6.43
+      ],
+      "floors": 3,
+      "style": "italian",
+      "height": 9.3,
+      "base": 0.15,
+      "stair_landings": [
+        [
+          34.39,
+          3.33,
+          -119.025
+        ],
+        [
+          34.39,
+          6.43,
+          -119.025
+        ]
+      ],
+      "access": "walk",
+      "region": "IT_Rome",
+      "bounds": {
+        "center": [
+          34,
+          4.8,
+          -113
+        ],
+        "size": [
+          10.5,
+          9.3,
+          14.0
+        ]
+      }
+    },
+    {
+      "id": "it_street_12",
+      "label": "意式烘焙屋",
+      "center": [
+        146,
+        6.35,
+        -72
+      ],
+      "size": [
+        14.0,
+        10.5,
+        12.4
+      ],
+      "front_angle": 4.71238898038469,
+      "entrance": [
+        139.25,
+        0.23,
+        -72.0
+      ],
+      "inside": [
+        142.25,
+        0.28,
+        -72.0
+      ],
+      "floor_levels": [
+        0.23,
+        3.33,
+        6.43,
+        9.53
+      ],
+      "floors": 4,
+      "style": "italian",
+      "height": 12.4,
+      "base": 0.15,
+      "stair_landings": [
+        [
+          145.61,
+          3.33,
+          -65.975
+        ],
+        [
+          145.61,
+          6.43,
+          -65.975
+        ],
+        [
+          145.61,
+          9.53,
+          -65.975
+        ]
+      ],
+      "access": "walk",
+      "region": "IT_Rome",
+      "bounds": {
+        "center": [
+          146,
+          6.35,
+          -72
+        ],
+        "size": [
+          10.500000000000002,
+          12.4,
+          14.000000000000002
+        ]
+      }
+    },
+    {
+      "id": "it_street_13",
+      "label": "古币陈列馆",
+      "center": [
+        146,
+        4.8,
+        -92
+      ],
+      "size": [
+        14.0,
+        10.5,
+        9.3
+      ],
+      "front_angle": 4.71238898038469,
+      "entrance": [
+        139.25,
+        0.23,
+        -92.0
+      ],
+      "inside": [
+        142.25,
+        0.28,
+        -92.0
+      ],
+      "floor_levels": [
+        0.23,
+        3.33,
+        6.43
+      ],
+      "floors": 3,
+      "style": "italian",
+      "height": 9.3,
+      "base": 0.15,
+      "stair_landings": [
+        [
+          145.61,
+          3.33,
+          -85.975
+        ],
+        [
+          145.61,
+          6.43,
+          -85.975
+        ]
+      ],
+      "access": "walk",
+      "region": "IT_Rome",
+      "bounds": {
+        "center": [
+          146,
+          4.8,
+          -92
+        ],
+        "size": [
+          10.500000000000002,
+          9.3,
+          14.000000000000002
+        ]
+      }
+    },
+    {
+      "id": "it_street_14",
+      "label": "罗马旅客会馆",
+      "center": [
+        146,
+        6.35,
+        -113
+      ],
+      "size": [
+        14.0,
+        10.5,
+        12.4
+      ],
+      "front_angle": 4.71238898038469,
+      "entrance": [
+        139.25,
+        0.23,
+        -113.0
+      ],
+      "inside": [
+        142.25,
+        0.28,
+        -113.0
+      ],
+      "floor_levels": [
+        0.23,
+        3.33,
+        6.43,
+        9.53
+      ],
+      "floors": 4,
+      "style": "italian",
+      "height": 12.4,
+      "base": 0.15,
+      "stair_landings": [
+        [
+          145.61,
+          3.33,
+          -106.975
+        ],
+        [
+          145.61,
+          6.43,
+          -106.975
+        ],
+        [
+          145.61,
+          9.53,
+          -106.975
+        ]
+      ],
+      "access": "walk",
+      "region": "IT_Rome",
+      "bounds": {
+        "center": [
+          146,
+          6.35,
+          -113
+        ],
+        "size": [
+          10.500000000000002,
+          12.4,
+          14.000000000000002
+        ]
+      }
+    },
+    {
+      "id": "CH_CHALET_01",
+      "label": "阿尔卑斯木屋 01",
+      "center": [
+        -129,
+        3.285,
+        121
+      ],
+      "size": [
+        10.6,
+        10.4,
+        6.53
+      ],
+      "front_angle": 0,
+      "entrance": [
+        -129.0,
+        0.1,
+        127.7
+      ],
+      "inside": [
+        -129.0,
+        0.15,
+        124.7
+      ],
+      "floor_levels": [
+        0.1,
+        3.365
+      ],
+      "floors": 2,
+      "style": "swiss",
+      "height": 6.53,
+      "base": 0.02,
+      "stair_landings": [
+        [
+          -124.675,
+          3.365,
+          121.392
+        ]
+      ],
+      "access": "walk",
+      "region": "CH_Alps",
+      "bounds": {
+        "center": [
+          -129,
+          3.285,
+          121
+        ],
+        "size": [
+          10.6,
+          6.53,
+          10.4
+        ]
+      }
+    },
+    {
+      "id": "CH_CHALET_02",
+      "label": "阿尔卑斯木屋 02",
+      "center": [
+        -109,
+        3.385,
+        123
+      ],
+      "size": [
+        11.8,
+        10.0,
+        6.73
+      ],
+      "front_angle": 0,
+      "entrance": [
+        -109.0,
+        0.1,
+        129.5
+      ],
+      "inside": [
+        -109.0,
+        0.15,
+        126.5
+      ],
+      "floor_levels": [
+        0.1,
+        3.465
+      ],
+      "floors": 2,
+      "style": "swiss",
+      "height": 6.73,
+      "base": 0.02,
+      "stair_landings": [
+        [
+          -104.075,
+          3.465,
+          123.4
+        ]
+      ],
+      "access": "walk",
+      "region": "CH_Alps",
+      "bounds": {
+        "center": [
+          -109,
+          3.385,
+          123
+        ],
+        "size": [
+          11.8,
+          6.73,
+          10.0
+        ]
+      }
+    },
+    {
+      "id": "CH_CHALET_03",
+      "label": "阿尔卑斯木屋 03",
+      "center": [
+        -72,
+        3.335,
+        122
+      ],
+      "size": [
+        12.0,
+        10.8,
+        6.630000000000001
+      ],
+      "front_angle": 0,
+      "entrance": [
+        -72.0,
+        0.1,
+        128.9
+      ],
+      "inside": [
+        -72.0,
+        0.15,
+        125.9
+      ],
+      "floor_levels": [
+        0.1,
+        3.415
+      ],
+      "floors": 2,
+      "style": "swiss",
+      "height": 6.630000000000001,
+      "base": 0.02,
+      "stair_landings": [
+        [
+          -66.975,
+          3.415,
+          122.384
+        ]
+      ],
+      "access": "walk",
+      "region": "CH_Alps",
+      "bounds": {
+        "center": [
+          -72,
+          3.335,
+          122
+        ],
+        "size": [
+          12.0,
+          6.630000000000001,
+          10.8
+        ]
+      }
+    },
+    {
+      "id": "CH_CHALET_04",
+      "label": "阿尔卑斯木屋 04",
+      "center": [
+        -51,
+        3.235,
+        120
+      ],
+      "size": [
+        10.0,
+        10.6,
+        6.430000000000001
+      ],
+      "front_angle": 0,
+      "entrance": [
+        -51.0,
+        0.1,
+        126.8
+      ],
+      "inside": [
+        -51.0,
+        0.15,
+        123.8
+      ],
+      "floor_levels": [
+        0.1,
+        3.315
+      ],
+      "floors": 2,
+      "style": "swiss",
+      "height": 6.430000000000001,
+      "base": 0.02,
+      "stair_landings": [
+        [
+          -46.975,
+          3.315,
+          120.388
+        ]
+      ],
+      "access": "walk",
+      "region": "CH_Alps",
+      "bounds": {
+        "center": [
+          -51,
+          3.235,
+          120
+        ],
+        "size": [
+          10.0,
+          6.430000000000001,
+          10.6
+        ]
+      }
+    },
+    {
+      "id": "CH_CHALET_05",
+      "label": "阿尔卑斯木屋 05",
+      "center": [
+        -123,
+        3.31,
+        92
+      ],
+      "size": [
+        10.8,
+        10.6,
+        6.58
+      ],
+      "front_angle": 0,
+      "entrance": [
+        -123.0,
+        0.1,
+        98.8
+      ],
+      "inside": [
+        -123.0,
+        0.15,
+        95.8
+      ],
+      "floor_levels": [
+        0.1,
+        3.39
+      ],
+      "floors": 2,
+      "style": "swiss",
+      "height": 6.58,
+      "base": 0.02,
+      "stair_landings": [
+        [
+          -118.575,
+          3.39,
+          92.388
+        ]
+      ],
+      "access": "walk",
+      "region": "CH_Alps",
+      "bounds": {
+        "center": [
+          -123,
+          3.31,
+          92
+        ],
+        "size": [
+          10.8,
+          6.58,
+          10.6
+        ]
+      }
+    },
+    {
+      "id": "CH_CHALET_06",
+      "label": "阿尔卑斯木屋 06",
+      "center": [
+        -106,
+        3.185,
+        90
+      ],
+      "size": [
+        10.2,
+        9.3,
+        6.33
+      ],
+      "front_angle": 0,
+      "entrance": [
+        -106.0,
+        0.1,
+        96.15
+      ],
+      "inside": [
+        -106.0,
+        0.15,
+        93.15
+      ],
+      "floor_levels": [
+        0.1,
+        3.265
+      ],
+      "floors": 2,
+      "style": "swiss",
+      "height": 6.33,
+      "base": 0.02,
+      "stair_landings": [
+        [
+          -101.875,
+          3.265,
+          90.414
+        ]
+      ],
+      "access": "walk",
+      "region": "CH_Alps",
+      "bounds": {
+        "center": [
+          -106,
+          3.185,
+          90
+        ],
+        "size": [
+          10.2,
+          6.33,
+          9.3
+        ]
+      }
+    },
+    {
+      "id": "CH_CHALET_07",
+      "label": "阿尔卑斯木屋 07",
+      "center": [
+        -73,
+        3.385,
+        90
+      ],
+      "size": [
+        11.6,
+        10.2,
+        6.73
+      ],
+      "front_angle": 0,
+      "entrance": [
+        -73.0,
+        0.1,
+        96.6
+      ],
+      "inside": [
+        -73.0,
+        0.15,
+        93.6
+      ],
+      "floor_levels": [
+        0.1,
+        3.465
+      ],
+      "floors": 2,
+      "style": "swiss",
+      "height": 6.73,
+      "base": 0.02,
+      "stair_landings": [
+        [
+          -68.175,
+          3.465,
+          90.396
+        ]
+      ],
+      "access": "walk",
+      "region": "CH_Alps",
+      "bounds": {
+        "center": [
+          -73,
+          3.385,
+          90
+        ],
+        "size": [
+          11.6,
+          6.73,
+          10.2
+        ]
+      }
+    },
+    {
+      "id": "CH_CHALET_08",
+      "label": "阿尔卑斯木屋 08",
+      "center": [
+        -53,
+        3.235,
+        82
+      ],
+      "size": [
+        9.6,
+        10.0,
+        6.430000000000001
+      ],
+      "front_angle": 0,
+      "entrance": [
+        -53.0,
+        0.1,
+        88.5
+      ],
+      "inside": [
+        -53.0,
+        0.15,
+        85.5
+      ],
+      "floor_levels": [
+        0.1,
+        3.315
+      ],
+      "floors": 2,
+      "style": "swiss",
+      "height": 6.430000000000001,
+      "base": 0.02,
+      "stair_landings": [
+        [
+          -49.175,
+          3.315,
+          82.4
+        ]
+      ],
+      "access": "walk",
+      "region": "CH_Alps",
+      "bounds": {
+        "center": [
+          -53,
+          3.235,
+          82
+        ],
+        "size": [
+          9.6,
+          6.430000000000001,
+          10.0
+        ]
+      }
+    },
+    {
+      "id": "CH_CHURCH",
+      "label": "山村教堂",
+      "center": [
+        -141,
+        3.73,
+        84
+      ],
+      "size": [
+        7.8,
+        13,
+        7.42
+      ],
+      "front_angle": 0,
+      "entrance": [
+        -141,
+        0.12,
+        94.4
+      ],
+      "inside": [
+        -141,
+        0.12,
+        87.6
+      ],
+      "floor_levels": [
+        0.1
+      ],
+      "floors": 1,
+      "style": "church",
+      "height": 7.42,
+      "base": 0.02,
+      "stair_landings": [],
+      "access": "walk",
+      "region": "CH_Alps",
+      "bounds": {
+        "center": [
+          -141,
+          3.73,
+          84
+        ],
+        "size": [
+          7.8,
+          7.42,
+          13.0
+        ]
+      }
+    },
+    {
+      "id": "CH_CHURCH_TOWER",
+      "label": "教堂钟楼观景室",
+      "center": [
+        -141,
+        12.105,
+        91.2
+      ],
+      "size": [
+        3.5,
+        3.5,
+        4.15
+      ],
+      "front_angle": 0,
+      "entrance": [
+        -141,
+        0.12,
+        82
+      ],
+      "inside": [
+        -141,
+        10.19,
+        91.2
+      ],
+      "floor_levels": [
+        10.11
+      ],
+      "floors": 1,
+      "style": "church",
+      "height": 4.15,
+      "base": 10.03,
+      "stair_landings": [],
+      "access": "lift",
+      "region": "CH_Alps",
+      "bounds": {
+        "center": [
+          -141,
+          12.105,
+          91.2
+        ],
+        "size": [
+          3.5,
+          4.15,
+          3.5
+        ]
+      }
+    },
+    {
+      "id": "DE_PALAS",
+      "label": "王宫主楼",
+      "center": [
+        75,
+        26.23,
+        71
+      ],
+      "size": [
+        35,
+        19,
+        28.0
+      ],
+      "front_angle": 1.5707963267948966,
+      "entrance": [
+        86.0,
+        12.31,
+        71
+      ],
+      "inside": [
+        83.0,
+        12.36,
+        71
+      ],
+      "floor_levels": [
+        12.31,
+        17.91,
+        23.51,
+        29.11,
+        34.71
+      ],
+      "floors": 5,
+      "style": "castle",
+      "height": 28.0,
+      "base": 12.23,
+      "stair_landings": [
+        [
+          78.55,
+          17.91,
+          87.525
+        ],
+        [
+          78.55,
+          23.51,
+          87.525
+        ],
+        [
+          78.55,
+          29.11,
+          87.525
+        ],
+        [
+          78.55,
+          34.71,
+          87.525
+        ]
+      ],
+      "access": "walk",
+      "region": "DE_Bavaria",
+      "bounds": {
+        "center": [
+          75,
+          26.23,
+          71
+        ],
+        "size": [
+          19.000000000000004,
+          28.0,
+          35.0
+        ]
+      }
+    },
+    {
+      "id": "DE_KNIGHTS",
+      "label": "骑士宫",
+      "center": [
+        109.7,
+        21.98,
+        78.0
+      ],
+      "size": [
+        29,
+        9.5,
+        19.5
+      ],
+      "front_angle": -1.5707963267948966,
+      "entrance": [
+        103.45,
+        12.31,
+        78.0
+      ],
+      "inside": [
+        106.45,
+        12.36,
+        78.0
+      ],
+      "floor_levels": [
+        12.31,
+        18.81,
+        25.31
+      ],
+      "floors": 3,
+      "style": "castle",
+      "height": 19.5,
+      "base": 12.23,
+      "stair_landings": [
+        [
+          109.29,
+          18.81,
+          91.525
+        ],
+        [
+          109.29,
+          25.31,
+          91.525
+        ]
+      ],
+      "access": "walk",
+      "region": "DE_Bavaria",
+      "bounds": {
+        "center": [
+          109.7,
+          21.98,
+          78.0
+        ],
+        "size": [
+          9.500000000000002,
+          19.5,
+          29.0
+        ]
+      }
+    },
+    {
+      "id": "DE_TOWER_NW",
+      "label": "西北圆塔观景室",
+      "center": [
+        66.7,
+        47.225,
+        56
+      ],
+      "size": [
+        5.095999999999999,
+        5.095999999999999,
+        3.65
+      ],
+      "front_angle": 0,
+      "entrance": [
+        92,
+        12.33,
+        65
+      ],
+      "inside": [
+        66.7,
+        45.52,
+        56
+      ],
+      "floor_levels": [
+        45.48
+      ],
+      "floors": 1,
+      "style": "castle",
+      "height": 3.65,
+      "base": 45.4,
+      "stair_landings": [],
+      "access": "lift",
+      "region": "DE_Bavaria",
+      "bounds": {
+        "center": [
+          66.7,
+          47.225,
+          56
+        ],
+        "size": [
+          5.095999999999999,
+          3.65,
+          5.095999999999999
+        ]
+      }
+    },
+    {
+      "id": "DE_TOWER_SW",
+      "label": "西南圆塔观景室",
+      "center": [
+        65.8,
+        46.325,
+        87.9
+      ],
+      "size": [
+        3.9759999999999995,
+        3.9759999999999995,
+        3.65
+      ],
+      "front_angle": 0,
+      "entrance": [
+        92,
+        12.33,
+        81
+      ],
+      "inside": [
+        65.8,
+        44.62,
+        87.9
+      ],
+      "floor_levels": [
+        44.58
+      ],
+      "floors": 1,
+      "style": "castle",
+      "height": 3.65,
+      "base": 44.5,
+      "stair_landings": [],
+      "access": "lift",
+      "region": "DE_Bavaria",
+      "bounds": {
+        "center": [
+          65.8,
+          46.325,
+          87.9
+        ],
+        "size": [
+          3.9759999999999995,
+          3.65,
+          3.9759999999999995
+        ]
+      }
+    },
+    {
+      "id": "DE_TOWER_NE",
+      "label": "王宫北圆塔观景室",
+      "center": [
+        84.0,
+        46.825,
+        56.0
+      ],
+      "size": [
+        3.6959999999999997,
+        3.6959999999999997,
+        3.65
+      ],
+      "front_angle": 0,
+      "entrance": [
+        96,
+        12.33,
+        62.5
+      ],
+      "inside": [
+        84.0,
+        45.12,
+        56.0
+      ],
+      "floor_levels": [
+        45.08
+      ],
+      "floors": 1,
+      "style": "castle",
+      "height": 3.65,
+      "base": 45.0,
+      "stair_landings": [],
+      "access": "lift",
+      "region": "DE_Bavaria",
+      "bounds": {
+        "center": [
+          84.0,
+          46.825,
+          56.0
+        ],
+        "size": [
+          3.6959999999999997,
+          3.65,
+          3.6959999999999997
+        ]
+      }
+    },
+    {
+      "id": "DE_TOWER_E",
+      "label": "骑士宫圆塔观景室",
+      "center": [
+        113.6,
+        43.825,
+        63.5
+      ],
+      "size": [
+        4.046,
+        4.046,
+        3.65
+      ],
+      "front_angle": 0,
+      "entrance": [
+        101,
+        12.33,
+        66
+      ],
+      "inside": [
+        113.6,
+        42.12,
+        63.5
+      ],
+      "floor_levels": [
+        42.08
+      ],
+      "floors": 1,
+      "style": "castle",
+      "height": 3.65,
+      "base": 42.0,
+      "stair_landings": [],
+      "access": "lift",
+      "region": "DE_Bavaria",
+      "bounds": {
+        "center": [
+          113.6,
+          43.825,
+          63.5
+        ],
+        "size": [
+          4.046,
+          3.65,
+          4.046
+        ]
+      }
+    },
+    {
+      "id": "DE_TOWER_S",
+      "label": "内院尖塔观景室",
+      "center": [
+        105.1,
+        37.625,
+        91.8
+      ],
+      "size": [
+        2.1559999999999997,
+        2.1559999999999997,
+        3.65
+      ],
+      "front_angle": 0,
+      "entrance": [
+        100,
+        12.33,
+        90
+      ],
+      "inside": [
+        105.1,
+        35.92,
+        92.28
+      ],
+      "floor_levels": [
+        35.88
+      ],
+      "floors": 1,
+      "style": "castle",
+      "height": 3.65,
+      "base": 35.8,
+      "stair_landings": [],
+      "access": "lift",
+      "region": "DE_Bavaria",
+      "bounds": {
+        "center": [
+          105.1,
+          37.625,
+          91.8
+        ],
+        "size": [
+          2.1559999999999997,
+          3.65,
+          2.1559999999999997
+        ]
+      }
+    },
+    {
+      "id": "DE_KEEP",
+      "label": "王宫方塔",
+      "center": [
+        75.6,
+        29.805,
+        92.8
+      ],
+      "size": [
+        9.4,
+        8.4,
+        35.15
+      ],
+      "front_angle": 0,
+      "entrance": [
+        75.6,
+        12.31,
+        98.5
+      ],
+      "inside": [
+        75.6,
+        12.36,
+        95.5
+      ],
+      "floor_levels": [
+        12.31,
+        18.16833,
+        24.02667,
+        29.885,
+        35.74333,
+        41.60167
+      ],
+      "floors": 6,
+      "style": "castle",
+      "height": 35.15,
+      "base": 12.23,
+      "stair_landings": [
+        [
+          79.325,
+          18.16833,
+          93.232
+        ],
+        [
+          79.325,
+          24.02667,
+          93.232
+        ],
+        [
+          79.325,
+          29.885,
+          93.232
+        ],
+        [
+          79.325,
+          35.74333,
+          93.232
+        ],
+        [
+          79.325,
+          41.60167,
+          93.232
+        ]
+      ],
+      "access": "walk",
+      "region": "DE_Bavaria",
+      "bounds": {
+        "center": [
+          75.6,
+          29.805,
+          92.8
+        ],
+        "size": [
+          9.4,
+          35.15,
+          8.4
+        ]
+      }
+    },
+    {
+      "id": "DE_GATE_W",
+      "label": "西门楼卫兵馆",
+      "center": [
+        89.25,
+        18.36,
+        106.35
+      ],
+      "size": [
+        8.9,
+        5.7,
+        12.28
+      ],
+      "front_angle": 3.141592653589793,
+      "entrance": [
+        89.25,
+        12.3,
+        102.0
+      ],
+      "inside": [
+        89.25,
+        12.35,
+        105.0
+      ],
+      "floor_levels": [
+        12.3,
+        16.39333,
+        20.48667
+      ],
+      "floors": 3,
+      "style": "castle",
+      "height": 12.28,
+      "base": 12.22,
+      "stair_landings": [],
+      "access": "walk",
+      "vertical_access": "lift",
+      "region": "DE_Bavaria",
+      "bounds": {
+        "center": [
+          89.25,
+          18.36,
+          106.35
+        ],
+        "size": [
+          8.9,
+          12.28,
+          5.700000000000001
+        ]
+      }
+    },
+    {
+      "id": "DE_GATE_E",
+      "label": "东门楼历史馆",
+      "center": [
+        107.25,
+        18.36,
+        106.35
+      ],
+      "size": [
+        9.9,
+        5.7,
+        12.28
+      ],
+      "front_angle": 3.141592653589793,
+      "entrance": [
+        107.25,
+        12.3,
+        102.0
+      ],
+      "inside": [
+        107.25,
+        12.35,
+        105.0
+      ],
+      "floor_levels": [
+        12.3,
+        16.39333,
+        20.48667
+      ],
+      "floors": 3,
+      "style": "castle",
+      "height": 12.28,
+      "base": 12.22,
+      "stair_landings": [],
+      "access": "walk",
+      "vertical_access": "lift",
+      "region": "DE_Bavaria",
+      "bounds": {
+        "center": [
+          107.25,
+          18.36,
+          106.35
+        ],
+        "size": [
+          9.9,
+          12.28,
+          5.700000000000001
+        ]
+      }
+    },
+    {
+      "id": "DE_GATE_LOFT",
+      "label": "门楼徽章陈列厅",
+      "center": [
+        98,
+        21.875,
+        106.35
+      ],
+      "size": [
+        7.5,
+        4.65,
+        4.75
+      ],
+      "front_angle": 0,
+      "entrance": [
+        98,
+        12.33,
+        100.8
+      ],
+      "inside": [
+        98,
+        19.62,
+        106.35
+      ],
+      "floor_levels": [
+        19.58
+      ],
+      "floors": 1,
+      "style": "castle",
+      "height": 4.75,
+      "base": 19.5,
+      "stair_landings": [],
+      "access": "lift",
+      "region": "DE_Bavaria",
+      "bounds": {
+        "center": [
+          98,
+          21.875,
+          106.35
+        ],
+        "size": [
+          7.5,
+          4.75,
+          4.65
+        ]
+      }
+    }
+  ],
+  "interactions": [
+    {
+      "id": "fr_tower_lift",
+      "label": "埃菲尔铁塔一层观景台",
+      "kind": "lift",
+      "region": "FR_Paris",
+      "position": [
+        -87.0,
+        0.18,
+        -73.0
+      ],
+      "target": [
+        -90.0,
+        18.55,
+        -82.7
+      ]
+    },
+    {
+      "id": "fr_tower_lift_return",
+      "label": "乘升降机返回铁塔广场",
+      "kind": "lift",
+      "region": "FR_Paris",
+      "position": [
+        -90.0,
+        18.55,
+        -82.7
+      ],
+      "target": [
+        -87.0,
+        0.18,
+        -73.0
+      ]
+    },
+    {
+      "id": "CH_BELL_LIFT",
+      "label": "登上教堂钟楼",
+      "kind": "lift",
+      "region": "CH_Alps",
+      "position": [
+        -141,
+        0.12,
+        82
+      ],
+      "target": [
+        -141,
+        10.19,
+        91.2
+      ]
+    },
+    {
+      "id": "CH_BELL_RETURN",
+      "label": "返回教堂中殿",
+      "kind": "lift",
+      "region": "CH_Alps",
+      "position": [
+        -141,
+        10.19,
+        91.2
+      ],
+      "target": [
+        -141,
+        0.12,
+        82
+      ]
+    },
+    {
+      "id": "DE_TOWER_NW_UP",
+      "label": "登上西北圆塔观景室",
+      "kind": "lift",
+      "region": "DE_Bavaria",
+      "position": [
+        92,
+        12.33,
+        65
+      ],
+      "target": [
+        66.7,
+        45.52,
+        56
+      ]
+    },
+    {
+      "id": "DE_TOWER_NW_DOWN",
+      "label": "返回城堡内院",
+      "kind": "lift",
+      "region": "DE_Bavaria",
+      "position": [
+        66.7,
+        45.52,
+        56
+      ],
+      "target": [
+        92,
+        12.33,
+        65
+      ]
+    },
+    {
+      "id": "DE_TOWER_SW_UP",
+      "label": "登上西南圆塔观景室",
+      "kind": "lift",
+      "region": "DE_Bavaria",
+      "position": [
+        92,
+        12.33,
+        81
+      ],
+      "target": [
+        65.8,
+        44.62,
+        87.9
+      ]
+    },
+    {
+      "id": "DE_TOWER_SW_DOWN",
+      "label": "返回城堡内院",
+      "kind": "lift",
+      "region": "DE_Bavaria",
+      "position": [
+        65.8,
+        44.62,
+        87.9
+      ],
+      "target": [
+        92,
+        12.33,
+        81
+      ]
+    },
+    {
+      "id": "DE_TOWER_NE_UP",
+      "label": "登上王宫北圆塔观景室",
+      "kind": "lift",
+      "region": "DE_Bavaria",
+      "position": [
+        96,
+        12.33,
+        62.5
+      ],
+      "target": [
+        84.0,
+        45.12,
+        56.0
+      ]
+    },
+    {
+      "id": "DE_TOWER_NE_DOWN",
+      "label": "返回城堡内院",
+      "kind": "lift",
+      "region": "DE_Bavaria",
+      "position": [
+        84.0,
+        45.12,
+        56.0
+      ],
+      "target": [
+        96,
+        12.33,
+        62.5
+      ]
+    },
+    {
+      "id": "DE_TOWER_E_UP",
+      "label": "登上骑士宫圆塔观景室",
+      "kind": "lift",
+      "region": "DE_Bavaria",
+      "position": [
+        101,
+        12.33,
+        66
+      ],
+      "target": [
+        113.6,
+        42.12,
+        63.5
+      ]
+    },
+    {
+      "id": "DE_TOWER_E_DOWN",
+      "label": "返回城堡内院",
+      "kind": "lift",
+      "region": "DE_Bavaria",
+      "position": [
+        113.6,
+        42.12,
+        63.5
+      ],
+      "target": [
+        101,
+        12.33,
+        66
+      ]
+    },
+    {
+      "id": "DE_TOWER_S_UP",
+      "label": "登上内院尖塔观景室",
+      "kind": "lift",
+      "region": "DE_Bavaria",
+      "position": [
+        100,
+        12.33,
+        90
+      ],
+      "target": [
+        105.1,
+        35.92,
+        92.28
+      ]
+    },
+    {
+      "id": "DE_TOWER_S_DOWN",
+      "label": "返回城堡内院",
+      "kind": "lift",
+      "region": "DE_Bavaria",
+      "position": [
+        105.1,
+        35.92,
+        92.28
+      ],
+      "target": [
+        100,
+        12.33,
+        90
+      ]
+    },
+    {
+      "id": "DE_GATE_W_up_0",
+      "label": "西门楼卫兵馆 · 上一层",
+      "kind": "lift",
+      "region": "DE_Bavaria",
+      "position": [
+        89.5,
+        12.35,
+        104.6
+      ],
+      "target": [
+        89.5,
+        16.44333,
+        104.6
+      ]
+    },
+    {
+      "id": "DE_GATE_W_down_0",
+      "label": "西门楼卫兵馆 · 下一层",
+      "kind": "lift",
+      "region": "DE_Bavaria",
+      "position": [
+        88.6,
+        16.44333,
+        105.3
+      ],
+      "target": [
+        88.6,
+        12.35,
+        105.3
+      ]
+    },
+    {
+      "id": "DE_GATE_W_up_1",
+      "label": "西门楼卫兵馆 · 上一层",
+      "kind": "lift",
+      "region": "DE_Bavaria",
+      "position": [
+        89.5,
+        16.44333,
+        104.6
+      ],
+      "target": [
+        89.5,
+        20.53667,
+        104.6
+      ]
+    },
+    {
+      "id": "DE_GATE_W_down_1",
+      "label": "西门楼卫兵馆 · 下一层",
+      "kind": "lift",
+      "region": "DE_Bavaria",
+      "position": [
+        88.6,
+        20.53667,
+        105.3
+      ],
+      "target": [
+        88.6,
+        16.44333,
+        105.3
+      ]
+    },
+    {
+      "id": "DE_GATE_E_up_0",
+      "label": "东门楼历史馆 · 上一层",
+      "kind": "lift",
+      "region": "DE_Bavaria",
+      "position": [
+        107.5,
+        12.35,
+        104.6
+      ],
+      "target": [
+        107.5,
+        16.44333,
+        104.6
+      ]
+    },
+    {
+      "id": "DE_GATE_E_down_0",
+      "label": "东门楼历史馆 · 下一层",
+      "kind": "lift",
+      "region": "DE_Bavaria",
+      "position": [
+        106.6,
+        16.44333,
+        105.3
+      ],
+      "target": [
+        106.6,
+        12.35,
+        105.3
+      ]
+    },
+    {
+      "id": "DE_GATE_E_up_1",
+      "label": "东门楼历史馆 · 上一层",
+      "kind": "lift",
+      "region": "DE_Bavaria",
+      "position": [
+        107.5,
+        16.44333,
+        104.6
+      ],
+      "target": [
+        107.5,
+        20.53667,
+        104.6
+      ]
+    },
+    {
+      "id": "DE_GATE_E_down_1",
+      "label": "东门楼历史馆 · 下一层",
+      "kind": "lift",
+      "region": "DE_Bavaria",
+      "position": [
+        106.6,
+        20.53667,
+        105.3
+      ],
+      "target": [
+        106.6,
+        16.44333,
+        105.3
+      ]
+    },
+    {
+      "id": "DE_GATE_LOFT_UP",
+      "label": "进入门楼陈列厅",
+      "kind": "lift",
+      "region": "DE_Bavaria",
+      "position": [
+        98,
+        12.33,
+        100.8
+      ],
+      "target": [
+        98,
+        19.62,
+        106.35
+      ]
+    },
+    {
+      "id": "DE_GATE_LOFT_DOWN",
+      "label": "返回内院",
+      "kind": "lift",
+      "region": "DE_Bavaria",
+      "position": [
+        98,
+        19.62,
+        106.35
+      ],
+      "target": [
+        98,
+        12.33,
+        100.8
+      ]
+    },
+    {
+      "id": "FR_Paris_station",
+      "kind": "station",
+      "label": "法国 · 巴黎 · 旅行车站",
+      "position": [
+        -86,
+        0.26,
+        -48
+      ],
+      "target": [
+        -90,
+        0.26,
+        -48
+      ],
+      "region": "FR_Paris"
+    },
+    {
+      "id": "IT_Rome_station",
+      "kind": "station",
+      "label": "意大利 · 罗马 · 旅行车站",
+      "position": [
+        94,
+        0.35,
+        -36
+      ],
+      "target": [
+        90,
+        0.35,
+        -36
+      ],
+      "region": "IT_Rome"
+    },
+    {
+      "id": "CH_Alps_station",
+      "kind": "station",
+      "label": "瑞士 · 阿尔卑斯 · 旅行车站",
+      "position": [
+        -86,
+        0.12,
+        136
+      ],
+      "target": [
+        -90,
+        0.12,
+        136
+      ],
+      "region": "CH_Alps"
+    },
+    {
+      "id": "DE_Bavaria_station",
+      "kind": "station",
+      "label": "德国 · 巴伐利亚 · 旅行车站",
+      "position": [
+        77,
+        0.15,
+        137
+      ],
+      "target": [
+        73,
+        0.15,
+        137
+      ],
+      "region": "DE_Bavaria"
+    }
+  ],
+  "landmarks": [
+    {
+      "id": "fr_eiffel",
+      "region": "FR_Paris",
+      "label": "埃菲尔铁塔",
+      "position": [
+        -90,
+        0.2,
+        -77
+      ],
+      "description": "沿着铁塔桁架探索巴黎，在观景台眺望城市。"
+    },
+    {
+      "id": "it_colosseum",
+      "region": "IT_Rome",
+      "label": "罗马斗兽场",
+      "position": [
+        90,
+        0.35,
+        -61
+      ],
+      "description": "穿过石拱进入竞技场，观察罗马建筑的层叠结构。"
+    },
+    {
+      "id": "ch_matterhorn",
+      "region": "CH_Alps",
+      "label": "阿尔卑斯山村",
+      "position": [
+        -90,
+        0.15,
+        77
+      ],
+      "description": "走进木屋，沿山脚观景路欣赏岩壁与雪峰。"
+    },
+    {
+      "id": "de_castle",
+      "region": "DE_Bavaria",
+      "label": "巴伐利亚城堡",
+      "position": [
+        98,
+        12.5,
+        102
+      ],
+      "description": "进入庭院、宫殿和塔楼，收集德国旅行印章。"
+    }
+  ],
+  "lights": [
+    {
+      "building": "fr_haussmann_01",
+      "position": [
+        -145.0,
+        2.44,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_01",
+      "position": [
+        -150.8,
+        2.44,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_01",
+      "position": [
+        -139.2,
+        2.44,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_01",
+      "position": [
+        -145.0,
+        5.84,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_01",
+      "position": [
+        -150.8,
+        5.84,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_01",
+      "position": [
+        -139.2,
+        5.84,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_01",
+      "position": [
+        -145.0,
+        9.24,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_01",
+      "position": [
+        -150.8,
+        9.24,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_01",
+      "position": [
+        -139.2,
+        9.24,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_01",
+      "position": [
+        -145.0,
+        12.64,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_01",
+      "position": [
+        -150.8,
+        12.64,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_01",
+      "position": [
+        -139.2,
+        12.64,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_02",
+      "position": [
+        -122.0,
+        2.44,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_02",
+      "position": [
+        -127.8,
+        2.44,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_02",
+      "position": [
+        -116.2,
+        2.44,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_02",
+      "position": [
+        -122.0,
+        5.84,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_02",
+      "position": [
+        -127.8,
+        5.84,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_02",
+      "position": [
+        -116.2,
+        5.84,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_02",
+      "position": [
+        -122.0,
+        9.24,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_02",
+      "position": [
+        -127.8,
+        9.24,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_02",
+      "position": [
+        -116.2,
+        9.24,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_02",
+      "position": [
+        -122.0,
+        12.64,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_02",
+      "position": [
+        -127.8,
+        12.64,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_02",
+      "position": [
+        -116.2,
+        12.64,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_03",
+      "position": [
+        -99.0,
+        2.44,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_03",
+      "position": [
+        -104.8,
+        2.44,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_03",
+      "position": [
+        -93.2,
+        2.44,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_03",
+      "position": [
+        -99.0,
+        5.84,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_03",
+      "position": [
+        -104.8,
+        5.84,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_03",
+      "position": [
+        -93.2,
+        5.84,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_03",
+      "position": [
+        -99.0,
+        9.24,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_03",
+      "position": [
+        -104.8,
+        9.24,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_03",
+      "position": [
+        -93.2,
+        9.24,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_03",
+      "position": [
+        -99.0,
+        12.64,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_03",
+      "position": [
+        -104.8,
+        12.64,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_03",
+      "position": [
+        -93.2,
+        12.64,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_04",
+      "position": [
+        -75.0,
+        2.44,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_04",
+      "position": [
+        -81.38,
+        2.44,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_04",
+      "position": [
+        -68.62,
+        2.44,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_04",
+      "position": [
+        -75.0,
+        5.84,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_04",
+      "position": [
+        -81.38,
+        5.84,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_04",
+      "position": [
+        -68.62,
+        5.84,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_04",
+      "position": [
+        -75.0,
+        9.24,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_04",
+      "position": [
+        -81.38,
+        9.24,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_04",
+      "position": [
+        -68.62,
+        9.24,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_04",
+      "position": [
+        -75.0,
+        12.64,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_04",
+      "position": [
+        -81.38,
+        12.64,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_04",
+      "position": [
+        -68.62,
+        12.64,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_05",
+      "position": [
+        -49.0,
+        2.44,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_05",
+      "position": [
+        -55.09,
+        2.44,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_05",
+      "position": [
+        -42.91,
+        2.44,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_05",
+      "position": [
+        -49.0,
+        5.84,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_05",
+      "position": [
+        -55.09,
+        5.84,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_05",
+      "position": [
+        -42.91,
+        5.84,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_05",
+      "position": [
+        -49.0,
+        9.24,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_05",
+      "position": [
+        -55.09,
+        9.24,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_05",
+      "position": [
+        -42.91,
+        9.24,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_05",
+      "position": [
+        -49.0,
+        12.64,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_05",
+      "position": [
+        -55.09,
+        12.64,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_05",
+      "position": [
+        -42.91,
+        12.64,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "fr_haussmann_06",
+      "position": [
+        -29.0,
+        2.44,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.75
+    },
+    {
+      "building": "fr_haussmann_06",
+      "position": [
+        -33.35,
+        2.44,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.75
+    },
+    {
+      "building": "fr_haussmann_06",
+      "position": [
+        -24.65,
+        2.44,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.75
+    },
+    {
+      "building": "fr_haussmann_06",
+      "position": [
+        -29.0,
+        5.84,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.75
+    },
+    {
+      "building": "fr_haussmann_06",
+      "position": [
+        -33.35,
+        5.84,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.75
+    },
+    {
+      "building": "fr_haussmann_06",
+      "position": [
+        -24.65,
+        5.84,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.75
+    },
+    {
+      "building": "fr_haussmann_06",
+      "position": [
+        -29.0,
+        9.24,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.75
+    },
+    {
+      "building": "fr_haussmann_06",
+      "position": [
+        -33.35,
+        9.24,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.75
+    },
+    {
+      "building": "fr_haussmann_06",
+      "position": [
+        -24.65,
+        9.24,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.75
+    },
+    {
+      "building": "fr_haussmann_06",
+      "position": [
+        -29.0,
+        12.64,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.75
+    },
+    {
+      "building": "fr_haussmann_06",
+      "position": [
+        -33.35,
+        12.64,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.75
+    },
+    {
+      "building": "fr_haussmann_06",
+      "position": [
+        -24.65,
+        12.64,
+        -136.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.75
+    },
+    {
+      "building": "it_street_01",
+      "position": [
+        42.4,
+        2.41,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_01",
+      "position": [
+        38.804,
+        2.41,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_01",
+      "position": [
+        45.996,
+        2.41,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_01",
+      "position": [
+        42.4,
+        5.51,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_01",
+      "position": [
+        38.804,
+        5.51,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_01",
+      "position": [
+        45.996,
+        5.51,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_01",
+      "position": [
+        42.4,
+        8.61,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_01",
+      "position": [
+        38.804,
+        8.61,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_01",
+      "position": [
+        45.996,
+        8.61,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_01",
+      "position": [
+        42.4,
+        11.71,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_01",
+      "position": [
+        38.804,
+        11.71,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_01",
+      "position": [
+        45.996,
+        11.71,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_02",
+      "position": [
+        56.0,
+        2.41,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_02",
+      "position": [
+        52.404,
+        2.41,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_02",
+      "position": [
+        59.596,
+        2.41,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_02",
+      "position": [
+        56.0,
+        5.51,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_02",
+      "position": [
+        52.404,
+        5.51,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_02",
+      "position": [
+        59.596,
+        5.51,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_02",
+      "position": [
+        56.0,
+        8.61,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_02",
+      "position": [
+        52.404,
+        8.61,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_02",
+      "position": [
+        59.596,
+        8.61,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_03",
+      "position": [
+        69.6,
+        2.41,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_03",
+      "position": [
+        66.004,
+        2.41,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_03",
+      "position": [
+        73.196,
+        2.41,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_03",
+      "position": [
+        69.6,
+        5.51,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_03",
+      "position": [
+        66.004,
+        5.51,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_03",
+      "position": [
+        73.196,
+        5.51,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_03",
+      "position": [
+        69.6,
+        8.61,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_03",
+      "position": [
+        66.004,
+        8.61,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_03",
+      "position": [
+        73.196,
+        8.61,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_04",
+      "position": [
+        83.2,
+        2.41,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_04",
+      "position": [
+        79.604,
+        2.41,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_04",
+      "position": [
+        86.796,
+        2.41,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_04",
+      "position": [
+        83.2,
+        5.51,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_04",
+      "position": [
+        79.604,
+        5.51,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_04",
+      "position": [
+        86.796,
+        5.51,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_04",
+      "position": [
+        83.2,
+        8.61,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_04",
+      "position": [
+        79.604,
+        8.61,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_04",
+      "position": [
+        86.796,
+        8.61,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_04",
+      "position": [
+        83.2,
+        11.71,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_04",
+      "position": [
+        79.604,
+        11.71,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_04",
+      "position": [
+        86.796,
+        11.71,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_05",
+      "position": [
+        96.8,
+        2.41,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_05",
+      "position": [
+        93.204,
+        2.41,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_05",
+      "position": [
+        100.396,
+        2.41,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_05",
+      "position": [
+        96.8,
+        5.51,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_05",
+      "position": [
+        93.204,
+        5.51,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_05",
+      "position": [
+        100.396,
+        5.51,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_05",
+      "position": [
+        96.8,
+        8.61,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_05",
+      "position": [
+        93.204,
+        8.61,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_05",
+      "position": [
+        100.396,
+        8.61,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_06",
+      "position": [
+        110.4,
+        2.41,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_06",
+      "position": [
+        106.804,
+        2.41,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_06",
+      "position": [
+        113.996,
+        2.41,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_06",
+      "position": [
+        110.4,
+        5.51,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_06",
+      "position": [
+        106.804,
+        5.51,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_06",
+      "position": [
+        113.996,
+        5.51,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_06",
+      "position": [
+        110.4,
+        8.61,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_06",
+      "position": [
+        106.804,
+        8.61,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_06",
+      "position": [
+        113.996,
+        8.61,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_07",
+      "position": [
+        124.0,
+        2.41,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_07",
+      "position": [
+        120.404,
+        2.41,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_07",
+      "position": [
+        127.596,
+        2.41,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_07",
+      "position": [
+        124.0,
+        5.51,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_07",
+      "position": [
+        120.404,
+        5.51,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_07",
+      "position": [
+        127.596,
+        5.51,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_07",
+      "position": [
+        124.0,
+        8.61,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_07",
+      "position": [
+        120.404,
+        8.61,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_07",
+      "position": [
+        127.596,
+        8.61,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_07",
+      "position": [
+        124.0,
+        11.71,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_07",
+      "position": [
+        120.404,
+        11.71,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_07",
+      "position": [
+        127.596,
+        11.71,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_08",
+      "position": [
+        137.6,
+        2.41,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_08",
+      "position": [
+        134.004,
+        2.41,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_08",
+      "position": [
+        141.196,
+        2.41,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_08",
+      "position": [
+        137.6,
+        5.51,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_08",
+      "position": [
+        134.004,
+        5.51,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_08",
+      "position": [
+        141.196,
+        5.51,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_08",
+      "position": [
+        137.6,
+        8.61,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_08",
+      "position": [
+        134.004,
+        8.61,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_08",
+      "position": [
+        141.196,
+        8.61,
+        -137.1
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 8.06
+    },
+    {
+      "building": "it_street_09",
+      "position": [
+        34.0,
+        2.41,
+        -72.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_09",
+      "position": [
+        34.0,
+        2.41,
+        -67.94
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_09",
+      "position": [
+        34.0,
+        2.41,
+        -76.06
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_09",
+      "position": [
+        34.0,
+        5.51,
+        -72.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_09",
+      "position": [
+        34.0,
+        5.51,
+        -67.94
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_09",
+      "position": [
+        34.0,
+        5.51,
+        -76.06
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_09",
+      "position": [
+        34.0,
+        8.61,
+        -72.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_09",
+      "position": [
+        34.0,
+        8.61,
+        -67.94
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_09",
+      "position": [
+        34.0,
+        8.61,
+        -76.06
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_10",
+      "position": [
+        34.0,
+        2.41,
+        -92.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_10",
+      "position": [
+        34.0,
+        2.41,
+        -87.94
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_10",
+      "position": [
+        34.0,
+        2.41,
+        -96.06
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_10",
+      "position": [
+        34.0,
+        5.51,
+        -92.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_10",
+      "position": [
+        34.0,
+        5.51,
+        -87.94
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_10",
+      "position": [
+        34.0,
+        5.51,
+        -96.06
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_10",
+      "position": [
+        34.0,
+        8.61,
+        -92.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_10",
+      "position": [
+        34.0,
+        8.61,
+        -87.94
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_10",
+      "position": [
+        34.0,
+        8.61,
+        -96.06
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_10",
+      "position": [
+        34.0,
+        11.71,
+        -92.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_10",
+      "position": [
+        34.0,
+        11.71,
+        -87.94
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_10",
+      "position": [
+        34.0,
+        11.71,
+        -96.06
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_11",
+      "position": [
+        34.0,
+        2.41,
+        -113.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_11",
+      "position": [
+        34.0,
+        2.41,
+        -108.94
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_11",
+      "position": [
+        34.0,
+        2.41,
+        -117.06
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_11",
+      "position": [
+        34.0,
+        5.51,
+        -113.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_11",
+      "position": [
+        34.0,
+        5.51,
+        -108.94
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_11",
+      "position": [
+        34.0,
+        5.51,
+        -117.06
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_11",
+      "position": [
+        34.0,
+        8.61,
+        -113.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_11",
+      "position": [
+        34.0,
+        8.61,
+        -108.94
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_11",
+      "position": [
+        34.0,
+        8.61,
+        -117.06
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_12",
+      "position": [
+        146.0,
+        2.41,
+        -72.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_12",
+      "position": [
+        146.0,
+        2.41,
+        -76.06
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_12",
+      "position": [
+        146.0,
+        2.41,
+        -67.94
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_12",
+      "position": [
+        146.0,
+        5.51,
+        -72.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_12",
+      "position": [
+        146.0,
+        5.51,
+        -76.06
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_12",
+      "position": [
+        146.0,
+        5.51,
+        -67.94
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_12",
+      "position": [
+        146.0,
+        8.61,
+        -72.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_12",
+      "position": [
+        146.0,
+        8.61,
+        -76.06
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_12",
+      "position": [
+        146.0,
+        8.61,
+        -67.94
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_12",
+      "position": [
+        146.0,
+        11.71,
+        -72.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_12",
+      "position": [
+        146.0,
+        11.71,
+        -76.06
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_12",
+      "position": [
+        146.0,
+        11.71,
+        -67.94
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_13",
+      "position": [
+        146.0,
+        2.41,
+        -92.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_13",
+      "position": [
+        146.0,
+        2.41,
+        -96.06
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_13",
+      "position": [
+        146.0,
+        2.41,
+        -87.94
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_13",
+      "position": [
+        146.0,
+        5.51,
+        -92.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_13",
+      "position": [
+        146.0,
+        5.51,
+        -96.06
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_13",
+      "position": [
+        146.0,
+        5.51,
+        -87.94
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_13",
+      "position": [
+        146.0,
+        8.61,
+        -92.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_13",
+      "position": [
+        146.0,
+        8.61,
+        -96.06
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_13",
+      "position": [
+        146.0,
+        8.61,
+        -87.94
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_14",
+      "position": [
+        146.0,
+        2.41,
+        -113.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_14",
+      "position": [
+        146.0,
+        2.41,
+        -117.06
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_14",
+      "position": [
+        146.0,
+        2.41,
+        -108.94
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_14",
+      "position": [
+        146.0,
+        5.51,
+        -113.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_14",
+      "position": [
+        146.0,
+        5.51,
+        -117.06
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_14",
+      "position": [
+        146.0,
+        5.51,
+        -108.94
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_14",
+      "position": [
+        146.0,
+        8.61,
+        -113.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_14",
+      "position": [
+        146.0,
+        8.61,
+        -117.06
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_14",
+      "position": [
+        146.0,
+        8.61,
+        -108.94
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_14",
+      "position": [
+        146.0,
+        11.71,
+        -113.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_14",
+      "position": [
+        146.0,
+        11.71,
+        -117.06
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "it_street_14",
+      "position": [
+        146.0,
+        11.71,
+        -108.94
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 9.1
+    },
+    {
+      "building": "CH_CHALET_01",
+      "position": [
+        -129.0,
+        2.28,
+        121.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 6.89
+    },
+    {
+      "building": "CH_CHALET_01",
+      "position": [
+        -132.074,
+        2.28,
+        121.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 6.89
+    },
+    {
+      "building": "CH_CHALET_01",
+      "position": [
+        -125.926,
+        2.28,
+        121.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 6.89
+    },
+    {
+      "building": "CH_CHALET_01",
+      "position": [
+        -129.0,
+        5.545,
+        121.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 6.89
+    },
+    {
+      "building": "CH_CHALET_01",
+      "position": [
+        -132.074,
+        5.545,
+        121.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 6.89
+    },
+    {
+      "building": "CH_CHALET_01",
+      "position": [
+        -125.926,
+        5.545,
+        121.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 6.89
+    },
+    {
+      "building": "CH_CHALET_02",
+      "position": [
+        -109.0,
+        2.28,
+        123.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 7.670000000000001
+    },
+    {
+      "building": "CH_CHALET_02",
+      "position": [
+        -112.422,
+        2.28,
+        123.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 7.670000000000001
+    },
+    {
+      "building": "CH_CHALET_02",
+      "position": [
+        -105.578,
+        2.28,
+        123.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 7.670000000000001
+    },
+    {
+      "building": "CH_CHALET_02",
+      "position": [
+        -109.0,
+        5.645,
+        123.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 7.670000000000001
+    },
+    {
+      "building": "CH_CHALET_02",
+      "position": [
+        -112.422,
+        5.645,
+        123.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 7.670000000000001
+    },
+    {
+      "building": "CH_CHALET_02",
+      "position": [
+        -105.578,
+        5.645,
+        123.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 7.670000000000001
+    },
+    {
+      "building": "CH_CHALET_03",
+      "position": [
+        -72.0,
+        2.28,
+        122.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 7.800000000000001
+    },
+    {
+      "building": "CH_CHALET_03",
+      "position": [
+        -75.48,
+        2.28,
+        122.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 7.800000000000001
+    },
+    {
+      "building": "CH_CHALET_03",
+      "position": [
+        -68.52,
+        2.28,
+        122.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 7.800000000000001
+    },
+    {
+      "building": "CH_CHALET_03",
+      "position": [
+        -72.0,
+        5.595,
+        122.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 7.800000000000001
+    },
+    {
+      "building": "CH_CHALET_03",
+      "position": [
+        -75.48,
+        5.595,
+        122.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 7.800000000000001
+    },
+    {
+      "building": "CH_CHALET_03",
+      "position": [
+        -68.52,
+        5.595,
+        122.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 7.800000000000001
+    },
+    {
+      "building": "CH_CHALET_04",
+      "position": [
+        -51.0,
+        2.28,
+        120.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 6.5
+    },
+    {
+      "building": "CH_CHALET_04",
+      "position": [
+        -51.0,
+        5.495,
+        120.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 6.5
+    },
+    {
+      "building": "CH_CHALET_05",
+      "position": [
+        -123.0,
+        2.28,
+        92.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 7.0200000000000005
+    },
+    {
+      "building": "CH_CHALET_05",
+      "position": [
+        -126.132,
+        2.28,
+        92.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 7.0200000000000005
+    },
+    {
+      "building": "CH_CHALET_05",
+      "position": [
+        -119.868,
+        2.28,
+        92.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 7.0200000000000005
+    },
+    {
+      "building": "CH_CHALET_05",
+      "position": [
+        -123.0,
+        5.57,
+        92.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 7.0200000000000005
+    },
+    {
+      "building": "CH_CHALET_05",
+      "position": [
+        -126.132,
+        5.57,
+        92.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 7.0200000000000005
+    },
+    {
+      "building": "CH_CHALET_05",
+      "position": [
+        -119.868,
+        5.57,
+        92.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 7.0200000000000005
+    },
+    {
+      "building": "CH_CHALET_06",
+      "position": [
+        -106.0,
+        2.28,
+        90.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 6.63
+    },
+    {
+      "building": "CH_CHALET_06",
+      "position": [
+        -106.0,
+        5.445,
+        90.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 6.63
+    },
+    {
+      "building": "CH_CHALET_07",
+      "position": [
+        -73.0,
+        2.28,
+        90.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 7.54
+    },
+    {
+      "building": "CH_CHALET_07",
+      "position": [
+        -76.364,
+        2.28,
+        90.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 7.54
+    },
+    {
+      "building": "CH_CHALET_07",
+      "position": [
+        -69.636,
+        2.28,
+        90.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 7.54
+    },
+    {
+      "building": "CH_CHALET_07",
+      "position": [
+        -73.0,
+        5.645,
+        90.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 7.54
+    },
+    {
+      "building": "CH_CHALET_07",
+      "position": [
+        -76.364,
+        5.645,
+        90.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 7.54
+    },
+    {
+      "building": "CH_CHALET_07",
+      "position": [
+        -69.636,
+        5.645,
+        90.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 7.54
+    },
+    {
+      "building": "CH_CHALET_08",
+      "position": [
+        -53.0,
+        2.28,
+        82.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 6.24
+    },
+    {
+      "building": "CH_CHALET_08",
+      "position": [
+        -53.0,
+        5.495,
+        82.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 6.24
+    },
+    {
+      "building": "CH_CHURCH",
+      "position": [
+        -141.0,
+        2.28,
+        84.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 5.07
+    },
+    {
+      "building": "CH_CHURCH_TOWER",
+      "position": [
+        -141.0,
+        12.29,
+        91.2
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 5
+    },
+    {
+      "building": "DE_PALAS",
+      "position": [
+        75.0,
+        14.49,
+        71.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "DE_PALAS",
+      "position": [
+        75.0,
+        14.49,
+        60.85
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "DE_PALAS",
+      "position": [
+        75.0,
+        14.49,
+        81.15
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "DE_PALAS",
+      "position": [
+        75.0,
+        20.09,
+        71.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "DE_PALAS",
+      "position": [
+        75.0,
+        20.09,
+        60.85
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "DE_PALAS",
+      "position": [
+        75.0,
+        20.09,
+        81.15
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "DE_PALAS",
+      "position": [
+        75.0,
+        25.69,
+        71.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "DE_PALAS",
+      "position": [
+        75.0,
+        25.69,
+        60.85
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "DE_PALAS",
+      "position": [
+        75.0,
+        25.69,
+        81.15
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "DE_PALAS",
+      "position": [
+        75.0,
+        31.29,
+        71.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "DE_PALAS",
+      "position": [
+        75.0,
+        31.29,
+        60.85
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "DE_PALAS",
+      "position": [
+        75.0,
+        31.29,
+        81.15
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "DE_PALAS",
+      "position": [
+        75.0,
+        36.89,
+        71.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "DE_PALAS",
+      "position": [
+        75.0,
+        36.89,
+        60.85
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "DE_PALAS",
+      "position": [
+        75.0,
+        36.89,
+        81.15
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "DE_KNIGHTS",
+      "position": [
+        109.7,
+        14.49,
+        78.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "DE_KNIGHTS",
+      "position": [
+        109.7,
+        14.49,
+        69.59
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "DE_KNIGHTS",
+      "position": [
+        109.7,
+        14.49,
+        86.41
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "DE_KNIGHTS",
+      "position": [
+        109.7,
+        20.99,
+        78.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "DE_KNIGHTS",
+      "position": [
+        109.7,
+        20.99,
+        69.59
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "DE_KNIGHTS",
+      "position": [
+        109.7,
+        20.99,
+        86.41
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "DE_KNIGHTS",
+      "position": [
+        109.7,
+        27.49,
+        78.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "DE_KNIGHTS",
+      "position": [
+        109.7,
+        27.49,
+        69.59
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "DE_KNIGHTS",
+      "position": [
+        109.7,
+        27.49,
+        86.41
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 10
+    },
+    {
+      "building": "DE_TOWER_NW",
+      "position": [
+        66.7,
+        47.66,
+        56.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 5
+    },
+    {
+      "building": "DE_TOWER_SW",
+      "position": [
+        65.8,
+        46.76,
+        87.9
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 5
+    },
+    {
+      "building": "DE_TOWER_NE",
+      "position": [
+        84.0,
+        47.26,
+        56.0
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 5
+    },
+    {
+      "building": "DE_TOWER_E",
+      "position": [
+        113.6,
+        44.26,
+        63.5
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 5
+    },
+    {
+      "building": "DE_TOWER_S",
+      "position": [
+        105.1,
+        38.06,
+        91.8
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 5
+    },
+    {
+      "building": "DE_KEEP",
+      "position": [
+        75.6,
+        14.49,
+        92.8
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 6.11
+    },
+    {
+      "building": "DE_KEEP",
+      "position": [
+        75.6,
+        20.34833,
+        92.8
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 6.11
+    },
+    {
+      "building": "DE_KEEP",
+      "position": [
+        75.6,
+        26.20667,
+        92.8
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 6.11
+    },
+    {
+      "building": "DE_KEEP",
+      "position": [
+        75.6,
+        32.065,
+        92.8
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 6.11
+    },
+    {
+      "building": "DE_KEEP",
+      "position": [
+        75.6,
+        37.92333,
+        92.8
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 6.11
+    },
+    {
+      "building": "DE_KEEP",
+      "position": [
+        75.6,
+        43.78167,
+        92.8
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 6.11
+    },
+    {
+      "building": "DE_GATE_W",
+      "position": [
+        89.25,
+        14.48,
+        106.35
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 5.785
+    },
+    {
+      "building": "DE_GATE_W",
+      "position": [
+        89.25,
+        18.57333,
+        106.35
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 5.785
+    },
+    {
+      "building": "DE_GATE_W",
+      "position": [
+        89.25,
+        22.66667,
+        106.35
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 5.785
+    },
+    {
+      "building": "DE_GATE_E",
+      "position": [
+        107.25,
+        14.48,
+        106.35
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 6.4350000000000005
+    },
+    {
+      "building": "DE_GATE_E",
+      "position": [
+        107.25,
+        18.57333,
+        106.35
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 6.4350000000000005
+    },
+    {
+      "building": "DE_GATE_E",
+      "position": [
+        107.25,
+        22.66667,
+        106.35
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 6.4350000000000005
+    },
+    {
+      "building": "DE_GATE_LOFT",
+      "position": [
+        98.0,
+        21.76,
+        106.35
+      ],
+      "color": [
+        1,
+        0.89,
+        0.76
+      ],
+      "energy": 1.7,
+      "range": 5
+    }
+  ],
+  "spawn": [
+    -90,
+    0.26,
+    -47
+  ],
+  "world_model": "res://assets/models/connected_world.glb",
+  "world_collision": "res://assets/models/connected_world_collision.glb"
+}

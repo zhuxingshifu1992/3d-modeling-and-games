@@ -1,0 +1,846 @@
+{
+  "Diffuse": {
+    "8k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/rock_boulder_cracked/rock_boulder_cracked_diff_8k.jpg",
+        "size": 48279252,
+        "md5": "14850207b1c8a3668ff24b277bfcc22d"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/rock_boulder_cracked/rock_boulder_cracked_diff_8k.png",
+        "size": 352383799,
+        "md5": "3ece7b031ecd25e7da580993ccee1603"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/rock_boulder_cracked/rock_boulder_cracked_diff_8k.exr",
+        "size": 64802658,
+        "md5": "a89f732b7a83bf30b7e73b0e65135c7f"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/rock_boulder_cracked/rock_boulder_cracked_diff_4k.jpg",
+        "size": 15067334,
+        "md5": "d3c84525c8766208ec469880f0904084"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/rock_boulder_cracked/rock_boulder_cracked_diff_4k.png",
+        "size": 90582888,
+        "md5": "11dd49892c366739f2f672eb4d6cf681"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/rock_boulder_cracked/rock_boulder_cracked_diff_4k.exr",
+        "size": 22073925,
+        "md5": "604e073dfdf3ac5fca63ecb9bc4c26e1"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rock_boulder_cracked/rock_boulder_cracked_diff_2k.jpg",
+        "size": 3962095,
+        "md5": "91b7d0b3d18b1d7b7705cd493149c969"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/rock_boulder_cracked/rock_boulder_cracked_diff_2k.png",
+        "size": 22871553,
+        "md5": "fdde61ecf8ee3327e8c3077a19983e71"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/rock_boulder_cracked/rock_boulder_cracked_diff_2k.exr",
+        "size": 6644292,
+        "md5": "751d8665ba58ab7a854bad4b7c1e7892"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_boulder_cracked/rock_boulder_cracked_diff_1k.jpg",
+        "size": 998110,
+        "md5": "2eee29ef1257ce79569e4be0b76cd1ad"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/rock_boulder_cracked/rock_boulder_cracked_diff_1k.png",
+        "size": 5722876,
+        "md5": "b65ec45130efb231cd169f1802de05f7"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/rock_boulder_cracked/rock_boulder_cracked_diff_1k.exr",
+        "size": 1788490,
+        "md5": "1299bf214be092a48a424dfc69571b3a"
+      }
+    }
+  },
+  "nor_dx": {
+    "8k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/rock_boulder_cracked/rock_boulder_cracked_nor_dx_8k.jpg",
+        "size": 71561576,
+        "md5": "c5c45d238282e63dfd252538ccf92265"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/rock_boulder_cracked/rock_boulder_cracked_nor_dx_8k.png",
+        "size": 241215603,
+        "md5": "b7214b564725723167dc5509bc1a8b51"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/rock_boulder_cracked/rock_boulder_cracked_nor_dx_8k.exr",
+        "size": 145535516,
+        "md5": "840e64004e077c4e5551d59745cafa4b"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/rock_boulder_cracked/rock_boulder_cracked_nor_dx_4k.jpg",
+        "size": 17080888,
+        "md5": "59ee45f9719cfdf4ec8327d765146131"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/rock_boulder_cracked/rock_boulder_cracked_nor_dx_4k.png",
+        "size": 88595965,
+        "md5": "1c7998d64818a5f71f83b4983b32a5ff"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/rock_boulder_cracked/rock_boulder_cracked_nor_dx_4k.exr",
+        "size": 35562314,
+        "md5": "20a9faaddf04d50c4f7726451cabdf33"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rock_boulder_cracked/rock_boulder_cracked_nor_dx_2k.jpg",
+        "size": 4142440,
+        "md5": "5f9d305a1fa6daf77fe78cb6a81d3b16"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/rock_boulder_cracked/rock_boulder_cracked_nor_dx_2k.png",
+        "size": 22855607,
+        "md5": "da04835b6d81a971766b8ae664e4ba70"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/rock_boulder_cracked/rock_boulder_cracked_nor_dx_2k.exr",
+        "size": 8655840,
+        "md5": "4cc5a6345b476d5b1f82d93c65b0a4b8"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_boulder_cracked/rock_boulder_cracked_nor_dx_1k.jpg",
+        "size": 1080227,
+        "md5": "13de704429c09ace60f926c137a45835"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/rock_boulder_cracked/rock_boulder_cracked_nor_dx_1k.png",
+        "size": 5750079,
+        "md5": "ed165d0298d89dd3be9c2e93da3964c0"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/rock_boulder_cracked/rock_boulder_cracked_nor_dx_1k.exr",
+        "size": 2243159,
+        "md5": "cdf938542ae57f3dfa2bca239178ccb7"
+      }
+    }
+  },
+  "blend": {
+    "8k": {
+      "blend": {
+        "include": {
+          "textures/rock_boulder_cracked_rough_8k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/rock_boulder_cracked/rock_boulder_cracked_rough_8k.exr",
+            "size": 19204877,
+            "md5": "314df288c6bc2b4d166a38ee8490392a"
+          },
+          "textures/rock_boulder_cracked_disp_8k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/rock_boulder_cracked/rock_boulder_cracked_disp_8k.png",
+            "size": 63617536,
+            "md5": "097f3fb690909212591c4d06ab33b9f2"
+          },
+          "textures/rock_boulder_cracked_diff_8k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/rock_boulder_cracked/rock_boulder_cracked_diff_8k.jpg",
+            "size": 48279252,
+            "md5": "14850207b1c8a3668ff24b277bfcc22d"
+          },
+          "textures/rock_boulder_cracked_nor_gl_8k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/rock_boulder_cracked/rock_boulder_cracked_nor_gl_8k.exr",
+            "size": 145246023,
+            "md5": "a6bae00d9a3402f4459f6afeca832881"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/8k/rock_boulder_cracked/rock_boulder_cracked_8k.blend",
+        "size": 225741,
+        "md5": "1820707875c12b0da19c9ba819d689ce"
+      }
+    },
+    "4k": {
+      "blend": {
+        "include": {
+          "textures/rock_boulder_cracked_rough_4k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/rock_boulder_cracked/rock_boulder_cracked_rough_4k.exr",
+            "size": 6381574,
+            "md5": "cdfe53ee8d74940e32c76ec1dc084511"
+          },
+          "textures/rock_boulder_cracked_diff_4k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/rock_boulder_cracked/rock_boulder_cracked_diff_4k.jpg",
+            "size": 15067334,
+            "md5": "d3c84525c8766208ec469880f0904084"
+          },
+          "textures/rock_boulder_cracked_nor_gl_4k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/rock_boulder_cracked/rock_boulder_cracked_nor_gl_4k.exr",
+            "size": 35486724,
+            "md5": "9055772dc732ba0e3f014fa09d7d7335"
+          },
+          "textures/rock_boulder_cracked_disp_4k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/rock_boulder_cracked/rock_boulder_cracked_disp_4k.png",
+            "size": 20019708,
+            "md5": "41fb73d15d90038638c5cd6f32c03351"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/4k/rock_boulder_cracked/rock_boulder_cracked_4k.blend",
+        "size": 226113,
+        "md5": "441e2d9524153451de066636746bc668"
+      }
+    },
+    "2k": {
+      "blend": {
+        "include": {
+          "textures/rock_boulder_cracked_disp_2k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/rock_boulder_cracked/rock_boulder_cracked_disp_2k.png",
+            "size": 5691525,
+            "md5": "0c3c829a32f13eb6051a020536ad65d6"
+          },
+          "textures/rock_boulder_cracked_rough_2k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/rock_boulder_cracked/rock_boulder_cracked_rough_2k.exr",
+            "size": 1667383,
+            "md5": "d508cc8b60891e58b417a883bf5e65ad"
+          },
+          "textures/rock_boulder_cracked_nor_gl_2k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/rock_boulder_cracked/rock_boulder_cracked_nor_gl_2k.exr",
+            "size": 8635346,
+            "md5": "8c8e79ac5c4b63dafafd7dfc3a3f5f61"
+          },
+          "textures/rock_boulder_cracked_diff_2k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rock_boulder_cracked/rock_boulder_cracked_diff_2k.jpg",
+            "size": 3962095,
+            "md5": "91b7d0b3d18b1d7b7705cd493149c969"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/2k/rock_boulder_cracked/rock_boulder_cracked_2k.blend",
+        "size": 225884,
+        "md5": "a701556995c1badcab4f047172809b69"
+      }
+    },
+    "1k": {
+      "blend": {
+        "include": {
+          "textures/rock_boulder_cracked_diff_1k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_boulder_cracked/rock_boulder_cracked_diff_1k.jpg",
+            "size": 998110,
+            "md5": "2eee29ef1257ce79569e4be0b76cd1ad"
+          },
+          "textures/rock_boulder_cracked_nor_gl_1k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/rock_boulder_cracked/rock_boulder_cracked_nor_gl_1k.exr",
+            "size": 2238811,
+            "md5": "3a3947dd08f5f8bb8f8ca939255f7698"
+          },
+          "textures/rock_boulder_cracked_rough_1k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/rock_boulder_cracked/rock_boulder_cracked_rough_1k.exr",
+            "size": 364284,
+            "md5": "b9a8db2a9706f13b4c06cd4b8bd7242e"
+          },
+          "textures/rock_boulder_cracked_disp_1k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/rock_boulder_cracked/rock_boulder_cracked_disp_1k.png",
+            "size": 1538981,
+            "md5": "7752eea08d56e3c8a5d3f5300b56996f"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/1k/rock_boulder_cracked/rock_boulder_cracked_1k.blend",
+        "size": 225864,
+        "md5": "b19aa23bdcca1e6f6c6082fe6defa99c"
+      }
+    }
+  },
+  "gltf": {
+    "8k": {
+      "gltf": {
+        "include": {
+          "textures/rock_boulder_cracked_rough_8k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/rock_boulder_cracked/rock_boulder_cracked_rough_8k.jpg",
+            "size": 20006900,
+            "md5": "f60bea9d4bf0c87c23f45c8e2326bbf8"
+          },
+          "textures/rock_boulder_cracked_diff_8k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/rock_boulder_cracked/rock_boulder_cracked_diff_8k.jpg",
+            "size": 48279252,
+            "md5": "14850207b1c8a3668ff24b277bfcc22d"
+          },
+          "rock_boulder_cracked.bin": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/rock_boulder_cracked/rock_boulder_cracked.bin",
+            "size": 2369908,
+            "md5": "b47a62e98d537cfd053c03513a6622ef"
+          },
+          "textures/rock_boulder_cracked_nor_gl_8k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/rock_boulder_cracked/rock_boulder_cracked_nor_gl_8k.jpg",
+            "size": 71574515,
+            "md5": "bb6c55b76e8ac2cf554a0d082d37b5ea"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/rock_boulder_cracked/rock_boulder_cracked_8k.gltf",
+        "size": 2764,
+        "md5": "81ea5e81e8b9ca7d5aa2dc58a356123f"
+      }
+    },
+    "4k": {
+      "gltf": {
+        "include": {
+          "textures/rock_boulder_cracked_rough_4k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/rock_boulder_cracked/rock_boulder_cracked_rough_4k.jpg",
+            "size": 6583310,
+            "md5": "517ae8ce7b8c07e1d624d8689c80d077"
+          },
+          "textures/rock_boulder_cracked_diff_4k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/rock_boulder_cracked/rock_boulder_cracked_diff_4k.jpg",
+            "size": 15067334,
+            "md5": "d3c84525c8766208ec469880f0904084"
+          },
+          "textures/rock_boulder_cracked_nor_gl_4k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/rock_boulder_cracked/rock_boulder_cracked_nor_gl_4k.jpg",
+            "size": 17094508,
+            "md5": "9a8eacb2c2e1ae79960bd91f312f8d8b"
+          },
+          "rock_boulder_cracked.bin": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/rock_boulder_cracked/rock_boulder_cracked.bin",
+            "size": 2369908,
+            "md5": "b47a62e98d537cfd053c03513a6622ef"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/4k/rock_boulder_cracked/rock_boulder_cracked_4k.gltf",
+        "size": 2764,
+        "md5": "f6fb90e7ba661f28334a81fd140e7dfc"
+      }
+    },
+    "2k": {
+      "gltf": {
+        "include": {
+          "textures/rock_boulder_cracked_rough_2k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rock_boulder_cracked/rock_boulder_cracked_rough_2k.jpg",
+            "size": 1680734,
+            "md5": "750c41770beb04180ee936a45c15aecf"
+          },
+          "textures/rock_boulder_cracked_diff_2k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rock_boulder_cracked/rock_boulder_cracked_diff_2k.jpg",
+            "size": 3962095,
+            "md5": "91b7d0b3d18b1d7b7705cd493149c969"
+          },
+          "textures/rock_boulder_cracked_nor_gl_2k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rock_boulder_cracked/rock_boulder_cracked_nor_gl_2k.jpg",
+            "size": 4144084,
+            "md5": "978143a19ebc1a6acea5c4c52e954b9b"
+          },
+          "rock_boulder_cracked.bin": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/rock_boulder_cracked/rock_boulder_cracked.bin",
+            "size": 2369908,
+            "md5": "b47a62e98d537cfd053c03513a6622ef"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/2k/rock_boulder_cracked/rock_boulder_cracked_2k.gltf",
+        "size": 2764,
+        "md5": "2254262a10fca6c69c159b768bdfe3b1"
+      }
+    },
+    "1k": {
+      "gltf": {
+        "include": {
+          "textures/rock_boulder_cracked_nor_gl_1k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_boulder_cracked/rock_boulder_cracked_nor_gl_1k.jpg",
+            "size": 1079683,
+            "md5": "1185717651f6fa2db0face12425d0a74"
+          },
+          "textures/rock_boulder_cracked_diff_1k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_boulder_cracked/rock_boulder_cracked_diff_1k.jpg",
+            "size": 998110,
+            "md5": "2eee29ef1257ce79569e4be0b76cd1ad"
+          },
+          "rock_boulder_cracked.bin": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/rock_boulder_cracked/rock_boulder_cracked.bin",
+            "size": 2369908,
+            "md5": "b47a62e98d537cfd053c03513a6622ef"
+          },
+          "textures/rock_boulder_cracked_rough_1k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_boulder_cracked/rock_boulder_cracked_rough_1k.jpg",
+            "size": 379850,
+            "md5": "8610432e3011c02abb70433f050cf651"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/1k/rock_boulder_cracked/rock_boulder_cracked_1k.gltf",
+        "size": 2764,
+        "md5": "44e0dd73e35925afd11d4fac2a528150"
+      }
+    }
+  },
+  "Rough": {
+    "8k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/rock_boulder_cracked/rock_boulder_cracked_rough_8k.jpg",
+        "size": 20006900,
+        "md5": "f60bea9d4bf0c87c23f45c8e2326bbf8"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/rock_boulder_cracked/rock_boulder_cracked_rough_8k.png",
+        "size": 159561407,
+        "md5": "a146689566ab66b359de8115f1f3d157"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/rock_boulder_cracked/rock_boulder_cracked_rough_8k.exr",
+        "size": 19204877,
+        "md5": "314df288c6bc2b4d166a38ee8490392a"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/rock_boulder_cracked/rock_boulder_cracked_rough_4k.jpg",
+        "size": 6583310,
+        "md5": "517ae8ce7b8c07e1d624d8689c80d077"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/rock_boulder_cracked/rock_boulder_cracked_rough_4k.png",
+        "size": 37608867,
+        "md5": "93f09e01d5b9d264d856b6e156584adb"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/rock_boulder_cracked/rock_boulder_cracked_rough_4k.exr",
+        "size": 6381574,
+        "md5": "cdfe53ee8d74940e32c76ec1dc084511"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rock_boulder_cracked/rock_boulder_cracked_rough_2k.jpg",
+        "size": 1680734,
+        "md5": "750c41770beb04180ee936a45c15aecf"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/rock_boulder_cracked/rock_boulder_cracked_rough_2k.png",
+        "size": 9428568,
+        "md5": "03ade5a48fa848ae422bbf6dfb5c649b"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/rock_boulder_cracked/rock_boulder_cracked_rough_2k.exr",
+        "size": 1667383,
+        "md5": "d508cc8b60891e58b417a883bf5e65ad"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_boulder_cracked/rock_boulder_cracked_rough_1k.jpg",
+        "size": 379850,
+        "md5": "8610432e3011c02abb70433f050cf651"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/rock_boulder_cracked/rock_boulder_cracked_rough_1k.png",
+        "size": 2317875,
+        "md5": "3726cd6f3d11eaeb9b0665d515013ea6"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/rock_boulder_cracked/rock_boulder_cracked_rough_1k.exr",
+        "size": 364284,
+        "md5": "b9a8db2a9706f13b4c06cd4b8bd7242e"
+      }
+    }
+  },
+  "Displacement": {
+    "8k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/rock_boulder_cracked/rock_boulder_cracked_disp_8k.jpg",
+        "size": 5389912,
+        "md5": "a827b3d3bd395de26b3b5400d4bfc7df"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/rock_boulder_cracked/rock_boulder_cracked_disp_8k.png",
+        "size": 63617536,
+        "md5": "097f3fb690909212591c4d06ab33b9f2"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/rock_boulder_cracked/rock_boulder_cracked_disp_8k.exr",
+        "size": 26978899,
+        "md5": "c5435244a31d7c1b86a2bf49010564db"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/rock_boulder_cracked/rock_boulder_cracked_disp_4k.jpg",
+        "size": 1883364,
+        "md5": "53687e0fca193c3af658808dfe278e11"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/rock_boulder_cracked/rock_boulder_cracked_disp_4k.png",
+        "size": 20019708,
+        "md5": "41fb73d15d90038638c5cd6f32c03351"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/rock_boulder_cracked/rock_boulder_cracked_disp_4k.exr",
+        "size": 8097397,
+        "md5": "738dc5937f9a80cf06e6645c211647b6"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rock_boulder_cracked/rock_boulder_cracked_disp_2k.jpg",
+        "size": 640333,
+        "md5": "77f538457b86a5f02ebe8214be5a54c4"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/rock_boulder_cracked/rock_boulder_cracked_disp_2k.png",
+        "size": 5691525,
+        "md5": "0c3c829a32f13eb6051a020536ad65d6"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/rock_boulder_cracked/rock_boulder_cracked_disp_2k.exr",
+        "size": 2559779,
+        "md5": "f1c92d40f9d39ab503c7412132627dea"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_boulder_cracked/rock_boulder_cracked_disp_1k.jpg",
+        "size": 213877,
+        "md5": "72ffeb8afc2bcac39a2c55678827607e"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/rock_boulder_cracked/rock_boulder_cracked_disp_1k.png",
+        "size": 1538981,
+        "md5": "7752eea08d56e3c8a5d3f5300b56996f"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/rock_boulder_cracked/rock_boulder_cracked_disp_1k.exr",
+        "size": 819736,
+        "md5": "1460c414f61b9fe581842dc6ebb487f6"
+      }
+    }
+  },
+  "AO": {
+    "8k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/rock_boulder_cracked/rock_boulder_cracked_ao_8k.jpg",
+        "size": 35251499,
+        "md5": "d3b0b7b882796cbd8c6bedd713cbc7d6"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/rock_boulder_cracked/rock_boulder_cracked_ao_8k.png",
+        "size": 94671184,
+        "md5": "61a636d17b5a9d02c9d0a5af7a1ba04f"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/rock_boulder_cracked/rock_boulder_cracked_ao_8k.exr",
+        "size": 65386903,
+        "md5": "03e41dbe824c538783a1f3be19912e09"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/rock_boulder_cracked/rock_boulder_cracked_ao_4k.jpg",
+        "size": 8369879,
+        "md5": "980221e616d92344c9283718247b5518"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/rock_boulder_cracked/rock_boulder_cracked_ao_4k.png",
+        "size": 26603520,
+        "md5": "1fb8a57addc688312f40a74c0ec6938a"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/rock_boulder_cracked/rock_boulder_cracked_ao_4k.exr",
+        "size": 15978592,
+        "md5": "8f5376b28d3a884219b4f542620d4655"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rock_boulder_cracked/rock_boulder_cracked_ao_2k.jpg",
+        "size": 1929334,
+        "md5": "6325c4a6aba60a24a95743b7a0f5ed36"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/rock_boulder_cracked/rock_boulder_cracked_ao_2k.png",
+        "size": 7021523,
+        "md5": "f1acf29254db830c947a73a046c57858"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/rock_boulder_cracked/rock_boulder_cracked_ao_2k.exr",
+        "size": 3838212,
+        "md5": "1356cf450f5315ad602a5e44083582c2"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_boulder_cracked/rock_boulder_cracked_ao_1k.jpg",
+        "size": 489666,
+        "md5": "563628671719e29b92190e8431eeaa16"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/rock_boulder_cracked/rock_boulder_cracked_ao_1k.png",
+        "size": 1758383,
+        "md5": "e83a2ce734d372f0aa59468117025e67"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/rock_boulder_cracked/rock_boulder_cracked_ao_1k.exr",
+        "size": 974703,
+        "md5": "1f3c03ba4b55677401dda16aa8830e17"
+      }
+    }
+  },
+  "nor_gl": {
+    "8k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/rock_boulder_cracked/rock_boulder_cracked_nor_gl_8k.jpg",
+        "size": 71574515,
+        "md5": "bb6c55b76e8ac2cf554a0d082d37b5ea"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/rock_boulder_cracked/rock_boulder_cracked_nor_gl_8k.png",
+        "size": 200931997,
+        "md5": "bc057443495cf2504a3a10b89959d99d"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/rock_boulder_cracked/rock_boulder_cracked_nor_gl_8k.exr",
+        "size": 145246023,
+        "md5": "a6bae00d9a3402f4459f6afeca832881"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/rock_boulder_cracked/rock_boulder_cracked_nor_gl_4k.jpg",
+        "size": 17094508,
+        "md5": "9a8eacb2c2e1ae79960bd91f312f8d8b"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/rock_boulder_cracked/rock_boulder_cracked_nor_gl_4k.png",
+        "size": 88489880,
+        "md5": "575398fec8874569aa66ccba1354d510"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/rock_boulder_cracked/rock_boulder_cracked_nor_gl_4k.exr",
+        "size": 35486724,
+        "md5": "9055772dc732ba0e3f014fa09d7d7335"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rock_boulder_cracked/rock_boulder_cracked_nor_gl_2k.jpg",
+        "size": 4144084,
+        "md5": "978143a19ebc1a6acea5c4c52e954b9b"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/rock_boulder_cracked/rock_boulder_cracked_nor_gl_2k.png",
+        "size": 22853083,
+        "md5": "39681886fbb02dd7a897f72f56aa2092"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/rock_boulder_cracked/rock_boulder_cracked_nor_gl_2k.exr",
+        "size": 8635346,
+        "md5": "8c8e79ac5c4b63dafafd7dfc3a3f5f61"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_boulder_cracked/rock_boulder_cracked_nor_gl_1k.jpg",
+        "size": 1079683,
+        "md5": "1185717651f6fa2db0face12425d0a74"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/rock_boulder_cracked/rock_boulder_cracked_nor_gl_1k.png",
+        "size": 5749477,
+        "md5": "8ddf1a01f71313061f83ff71be61ecc5"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/rock_boulder_cracked/rock_boulder_cracked_nor_gl_1k.exr",
+        "size": 2238811,
+        "md5": "3a3947dd08f5f8bb8f8ca939255f7698"
+      }
+    }
+  },
+  "arm": {
+    "8k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/rock_boulder_cracked/rock_boulder_cracked_arm_8k.jpg",
+        "size": 33725544,
+        "md5": "2a1dd31427e67839ab4e4bd960a124e6"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/rock_boulder_cracked/rock_boulder_cracked_arm_8k.png",
+        "size": 229630222,
+        "md5": "3bff203b5720e8f3d4814a6026131fe0"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/rock_boulder_cracked/rock_boulder_cracked_arm_8k.exr",
+        "size": 55588347,
+        "md5": "8b6b611567c7cb5070a47504788db0d3"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/rock_boulder_cracked/rock_boulder_cracked_arm_4k.jpg",
+        "size": 8494697,
+        "md5": "18b6853fb633e2834fe1c5e9ec646498"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/rock_boulder_cracked/rock_boulder_cracked_arm_4k.png",
+        "size": 62896138,
+        "md5": "fceb546e58106439235e0e560759507a"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/rock_boulder_cracked/rock_boulder_cracked_arm_4k.exr",
+        "size": 15291997,
+        "md5": "ee9c7bcf9a27b4e0a220a622e83a2fa0"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rock_boulder_cracked/rock_boulder_cracked_arm_2k.jpg",
+        "size": 2027858,
+        "md5": "5d45570c35652255441c2d5760c329f6"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/rock_boulder_cracked/rock_boulder_cracked_arm_2k.png",
+        "size": 16170540,
+        "md5": "c65d0a6eb0e31b11d84a2dcc713152b8"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/rock_boulder_cracked/rock_boulder_cracked_arm_2k.exr",
+        "size": 3544562,
+        "md5": "9cacc20fdfece540c80cbcf14dd130b3"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_boulder_cracked/rock_boulder_cracked_arm_1k.jpg",
+        "size": 497135,
+        "md5": "1df2fc6b4e792f7101831e7f87f920c8"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/rock_boulder_cracked/rock_boulder_cracked_arm_1k.png",
+        "size": 4004488,
+        "md5": "a873c3c5a470423e9180dbda154c6e40"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/rock_boulder_cracked/rock_boulder_cracked_arm_1k.exr",
+        "size": 806668,
+        "md5": "c401c65fd88ebb8782bfa6809d74e031"
+      }
+    }
+  },
+  "mtlx": {
+    "8k": {
+      "mtlx": {
+        "include": {
+          "textures/rock_boulder_cracked_rough_8k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/rock_boulder_cracked/rock_boulder_cracked_rough_8k.exr",
+            "size": 19204877,
+            "md5": "314df288c6bc2b4d166a38ee8490392a"
+          },
+          "textures/rock_boulder_cracked_disp_8k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/rock_boulder_cracked/rock_boulder_cracked_disp_8k.png",
+            "size": 63617536,
+            "md5": "097f3fb690909212591c4d06ab33b9f2"
+          },
+          "textures/rock_boulder_cracked_diff_8k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/rock_boulder_cracked/rock_boulder_cracked_diff_8k.jpg",
+            "size": 48279252,
+            "md5": "14850207b1c8a3668ff24b277bfcc22d"
+          },
+          "textures/rock_boulder_cracked_nor_gl_8k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/rock_boulder_cracked/rock_boulder_cracked_nor_gl_8k.exr",
+            "size": 145246023,
+            "md5": "a6bae00d9a3402f4459f6afeca832881"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/mtlx/8k/rock_boulder_cracked/rock_boulder_cracked_8k.mtlx",
+        "size": 4807,
+        "md5": "da9ea417186b64b71f1cbfba1e1300d5"
+      }
+    },
+    "4k": {
+      "mtlx": {
+        "include": {
+          "textures/rock_boulder_cracked_rough_4k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/rock_boulder_cracked/rock_boulder_cracked_rough_4k.exr",
+            "size": 6381574,
+            "md5": "cdfe53ee8d74940e32c76ec1dc084511"
+          },
+          "textures/rock_boulder_cracked_diff_4k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/rock_boulder_cracked/rock_boulder_cracked_diff_4k.jpg",
+            "size": 15067334,
+            "md5": "d3c84525c8766208ec469880f0904084"
+          },
+          "textures/rock_boulder_cracked_nor_gl_4k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/rock_boulder_cracked/rock_boulder_cracked_nor_gl_4k.exr",
+            "size": 35486724,
+            "md5": "9055772dc732ba0e3f014fa09d7d7335"
+          },
+          "textures/rock_boulder_cracked_disp_4k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/rock_boulder_cracked/rock_boulder_cracked_disp_4k.png",
+            "size": 20019708,
+            "md5": "41fb73d15d90038638c5cd6f32c03351"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/mtlx/4k/rock_boulder_cracked/rock_boulder_cracked_4k.mtlx",
+        "size": 4807,
+        "md5": "d194346aeacb49271e431c09a0467449"
+      }
+    },
+    "2k": {
+      "mtlx": {
+        "include": {
+          "textures/rock_boulder_cracked_disp_2k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/rock_boulder_cracked/rock_boulder_cracked_disp_2k.png",
+            "size": 5691525,
+            "md5": "0c3c829a32f13eb6051a020536ad65d6"
+          },
+          "textures/rock_boulder_cracked_rough_2k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/rock_boulder_cracked/rock_boulder_cracked_rough_2k.exr",
+            "size": 1667383,
+            "md5": "d508cc8b60891e58b417a883bf5e65ad"
+          },
+          "textures/rock_boulder_cracked_nor_gl_2k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/rock_boulder_cracked/rock_boulder_cracked_nor_gl_2k.exr",
+            "size": 8635346,
+            "md5": "8c8e79ac5c4b63dafafd7dfc3a3f5f61"
+          },
+          "textures/rock_boulder_cracked_diff_2k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rock_boulder_cracked/rock_boulder_cracked_diff_2k.jpg",
+            "size": 3962095,
+            "md5": "91b7d0b3d18b1d7b7705cd493149c969"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/mtlx/2k/rock_boulder_cracked/rock_boulder_cracked_2k.mtlx",
+        "size": 4807,
+        "md5": "cf7c68621845b2ffcaaf7379812fd1da"
+      }
+    },
+    "1k": {
+      "mtlx": {
+        "include": {
+          "textures/rock_boulder_cracked_diff_1k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_boulder_cracked/rock_boulder_cracked_diff_1k.jpg",
+            "size": 998110,
+            "md5": "2eee29ef1257ce79569e4be0b76cd1ad"
+          },
+          "textures/rock_boulder_cracked_nor_gl_1k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/rock_boulder_cracked/rock_boulder_cracked_nor_gl_1k.exr",
+            "size": 2238811,
+            "md5": "3a3947dd08f5f8bb8f8ca939255f7698"
+          },
+          "textures/rock_boulder_cracked_rough_1k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/rock_boulder_cracked/rock_boulder_cracked_rough_1k.exr",
+            "size": 364284,
+            "md5": "b9a8db2a9706f13b4c06cd4b8bd7242e"
+          },
+          "textures/rock_boulder_cracked_disp_1k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/rock_boulder_cracked/rock_boulder_cracked_disp_1k.png",
+            "size": 1538981,
+            "md5": "7752eea08d56e3c8a5d3f5300b56996f"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/mtlx/1k/rock_boulder_cracked/rock_boulder_cracked_1k.mtlx",
+        "size": 4807,
+        "md5": "2752efd391e30be2042b2fc58ab83635"
+      }
+    }
+  }
+}

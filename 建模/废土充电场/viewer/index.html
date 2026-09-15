@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta name="description" content="废土充电场三维模型的本地交互查看器。">
+  <title>废土充电场 · 三维查看</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="./viewer.css">
+  <script type="importmap">
+  {
+    "imports": {
+      "three": "./vendor/three-r170/build/three.module.js",
+      "three/addons/": "./vendor/three-r170/examples/jsm/"
+    }
+  }
+  </script>
+</head>
+<body>
+  <main id="viewport" aria-label="废土充电场三维模型，可拖动旋转、平移和缩放"></main>
+  <header class="project-label">
+    <span class="project-mark" aria-hidden="true"></span>
+    <div>
+      <p class="eyebrow">三维场景</p>
+      <h1>废土充电场</h1>
+      <p class="subtitle">最后一度电</p>
+    </div>
+  </header>
+
+  <nav class="view-selector" aria-label="选择观察视角">
+    <button type="button" data-view="overview" aria-pressed="true" disabled>总览</button>
+    <button type="button" data-view="entrance" aria-pressed="false" disabled>入口</button>
+    <button type="button" data-view="charging" aria-pressed="false" disabled>充电区</button>
+    <button type="button" data-view="trucks" aria-pressed="false" disabled>工程车</button>
+  </nav>
+
+  <footer class="interaction-help">
+    <p class="desktop-help">拖动旋转<span>·</span>右键平移<span>·</span>滚轮缩放</p>
+    <p class="touch-help">单指旋转<span>·</span>双指平移与缩放</p>
+    <p id="scene-status" role="status">正在读取模型</p>
+  </footer>
+
+  <section id="loading-panel" class="loading-panel" aria-live="polite" aria-busy="true">
+    <span class="loading-symbol" aria-hidden="true"></span>
+    <h2 id="loading-title">正在打开场地</h2>
+    <p id="loading-message">读取本地三维模型…</p>
+    <div id="loading-track" class="loading-track"><div id="loading-fill"></div></div>
+    <p id="loading-progress" class="loading-progress">准备中</p>
+    <button id="retry-button" class="retry-button" type="button" hidden>重新载入</button>
+  </section>
+  <noscript><div class="noscript-message">请启用浏览器 JavaScript，以查看三维模型。</div></noscript>
+
+  <script>
+    window.showViewerError = function (error) {
+      console.error(error);
+      const panel = document.getElementById('loading-panel');
+      panel.hidden = false;
+      panel.classList.add('has-error');
+      panel.setAttribute('aria-busy', 'false');
+      document.getElementById('loading-title').textContent = '模型未能打开';
+      document.getElementById('loading-message').textContent =
+        location.protocol === 'file:'
+          ? '请运行项目内的 source/serve_viewer.py，再从弹出的本地页面打开。'
+          : (error && error.userMessage) || '请确认 exports/废土充电场.glb 已生成，并使用支持 WebGL 2 的浏览器重新载入。';
+      document.getElementById('loading-track').hidden = true;
+      document.getElementById('loading-progress').hidden = true;
+      document.getElementById('retry-button').hidden = false;
+      document.getElementById('scene-status').textContent = '载入失败';
+    };
+    document.getElementById('retry-button').addEventListener('click', () => location.reload());
+  </script>
+  <script type="module">
+    import('./viewer.js').catch(window.showViewerError);
+  </script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+# Generated engine and editor data
+**/.godot/
+**/__pycache__/
+**/*.pyc
+**/.DS_Store
+**/Thumbs.db
+**/*.blend1
+**/*.blend2
+**/*.log
+**/*.err
+**/Windows游戏/
+**/tests/*result*.json
+**/tests/*report*.json
+**/previews/motion/push_diagnosis.json
+.env
+.env.*
+*.pem
+*.key

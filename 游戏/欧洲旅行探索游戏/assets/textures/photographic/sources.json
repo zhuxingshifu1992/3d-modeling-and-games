@@ -1,0 +1,102 @@
+[
+  {
+    "asset": "painted_plaster_wall",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/painted_plaster_wall",
+    "maps": {
+      "base": "assets/textures/photographic/painted_plaster_wall_base.jpg",
+      "normal": "assets/textures/photographic/painted_plaster_wall_normal.jpg",
+      "rough": "assets/textures/photographic/painted_plaster_wall_rough.jpg"
+    }
+  },
+  {
+    "asset": "castle_brick_01",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/castle_brick_01",
+    "maps": {
+      "base": "assets/textures/photographic/castle_brick_01_base.jpg",
+      "normal": "assets/textures/photographic/castle_brick_01_normal.jpg",
+      "rough": "assets/textures/photographic/castle_brick_01_rough.jpg"
+    }
+  },
+  {
+    "asset": "castle_brick_02_white",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/castle_brick_02_white",
+    "maps": {
+      "base": "assets/textures/photographic/castle_brick_02_white_base.jpg",
+      "normal": "assets/textures/photographic/castle_brick_02_white_normal.jpg",
+      "rough": "assets/textures/photographic/castle_brick_02_white_rough.jpg"
+    }
+  },
+  {
+    "asset": "herringbone_parquet",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/herringbone_parquet",
+    "maps": {
+      "base": "assets/textures/photographic/herringbone_parquet_base.jpg",
+      "normal": "assets/textures/photographic/herringbone_parquet_normal.jpg",
+      "rough": "assets/textures/photographic/herringbone_parquet_rough.jpg"
+    }
+  },
+  {
+    "asset": "marble_01",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/marble_01",
+    "maps": {
+      "base": "assets/textures/photographic/marble_01_base.jpg",
+      "normal": "assets/textures/photographic/marble_01_normal.jpg",
+      "rough": "assets/textures/photographic/marble_01_rough.jpg"
+    }
+  },
+  {
+    "asset": "old_wood_floor",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/old_wood_floor",
+    "maps": {
+      "base": "assets/textures/photographic/old_wood_floor_base.jpg",
+      "normal": "assets/textures/photographic/old_wood_floor_normal.jpg",
+      "rough": "assets/textures/photographic/old_wood_floor_rough.jpg"
+    }
+  },
+  {
+    "asset": "quatrefoil_jacquard_fabric",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/quatrefoil_jacquard_fabric",
+    "maps": {
+      "base": "assets/textures/photographic/quatrefoil_jacquard_fabric_base.jpg",
+      "normal": "assets/textures/photographic/quatrefoil_jacquard_fabric_normal.jpg",
+      "rough": "assets/textures/photographic/quatrefoil_jacquard_fabric_rough.jpg"
+    }
+  },
+  {
+    "asset": "cobblestone_floor_02",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/cobblestone_floor_02",
+    "maps": {
+      "base": "assets/textures/photographic/cobblestone_floor_02_base.jpg",
+      "normal": "assets/textures/photographic/cobblestone_floor_02_normal.jpg",
+      "rough": "assets/textures/photographic/cobblestone_floor_02_rough.jpg"
+    }
+  },
+  {
+    "asset": "fabric_leather_01",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/fabric_leather_01",
+    "maps": {
+      "base": "assets/textures/photographic/fabric_leather_01_base.jpg",
+      "normal": "assets/textures/photographic/fabric_leather_01_normal.jpg",
+      "rough": "assets/textures/photographic/fabric_leather_01_rough.jpg"
+    }
+  },
+  {
+    "asset": "rock_boulder_cracked",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rock_boulder_cracked",
+    "maps": {
+      "base": "assets/textures/photographic/rock_boulder_cracked_base.jpg",
+      "normal": "assets/textures/photographic/rock_boulder_cracked_normal.jpg",
+      "rough": "assets/textures/photographic/rock_boulder_cracked_rough.jpg"
+    }
+  }
+]

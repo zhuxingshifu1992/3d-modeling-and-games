@@ -1,0 +1,500 @@
+{
+  "retrieved": "2026-09-09",
+  "credit": "Powered by Poly Haven",
+  "description": "Original photographic PBR material maps and plant leaf/grass atlases; no generated replacement for photographs.",
+  "assets": [
+    {
+      "asset": "asphalt_02",
+      "channel": "Diffuse",
+      "resolution": "2k",
+      "page": "https://polyhaven.com/a/asphalt_02",
+      "authors": {
+        "Rob Tuytel": "All"
+      },
+      "dimensions_mm": [
+        3000.000238418579,
+        3000
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "filename": "asphalt_02_diff_2k.jpg",
+      "size": 3075676,
+      "md5": "336af399fd98a39ab986d8b3bf73b4ff",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/asphalt_02/asphalt_02_diff_2k.jpg",
+      "sha256": "28f5ba8690553f192c0e5e1a5ff40f34765b4b93f4cc7059b1a3e9c795b6c28c",
+      "local_path": "assets/environment/asphalt_02_diff_2k.jpg"
+    },
+    {
+      "asset": "asphalt_02",
+      "channel": "nor_gl",
+      "resolution": "2k",
+      "page": "https://polyhaven.com/a/asphalt_02",
+      "authors": {
+        "Rob Tuytel": "All"
+      },
+      "dimensions_mm": [
+        3000.000238418579,
+        3000
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "filename": "asphalt_02_nor_gl_2k.jpg",
+      "size": 4943950,
+      "md5": "77ebd1cc0b020ccaa1c6b58f103d1f75",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/asphalt_02/asphalt_02_nor_gl_2k.jpg",
+      "sha256": "ffe49db71a0fd34c1e259625df66a302a237597d6ef655307987ec4e45bc6f21",
+      "local_path": "assets/environment/asphalt_02_nor_gl_2k.jpg"
+    },
+    {
+      "asset": "asphalt_02",
+      "channel": "arm",
+      "resolution": "2k",
+      "page": "https://polyhaven.com/a/asphalt_02",
+      "authors": {
+        "Rob Tuytel": "All"
+      },
+      "dimensions_mm": [
+        3000.000238418579,
+        3000
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "filename": "asphalt_02_arm_2k.jpg",
+      "size": 1299186,
+      "md5": "152c0fb79ad6f33040b79779fea98664",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/asphalt_02/asphalt_02_arm_2k.jpg",
+      "sha256": "ed70e88640e4ed51cf1c3e57cb20db26983599b20b867c2526439e3a2c849fea",
+      "local_path": "assets/environment/asphalt_02_arm_2k.jpg"
+    },
+    {
+      "asset": "rock_face",
+      "channel": "Diffuse",
+      "resolution": "2k",
+      "page": "https://polyhaven.com/a/rock_face",
+      "authors": {
+        "Greg Zaal": "Photography",
+        "Dario Barresi": "Processing"
+      },
+      "dimensions_mm": [
+        2380.000114440918,
+        2380.000114440918
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "filename": "rock_face_diff_2k.jpg",
+      "size": 2971109,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rock_face/rock_face_diff_2k.jpg",
+      "md5": "e3964bcefad9a2a758263b077b47ed64",
+      "sha256": "b989c832327538a9e546cca359417acb9a657d041f300407e8398daaf743f5bc",
+      "local_path": "assets/environment/rock_face_diff_2k.jpg"
+    },
+    {
+      "asset": "rock_face",
+      "channel": "nor_gl",
+      "resolution": "2k",
+      "page": "https://polyhaven.com/a/rock_face",
+      "authors": {
+        "Greg Zaal": "Photography",
+        "Dario Barresi": "Processing"
+      },
+      "dimensions_mm": [
+        2380.000114440918,
+        2380.000114440918
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "filename": "rock_face_nor_gl_2k.jpg",
+      "size": 4158538,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rock_face/rock_face_nor_gl_2k.jpg",
+      "md5": "75d644e0c6a9d2534cafe783602d6c41",
+      "sha256": "352b87db2502d54487b0ed8abdfb621fae2abf7d360a281b419f567346178cf0",
+      "local_path": "assets/environment/rock_face_nor_gl_2k.jpg"
+    },
+    {
+      "asset": "rock_face",
+      "channel": "arm",
+      "resolution": "2k",
+      "page": "https://polyhaven.com/a/rock_face",
+      "authors": {
+        "Greg Zaal": "Photography",
+        "Dario Barresi": "Processing"
+      },
+      "dimensions_mm": [
+        2380.000114440918,
+        2380.000114440918
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "filename": "rock_face_arm_2k.jpg",
+      "size": 1596456,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rock_face/rock_face_arm_2k.jpg",
+      "md5": "169daa0110fe6ca7eda61f7d4be9e88e",
+      "sha256": "7cb37a227ba58b0048289a9032e386656d10190cdf89d90e57625b3ef75a8c7a",
+      "local_path": "assets/environment/rock_face_arm_2k.jpg"
+    },
+    {
+      "asset": "rock_face",
+      "channel": "Displacement",
+      "resolution": "2k",
+      "page": "https://polyhaven.com/a/rock_face",
+      "authors": {
+        "Greg Zaal": "Photography",
+        "Dario Barresi": "Processing"
+      },
+      "dimensions_mm": [
+        2380.000114440918,
+        2380.000114440918
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "filename": "rock_face_disp_2k.jpg",
+      "size": 879369,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rock_face/rock_face_disp_2k.jpg",
+      "md5": "f14c4adb840d4ff2c13ca5a5bd5f26bb",
+      "sha256": "2b057d933924f800f0aa008b9d5a0011dbf2a91d7819fc412db12e02c6553814",
+      "local_path": "assets/environment/rock_face_disp_2k.jpg"
+    },
+    {
+      "asset": "aerial_grass_rock",
+      "channel": "Diffuse",
+      "resolution": "2k",
+      "page": "https://polyhaven.com/a/aerial_grass_rock",
+      "authors": {
+        "Rob Tuytel": "All"
+      },
+      "dimensions_mm": [
+        15000,
+        15000
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "filename": "aerial_grass_rock_diff_2k.jpg",
+      "size": 2624635,
+      "md5": "024018554c0002620127749d1f585f3d",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/aerial_grass_rock/aerial_grass_rock_diff_2k.jpg",
+      "sha256": "1a2ddfa4652adbe00447b940c40019d46f4b88245bc1b341cdf622c2110b7bc5",
+      "local_path": "assets/environment/aerial_grass_rock_diff_2k.jpg"
+    },
+    {
+      "asset": "aerial_grass_rock",
+      "channel": "nor_gl",
+      "resolution": "2k",
+      "page": "https://polyhaven.com/a/aerial_grass_rock",
+      "authors": {
+        "Rob Tuytel": "All"
+      },
+      "dimensions_mm": [
+        15000,
+        15000
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "filename": "aerial_grass_rock_nor_gl_2k.jpg",
+      "size": 3799025,
+      "md5": "0c5423ce365169df7c242933b5137696",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/aerial_grass_rock/aerial_grass_rock_nor_gl_2k.jpg",
+      "sha256": "c6aa14b042ce243f93a6ca807f46a085711c23ad316b104578e92df7770ee285",
+      "local_path": "assets/environment/aerial_grass_rock_nor_gl_2k.jpg"
+    },
+    {
+      "asset": "aerial_grass_rock",
+      "channel": "arm",
+      "resolution": "2k",
+      "page": "https://polyhaven.com/a/aerial_grass_rock",
+      "authors": {
+        "Rob Tuytel": "All"
+      },
+      "dimensions_mm": [
+        15000,
+        15000
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "filename": "aerial_grass_rock_arm_2k.jpg",
+      "size": 945301,
+      "md5": "1491ee517b5cf713639f3add1b91c933",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/aerial_grass_rock/aerial_grass_rock_arm_2k.jpg",
+      "sha256": "a7daabd9aa877f861ced2830b792709f31a399324db47df2bdac256c0414fc14",
+      "local_path": "assets/environment/aerial_grass_rock_arm_2k.jpg"
+    },
+    {
+      "asset": "leafy_grass",
+      "channel": "Diffuse",
+      "resolution": "1k",
+      "page": "https://polyhaven.com/a/leafy_grass",
+      "authors": {
+        "Charlotte Baglioni": "All"
+      },
+      "dimensions_mm": [
+        2000,
+        2000
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "filename": "leafy_grass_diff_1k.jpg",
+      "size": 1195394,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/leafy_grass/leafy_grass_diff_1k.jpg",
+      "md5": "0dbc071e91d6905edfcfbe8eb785a1ab",
+      "sha256": "cfa40bc9d9417d1852db8753a8d5917f110c40101179f63543c382e39bc05e4a",
+      "local_path": "assets/environment/leafy_grass_diff_1k.jpg"
+    },
+    {
+      "asset": "leafy_grass",
+      "channel": "nor_gl",
+      "resolution": "1k",
+      "page": "https://polyhaven.com/a/leafy_grass",
+      "authors": {
+        "Charlotte Baglioni": "All"
+      },
+      "dimensions_mm": [
+        2000,
+        2000
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "filename": "leafy_grass_nor_gl_1k.jpg",
+      "size": 1466049,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/leafy_grass/leafy_grass_nor_gl_1k.jpg",
+      "md5": "8279e096e204ea326d57a318869f99df",
+      "sha256": "832328216adc0a7e1f70a31d5ee48c9ab7f2152d83816122736cf42ac4b2ebd6",
+      "local_path": "assets/environment/leafy_grass_nor_gl_1k.jpg"
+    },
+    {
+      "asset": "leafy_grass",
+      "channel": "arm",
+      "resolution": "1k",
+      "page": "https://polyhaven.com/a/leafy_grass",
+      "authors": {
+        "Charlotte Baglioni": "All"
+      },
+      "dimensions_mm": [
+        2000,
+        2000
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "filename": "leafy_grass_arm_1k.jpg",
+      "size": 1010081,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/leafy_grass/leafy_grass_arm_1k.jpg",
+      "md5": "44fb4e40ef0f3425a7d1a14bc328e4d8",
+      "sha256": "95432451cb2693794459fe7ea339ea9ffdb5959c40373740f80a4aa1703f089d",
+      "local_path": "assets/environment/leafy_grass_arm_1k.jpg"
+    },
+    {
+      "asset": "bark_willow",
+      "channel": "Diffuse",
+      "resolution": "1k",
+      "page": "https://polyhaven.com/a/bark_willow",
+      "authors": {
+        "Dario Barresi": "Processing",
+        "Dimitrios Savva": "Photography"
+      },
+      "dimensions_mm": [
+        1000,
+        1000
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "filename": "bark_willow_diff_1k.jpg",
+      "size": 779438,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/bark_willow/bark_willow_diff_1k.jpg",
+      "md5": "792d4f8467fe360092eee335ee60b698",
+      "sha256": "c7de3072c2320934a3d9f5bc6c9cb58819952c0b3bd04f4e71b24cf89dbb6ad6",
+      "local_path": "assets/environment/bark_willow_diff_1k.jpg"
+    },
+    {
+      "asset": "bark_willow",
+      "channel": "nor_gl",
+      "resolution": "1k",
+      "page": "https://polyhaven.com/a/bark_willow",
+      "authors": {
+        "Dario Barresi": "Processing",
+        "Dimitrios Savva": "Photography"
+      },
+      "dimensions_mm": [
+        1000,
+        1000
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "filename": "bark_willow_nor_gl_1k.jpg",
+      "size": 1438304,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/bark_willow/bark_willow_nor_gl_1k.jpg",
+      "md5": "91ffa6e3a1ba8cccb714908ef50122d5",
+      "sha256": "9d5a771315a85c2d890526af9826843e7967ed3330da49bef7e86c3e5a6c0b6a",
+      "local_path": "assets/environment/bark_willow_nor_gl_1k.jpg"
+    },
+    {
+      "asset": "bark_willow",
+      "channel": "arm",
+      "resolution": "1k",
+      "page": "https://polyhaven.com/a/bark_willow",
+      "authors": {
+        "Dario Barresi": "Processing",
+        "Dimitrios Savva": "Photography"
+      },
+      "dimensions_mm": [
+        1000,
+        1000
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "filename": "bark_willow_arm_1k.jpg",
+      "size": 979678,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/bark_willow/bark_willow_arm_1k.jpg",
+      "md5": "ddd1bf8fc7ec3f332738696eeb222b85",
+      "sha256": "e95d9655dbb91b9be744718bb79e3ff1ad5c00dd4eed8de69bd6c381e8d8b0e9",
+      "local_path": "assets/environment/bark_willow_arm_1k.jpg"
+    },
+    {
+      "asset": "tree_small_02",
+      "channel": "leaves_diff",
+      "resolution": "1k",
+      "page": "https://polyhaven.com/a/tree_small_02",
+      "authors": {
+        "Rico Cilliers": "All"
+      },
+      "dimensions_mm": [
+        2921.434998512268,
+        4292.873501777649,
+        4649.933725595474
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "filename": "tree_small_02_leaves_diff_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/tree_small_02/tree_small_02_leaves_diff_1k.jpg",
+      "md5": "315cbc2cebfb399e649ccd39112c109a",
+      "size": 340003,
+      "sha256": "261e7d7a5ac7d2e16ea8823ff8510be8f3f615999724232994039ad2885e5c36",
+      "local_path": "assets/environment/tree_small_02_leaves_diff_1k.jpg"
+    },
+    {
+      "asset": "tree_small_02",
+      "channel": "leaves_alpha",
+      "resolution": "1k",
+      "page": "https://polyhaven.com/a/tree_small_02",
+      "authors": {
+        "Rico Cilliers": "All"
+      },
+      "dimensions_mm": [
+        2921.434998512268,
+        4292.873501777649,
+        4649.933725595474
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "filename": "tree_small_02_leaves_alpha_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/tree_small_02/tree_small_02_leaves_alpha_1k.jpg",
+      "md5": "d36f9fbfa91af8dc1bca0cbafee70070",
+      "size": 245083,
+      "sha256": "66d49e18d043c483d0f4a8638f379ec164e30a61e9c10e60384e72815ca0bb40",
+      "local_path": "assets/environment/tree_small_02_leaves_alpha_1k.jpg"
+    },
+    {
+      "asset": "tree_small_02",
+      "channel": "leaves_nor_gl",
+      "resolution": "1k",
+      "page": "https://polyhaven.com/a/tree_small_02",
+      "authors": {
+        "Rico Cilliers": "All"
+      },
+      "dimensions_mm": [
+        2921.434998512268,
+        4292.873501777649,
+        4649.933725595474
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "filename": "tree_small_02_leaves_nor_gl_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/tree_small_02/tree_small_02_leaves_nor_gl_1k.jpg",
+      "md5": "b06c87e73f54d9654f66d67e9de7aa85",
+      "size": 681604,
+      "sha256": "8c72e04fb23e16ae1df79c01385a638473d1dd4dede3d51e83d70153c129f09b",
+      "local_path": "assets/environment/tree_small_02_leaves_nor_gl_1k.jpg"
+    },
+    {
+      "asset": "grass_medium_01",
+      "channel": "Diffuse",
+      "resolution": "1k",
+      "page": "https://polyhaven.com/a/grass_medium_01",
+      "authors": {
+        "Rob Tuytel": "Photography",
+        "Rico Cilliers": "Modeling"
+      },
+      "dimensions_mm": [
+        7266.327619552612,
+        1259.2098712921143,
+        1177.0583391189575
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "filename": "grass_medium_01_diff_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/grass_medium_01/grass_medium_01_diff_1k.jpg",
+      "md5": "6b18ed50d776fd20c1304d9994bd764e",
+      "size": 395673,
+      "sha256": "71495bd6a11fddcab0aaff38246fea1a7b802a705483f1c7cbca53955daa8050",
+      "local_path": "assets/environment/grass_medium_01_diff_1k.jpg"
+    },
+    {
+      "asset": "grass_medium_01",
+      "channel": "Alpha",
+      "resolution": "1k",
+      "page": "https://polyhaven.com/a/grass_medium_01",
+      "authors": {
+        "Rob Tuytel": "Photography",
+        "Rico Cilliers": "Modeling"
+      },
+      "dimensions_mm": [
+        7266.327619552612,
+        1259.2098712921143,
+        1177.0583391189575
+      ],
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "filename": "grass_medium_01_alpha_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/grass_medium_01/grass_medium_01_alpha_1k.jpg",
+      "md5": "f1ffbffd4b568bfa72f53649bdfff20b",
+      "size": 447537,
+      "sha256": "90ad8db2b471de6b61597c60bc218d1295c4bf68230be9083aa2001b9067b2e2",
+      "local_path": "assets/environment/grass_medium_01_alpha_1k.jpg"
+    },
+    {
+      "asset": "chapmans_drive",
+      "channel": "hdri",
+      "resolution": "2k",
+      "page": "https://polyhaven.com/a/chapmans_drive",
+      "authors": {
+        "Greg Zaal": "All",
+        "Rico Cilliers": "Backplates"
+      },
+      "dimensions_mm": null,
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "filename": "chapmans_drive_2k.hdr",
+      "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/chapmans_drive_2k.hdr",
+      "size": 6645938,
+      "md5": "a1daad726f53607cb615df0996238ebb",
+      "sha256": "e98014bf94ab957b1bb42bea853a0018a79d427634b53617ca63a68044593ccf",
+      "local_path": "assets/environment/chapmans_drive_2k.hdr"
+    },
+    {
+      "asset": "kloofendal_48d_partly_cloudy_puresky",
+      "channel": "hdri",
+      "resolution": "2k",
+      "page": "https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky",
+      "authors": {
+        "Greg Zaal": "Original",
+        "Jarod Guest": "Sky edits"
+      },
+      "dimensions_mm": null,
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "filename": "kloofendal_48d_partly_cloudy_puresky_2k.hdr",
+      "size": 5451493,
+      "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/kloofendal_48d_partly_cloudy_puresky_2k.hdr",
+      "md5": "2eba3a4d7eeb23cbfbeca364c97e7980",
+      "sha256": "5244534e9cf5b606f2ff513aa00ddb161b0a4826ffd88a0d3bd03ac29247d198",
+      "local_path": "assets/environment/kloofendal_48d_partly_cloudy_puresky_2k.hdr"
+    }
+  ]
+}

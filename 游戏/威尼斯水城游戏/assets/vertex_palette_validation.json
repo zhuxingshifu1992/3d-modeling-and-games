@@ -1,0 +1,20 @@
+{
+  "failures": [],
+  "results": [
+    {
+      "asset": "city.glb",
+      "color_count": 579867,
+      "fixed_material_count": 1,
+      "vertex_color_is_srgb": false,
+      "vertex_color_use_as_albedo": true
+    },
+    {
+      "asset": "gondola.glb",
+      "color_count": 2846,
+      "fixed_material_count": 1,
+      "vertex_color_is_srgb": false,
+      "vertex_color_use_as_albedo": true
+    }
+  ],
+  "status": "PASS"
+}

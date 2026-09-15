@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "asset": "r7_view",
+      "triangles": 37776,
+      "bytes": 4111216,
+      "root": "R7_Carbine"
+    },
+    {
+      "asset": "shotgun_view",
+      "triangles": 34936,
+      "bytes": 3591260,
+      "root": "Breacher_Shotgun"
+    },
+    {
+      "asset": "raider_rifle",
+      "triangles": 74132,
+      "bytes": 5833112,
+      "root": "Raider_rifle"
+    },
+    {
+      "asset": "raider_flanker",
+      "triangles": 72116,
+      "bytes": 5719040,
+      "root": "Raider_flanker"
+    },
+    {
+      "asset": "raider_heavy",
+      "triangles": 76808,
+      "bytes": 5935724,
+      "root": "Raider_heavy"
+    }
+  ],
+  "authoring": "Blender generated editable geometry, local procedural PBR images",
+  "units": "metres",
+  "axis": "Godot Y up / -Z forward"
+}

@@ -1,0 +1,38 @@
+{
+  "project": "three.js",
+  "version": "0.170.0",
+  "tag": "r170",
+  "upstream": "https://github.com/mrdoob/three.js/tree/r170",
+  "files": [
+    {
+      "path": "build/three.module.js",
+      "source": "https://raw.githubusercontent.com/mrdoob/three.js/r170/build/three.module.js",
+      "bytes": 1314681,
+      "sha256": "ce1fa418de16a19495a9f72495580e3015d7745c296d3ce0485897f902ddedfb"
+    },
+    {
+      "path": "examples/jsm/controls/OrbitControls.js",
+      "source": "https://raw.githubusercontent.com/mrdoob/three.js/r170/examples/jsm/controls/OrbitControls.js",
+      "bytes": 32134,
+      "sha256": "80efaadea4f8a636a65fb0bd08bfef62f3d93a0bb94e2e7500f23176c5c07f4e"
+    },
+    {
+      "path": "examples/jsm/loaders/GLTFLoader.js",
+      "source": "https://raw.githubusercontent.com/mrdoob/three.js/r170/examples/jsm/loaders/GLTFLoader.js",
+      "bytes": 110273,
+      "sha256": "45139faddd5aaf48ed2d62203d976e5cbd703db1a592de40527f9f6cf58abd44"
+    },
+    {
+      "path": "examples/jsm/utils/BufferGeometryUtils.js",
+      "source": "https://raw.githubusercontent.com/mrdoob/three.js/r170/examples/jsm/utils/BufferGeometryUtils.js",
+      "bytes": 31768,
+      "sha256": "c25b7930e570e9ec56173cd3b866ec8d2e10016630db3937efb439daf1cedbf6"
+    },
+    {
+      "path": "LICENSE",
+      "source": "https://raw.githubusercontent.com/mrdoob/three.js/r170/LICENSE",
+      "bytes": 1081,
+      "sha256": "4c40a1ef62450b857c3b2aaf294936304cd552d965fbcd9d32d4c5bcf4ba4454"
+    }
+  ]
+}

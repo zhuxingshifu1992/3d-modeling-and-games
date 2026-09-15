@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "independent_blender_reimport": {
+    "city.glb": {
+      "meshes": 1,
+      "triangles": 226028,
+      "materials": 1,
+      "has_vertex_colors": true,
+      "identity_transform": true
+    },
+    "gondola.glb": {
+      "meshes": 1,
+      "triangles": 1160,
+      "materials": 1,
+      "has_vertex_colors": true,
+      "identity_transform": true
+    }
+  }
+}

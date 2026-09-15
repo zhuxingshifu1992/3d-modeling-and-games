@@ -1,0 +1,916 @@
+{
+  "Diffuse": {
+    "8k": {
+      "jpg": {
+        "size": 31636199,
+        "md5": "daa37baff9a621495ef96e064fe53933",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/fabric_leather_01/fabric_leather_01_diff_8k.jpg"
+      },
+      "png": {
+        "size": 116924096,
+        "md5": "12299e8a4bd2d46e45b85461b367201c",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/fabric_leather_01/fabric_leather_01_diff_8k.png"
+      },
+      "exr": {
+        "size": 113387007,
+        "md5": "af65ab6712da776334cddddc82d4ef17",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/fabric_leather_01/fabric_leather_01_diff_8k.exr"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 9414710,
+        "md5": "efc17589fc24476ef033e5063a54d4cb",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/fabric_leather_01/fabric_leather_01_diff_4k.jpg"
+      },
+      "png": {
+        "size": 33326077,
+        "md5": "3178350779d491b017365660c093345e",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/fabric_leather_01/fabric_leather_01_diff_4k.png"
+      },
+      "exr": {
+        "size": 30059645,
+        "md5": "2d51a347e28230de0ca503d4b6354d57",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/fabric_leather_01/fabric_leather_01_diff_4k.exr"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 2467670,
+        "md5": "f9c0c71ebadf92071d5779257c12d73a",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/fabric_leather_01/fabric_leather_01_diff_2k.jpg"
+      },
+      "png": {
+        "size": 8694239,
+        "md5": "db449befeccd9a9d253e42214e02e25d",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/fabric_leather_01/fabric_leather_01_diff_2k.png"
+      },
+      "exr": {
+        "size": 7620668,
+        "md5": "c672facf06d8dffd3e3631730e61d723",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/fabric_leather_01/fabric_leather_01_diff_2k.exr"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 510537,
+        "md5": "54ef2a19a00d35a9cd374e419fb75912",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/fabric_leather_01/fabric_leather_01_diff_1k.jpg"
+      },
+      "png": {
+        "size": 2080224,
+        "md5": "82b29a770f0195a7f092361350202698",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/fabric_leather_01/fabric_leather_01_diff_1k.png"
+      },
+      "exr": {
+        "size": 1624574,
+        "md5": "bcaf67b7917f03b2673178eb7bb3427e",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/fabric_leather_01/fabric_leather_01_diff_1k.exr"
+      }
+    }
+  },
+  "nor_dx": {
+    "8k": {
+      "jpg": {
+        "size": 25864199,
+        "md5": "2ae9c5eb9d8696a2ccf4ceaa77ed257c",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/fabric_leather_01/fabric_leather_01_nor_dx_8k.jpg"
+      },
+      "png": {
+        "size": 85865319,
+        "md5": "5acbb8cd204992248a46e2270b3dd3e9",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/fabric_leather_01/fabric_leather_01_nor_dx_8k.png"
+      },
+      "exr": {
+        "size": 80601778,
+        "md5": "675b05dd6252028f6a567be59aa52350",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/fabric_leather_01/fabric_leather_01_nor_dx_8k.exr"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 8688932,
+        "md5": "bb53281e19cbf56215824777f177cb2c",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/fabric_leather_01/fabric_leather_01_nor_dx_4k.jpg"
+      },
+      "png": {
+        "size": 24253513,
+        "md5": "a89dfb990b03ab56faf2e2b8f7e83ce4",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/fabric_leather_01/fabric_leather_01_nor_dx_4k.png"
+      },
+      "exr": {
+        "size": 23794799,
+        "md5": "e54449e5b594434ecf663d7f29e5f2ca",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/fabric_leather_01/fabric_leather_01_nor_dx_4k.exr"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 2762438,
+        "md5": "2450adb2dda3d9de58da23f4a76cc38d",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/fabric_leather_01/fabric_leather_01_nor_dx_2k.jpg"
+      },
+      "png": {
+        "size": 6872028,
+        "md5": "25f8fae9c56f954caa00c227976af86f",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/fabric_leather_01/fabric_leather_01_nor_dx_2k.png"
+      },
+      "exr": {
+        "size": 7271080,
+        "md5": "84a6f03b972277dfe67e6302cd6e7f66",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/fabric_leather_01/fabric_leather_01_nor_dx_2k.exr"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 696619,
+        "md5": "a1c1ae22ce9d2b34cd813420e076afa0",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/fabric_leather_01/fabric_leather_01_nor_dx_1k.jpg"
+      },
+      "png": {
+        "size": 1793383,
+        "md5": "094fd3c4a3be6557f0597f7d1764fc06",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/fabric_leather_01/fabric_leather_01_nor_dx_1k.png"
+      },
+      "exr": {
+        "size": 1858482,
+        "md5": "4169644ac56cc6dbf847ec9121939bd0",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/fabric_leather_01/fabric_leather_01_nor_dx_1k.exr"
+      }
+    }
+  },
+  "nor_gl": {
+    "8k": {
+      "jpg": {
+        "size": 27984821,
+        "md5": "0a311d1020c485fc6885b5cd251df022",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/fabric_leather_01/fabric_leather_01_nor_gl_8k.jpg"
+      },
+      "png": {
+        "size": 86107492,
+        "md5": "35f35aa20cd264e31664f628ab019925",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/fabric_leather_01/fabric_leather_01_nor_gl_8k.png"
+      },
+      "exr": {
+        "size": 84208581,
+        "md5": "a0be70b7372796131a3ec651fd3a22e5",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/fabric_leather_01/fabric_leather_01_nor_gl_8k.exr"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 9071432,
+        "md5": "ecc34cc12eec85f2c5850e09328fdf18",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/fabric_leather_01/fabric_leather_01_nor_gl_4k.jpg"
+      },
+      "png": {
+        "size": 24253239,
+        "md5": "1ac189b8494486baa7cac2baa859675d",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/fabric_leather_01/fabric_leather_01_nor_gl_4k.png"
+      },
+      "exr": {
+        "size": 24797617,
+        "md5": "3c762c72ed9ae56503bd47c707f702b5",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/fabric_leather_01/fabric_leather_01_nor_gl_4k.exr"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 2764483,
+        "md5": "cd8a6ea40e5e732e30e8d004ea62ffba",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/fabric_leather_01/fabric_leather_01_nor_gl_2k.jpg"
+      },
+      "png": {
+        "size": 6870649,
+        "md5": "5fa326e4afdda028382507f7e9710af1",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/fabric_leather_01/fabric_leather_01_nor_gl_2k.png"
+      },
+      "exr": {
+        "size": 7523650,
+        "md5": "599685fea7f94ff004006c1a65eb072f",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/fabric_leather_01/fabric_leather_01_nor_gl_2k.exr"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 679548,
+        "md5": "1846424108d23c79a3e46a3e5fd3c6bc",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/fabric_leather_01/fabric_leather_01_nor_gl_1k.jpg"
+      },
+      "png": {
+        "size": 1793187,
+        "md5": "03d957452528dc9d26894cea054be207",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/fabric_leather_01/fabric_leather_01_nor_gl_1k.png"
+      },
+      "exr": {
+        "size": 1914757,
+        "md5": "65e0ed440aeba7dc997686024659fe10",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/fabric_leather_01/fabric_leather_01_nor_gl_1k.exr"
+      }
+    }
+  },
+  "blend": {
+    "8k": {
+      "blend": {
+        "size": 275463,
+        "md5": "3001e89643551e194f8ab184a53ccee7",
+        "include": {
+          "textures/fabric_leather_01_nor_gl_8k.exr": {
+            "size": 84208581,
+            "md5": "a0be70b7372796131a3ec651fd3a22e5",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/fabric_leather_01/fabric_leather_01_nor_gl_8k.exr"
+          },
+          "textures/fabric_leather_01_rough_8k.jpg": {
+            "size": 38277022,
+            "md5": "f2c3cbdc55b4fb56b6cb38a2fb6665d8",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/fabric_leather_01/fabric_leather_01_rough_8k.jpg"
+          },
+          "textures/fabric_leather_01_diff_8k.jpg": {
+            "size": 31636199,
+            "md5": "daa37baff9a621495ef96e064fe53933",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/fabric_leather_01/fabric_leather_01_diff_8k.jpg"
+          },
+          "textures/fabric_leather_01_disp_8k.png": {
+            "size": 67336069,
+            "md5": "0b0e7b363dcfe957a4ec1ee24d8551e0",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/fabric_leather_01/fabric_leather_01_disp_8k.png"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/8k/fabric_leather_01/fabric_leather_01_8k.blend"
+      }
+    },
+    "4k": {
+      "blend": {
+        "size": 275449,
+        "md5": "8a5b99bdcc6c244dc116e0321b55fb8f",
+        "include": {
+          "textures/fabric_leather_01_diff_4k.jpg": {
+            "size": 9414710,
+            "md5": "efc17589fc24476ef033e5063a54d4cb",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/fabric_leather_01/fabric_leather_01_diff_4k.jpg"
+          },
+          "textures/fabric_leather_01_rough_4k.jpg": {
+            "size": 10121508,
+            "md5": "f0cc8bff978ab30b680b91333b49f72d",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/fabric_leather_01/fabric_leather_01_rough_4k.jpg"
+          },
+          "textures/fabric_leather_01_nor_gl_4k.exr": {
+            "size": 24797617,
+            "md5": "3c762c72ed9ae56503bd47c707f702b5",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/fabric_leather_01/fabric_leather_01_nor_gl_4k.exr"
+          },
+          "textures/fabric_leather_01_disp_4k.png": {
+            "size": 27349841,
+            "md5": "b89b7b6bebb98173d1239476d29ad517",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/fabric_leather_01/fabric_leather_01_disp_4k.png"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/4k/fabric_leather_01/fabric_leather_01_4k.blend"
+      }
+    },
+    "2k": {
+      "blend": {
+        "size": 275488,
+        "md5": "9ab44635a4070c6c3df26161739b5f75",
+        "include": {
+          "textures/fabric_leather_01_nor_gl_2k.exr": {
+            "size": 7523650,
+            "md5": "599685fea7f94ff004006c1a65eb072f",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/fabric_leather_01/fabric_leather_01_nor_gl_2k.exr"
+          },
+          "textures/fabric_leather_01_diff_2k.jpg": {
+            "size": 2467670,
+            "md5": "f9c0c71ebadf92071d5779257c12d73a",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/fabric_leather_01/fabric_leather_01_diff_2k.jpg"
+          },
+          "textures/fabric_leather_01_disp_2k.png": {
+            "size": 7235162,
+            "md5": "bbb403d143680f80ce06c46975a0f7dc",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/fabric_leather_01/fabric_leather_01_disp_2k.png"
+          },
+          "textures/fabric_leather_01_rough_2k.jpg": {
+            "size": 2621259,
+            "md5": "6166d7bbd6a96f99a3bc528cfa518506",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/fabric_leather_01/fabric_leather_01_rough_2k.jpg"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/2k/fabric_leather_01/fabric_leather_01_2k.blend"
+      }
+    },
+    "1k": {
+      "blend": {
+        "size": 275481,
+        "md5": "bc9e5bffddec0a5e372d56473f3beb06",
+        "include": {
+          "textures/fabric_leather_01_diff_1k.jpg": {
+            "size": 510537,
+            "md5": "54ef2a19a00d35a9cd374e419fb75912",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/fabric_leather_01/fabric_leather_01_diff_1k.jpg"
+          },
+          "textures/fabric_leather_01_disp_1k.png": {
+            "size": 1892284,
+            "md5": "a2a606a0d1d8bce596446b62a9ec6efb",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/fabric_leather_01/fabric_leather_01_disp_1k.png"
+          },
+          "textures/fabric_leather_01_rough_1k.jpg": {
+            "size": 577850,
+            "md5": "8984afb0139f961a4a05d58f3c9403df",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/fabric_leather_01/fabric_leather_01_rough_1k.jpg"
+          },
+          "textures/fabric_leather_01_nor_gl_1k.exr": {
+            "size": 1914757,
+            "md5": "65e0ed440aeba7dc997686024659fe10",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/fabric_leather_01/fabric_leather_01_nor_gl_1k.exr"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/1k/fabric_leather_01/fabric_leather_01_1k.blend"
+      }
+    }
+  },
+  "gltf": {
+    "8k": {
+      "gltf": {
+        "size": 2747,
+        "md5": "0fca8b50fe4f67ff0feeddd54b39d42b",
+        "include": {
+          "textures/fabric_leather_01_nor_gl_8k.jpg": {
+            "size": 27984821,
+            "md5": "0a311d1020c485fc6885b5cd251df022",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/fabric_leather_01/fabric_leather_01_nor_gl_8k.jpg"
+          },
+          "textures/fabric_leather_01_rough_8k.jpg": {
+            "size": 38277022,
+            "md5": "f2c3cbdc55b4fb56b6cb38a2fb6665d8",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/fabric_leather_01/fabric_leather_01_rough_8k.jpg"
+          },
+          "textures/fabric_leather_01_diff_8k.jpg": {
+            "size": 31636199,
+            "md5": "daa37baff9a621495ef96e064fe53933",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/fabric_leather_01/fabric_leather_01_diff_8k.jpg"
+          },
+          "fabric_leather_01.bin": {
+            "size": 2370964,
+            "md5": "1a00e471d1fbba6b491d747301ce45a9",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/fabric_leather_01/fabric_leather_01.bin"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/fabric_leather_01/fabric_leather_01_8k.gltf"
+      }
+    },
+    "4k": {
+      "gltf": {
+        "size": 2747,
+        "md5": "79305a59088cd5d43e47c8e03015af35",
+        "include": {
+          "textures/fabric_leather_01_diff_4k.jpg": {
+            "size": 9414710,
+            "md5": "efc17589fc24476ef033e5063a54d4cb",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/fabric_leather_01/fabric_leather_01_diff_4k.jpg"
+          },
+          "textures/fabric_leather_01_rough_4k.jpg": {
+            "size": 10121508,
+            "md5": "f0cc8bff978ab30b680b91333b49f72d",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/fabric_leather_01/fabric_leather_01_rough_4k.jpg"
+          },
+          "textures/fabric_leather_01_nor_gl_4k.jpg": {
+            "size": 9071432,
+            "md5": "ecc34cc12eec85f2c5850e09328fdf18",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/fabric_leather_01/fabric_leather_01_nor_gl_4k.jpg"
+          },
+          "fabric_leather_01.bin": {
+            "size": 2370964,
+            "md5": "1a00e471d1fbba6b491d747301ce45a9",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/fabric_leather_01/fabric_leather_01.bin"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/4k/fabric_leather_01/fabric_leather_01_4k.gltf"
+      }
+    },
+    "2k": {
+      "gltf": {
+        "size": 2747,
+        "md5": "7ba5453a1c3298be2a068f13cf956c2c",
+        "include": {
+          "textures/fabric_leather_01_nor_gl_2k.jpg": {
+            "size": 2764483,
+            "md5": "cd8a6ea40e5e732e30e8d004ea62ffba",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/fabric_leather_01/fabric_leather_01_nor_gl_2k.jpg"
+          },
+          "textures/fabric_leather_01_diff_2k.jpg": {
+            "size": 2467670,
+            "md5": "f9c0c71ebadf92071d5779257c12d73a",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/fabric_leather_01/fabric_leather_01_diff_2k.jpg"
+          },
+          "textures/fabric_leather_01_rough_2k.jpg": {
+            "size": 2621259,
+            "md5": "6166d7bbd6a96f99a3bc528cfa518506",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/fabric_leather_01/fabric_leather_01_rough_2k.jpg"
+          },
+          "fabric_leather_01.bin": {
+            "size": 2370964,
+            "md5": "1a00e471d1fbba6b491d747301ce45a9",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/fabric_leather_01/fabric_leather_01.bin"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/2k/fabric_leather_01/fabric_leather_01_2k.gltf"
+      }
+    },
+    "1k": {
+      "gltf": {
+        "size": 2747,
+        "md5": "b0e2b1c09c319e13ca48a2603ca65925",
+        "include": {
+          "textures/fabric_leather_01_diff_1k.jpg": {
+            "size": 510537,
+            "md5": "54ef2a19a00d35a9cd374e419fb75912",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/fabric_leather_01/fabric_leather_01_diff_1k.jpg"
+          },
+          "textures/fabric_leather_01_nor_gl_1k.jpg": {
+            "size": 679548,
+            "md5": "1846424108d23c79a3e46a3e5fd3c6bc",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/fabric_leather_01/fabric_leather_01_nor_gl_1k.jpg"
+          },
+          "textures/fabric_leather_01_rough_1k.jpg": {
+            "size": 577850,
+            "md5": "8984afb0139f961a4a05d58f3c9403df",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/fabric_leather_01/fabric_leather_01_rough_1k.jpg"
+          },
+          "fabric_leather_01.bin": {
+            "size": 2370964,
+            "md5": "1a00e471d1fbba6b491d747301ce45a9",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/fabric_leather_01/fabric_leather_01.bin"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/1k/fabric_leather_01/fabric_leather_01_1k.gltf"
+      }
+    }
+  },
+  "rough_ao": {
+    "8k": {
+      "jpg": {
+        "size": 95298749,
+        "md5": "94e0da4ae201b0ee5417b0b6f8498cec",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/fabric_leather_01/fabric_leather_01_rough_ao_8k.jpg"
+      },
+      "png": {
+        "size": 160131039,
+        "md5": "e19acaec3edde02effec9ee372afad7d",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/fabric_leather_01/fabric_leather_01_rough_ao_8k.png"
+      },
+      "exr": {
+        "size": 162510549,
+        "md5": "19395a0ddf709ac38a5ae5cfa431c4ea",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/fabric_leather_01/fabric_leather_01_rough_ao_8k.exr"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 23061344,
+        "md5": "87252cbbcf0a08dba3587b8318654451",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/fabric_leather_01/fabric_leather_01_rough_ao_4k.jpg"
+      },
+      "png": {
+        "size": 40897521,
+        "md5": "3ba0059f1441e8bcbf4e7f65a8c70993",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/fabric_leather_01/fabric_leather_01_rough_ao_4k.png"
+      },
+      "exr": {
+        "size": 39299682,
+        "md5": "6913ad3545fcde560f976164dd3dd241",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/fabric_leather_01/fabric_leather_01_rough_ao_4k.exr"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 5449216,
+        "md5": "36b01ec4a9f03d7076cd13306d560055",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/fabric_leather_01/fabric_leather_01_rough_ao_2k.jpg"
+      },
+      "png": {
+        "size": 10296223,
+        "md5": "64393db8669aa4aa38a37d4e13182ebe",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/fabric_leather_01/fabric_leather_01_rough_ao_2k.png"
+      },
+      "exr": {
+        "size": 9510535,
+        "md5": "93f1eaeefcb6dbbd82d660f9db2bf366",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/fabric_leather_01/fabric_leather_01_rough_ao_2k.exr"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 1215309,
+        "md5": "dfd94fb4edab3851dc00e24b76bd18c4",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/fabric_leather_01/fabric_leather_01_rough_ao_1k.jpg"
+      },
+      "png": {
+        "size": 2503860,
+        "md5": "c726368d50c1884abae503f108d11841",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/fabric_leather_01/fabric_leather_01_rough_ao_1k.png"
+      },
+      "exr": {
+        "size": 2275227,
+        "md5": "b45d7540c204172cdb2100c4ba34cdfc",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/fabric_leather_01/fabric_leather_01_rough_ao_1k.exr"
+      }
+    }
+  },
+  "arm": {
+    "8k": {
+      "jpg": {
+        "size": 29988495,
+        "md5": "2fb754ae0072276c3d2f6f6da8c3cee9",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/fabric_leather_01/fabric_leather_01_arm_8k.jpg"
+      },
+      "png": {
+        "size": 133496195,
+        "md5": "1f6565a6a2f7bb0565cd7ce56cac21c0",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/fabric_leather_01/fabric_leather_01_arm_8k.png"
+      },
+      "exr": {
+        "size": 154735206,
+        "md5": "04ef5bc43c7040e49ebdf1adfb74080c",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/fabric_leather_01/fabric_leather_01_arm_8k.exr"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 7626673,
+        "md5": "cfe02b1f12d0f403b99f6d5ff952b0f0",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/fabric_leather_01/fabric_leather_01_arm_4k.jpg"
+      },
+      "png": {
+        "size": 33709753,
+        "md5": "e5edf583066dc27a0d5ae26f7fb9c18b",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/fabric_leather_01/fabric_leather_01_arm_4k.png"
+      },
+      "exr": {
+        "size": 40516316,
+        "md5": "d8c917168d72a0517dab0e382ed5d589",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/fabric_leather_01/fabric_leather_01_arm_4k.exr"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 1644121,
+        "md5": "6426fdb7f3b4c39f5c1e4cc490d17aaa",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/fabric_leather_01/fabric_leather_01_arm_2k.jpg"
+      },
+      "png": {
+        "size": 7888338,
+        "md5": "3765b827da8cc1a4a09330c1d18ad67a",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/fabric_leather_01/fabric_leather_01_arm_2k.png"
+      },
+      "exr": {
+        "size": 9621235,
+        "md5": "8df134a3ac3e63e47fa1d4c6c7df06e8",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/fabric_leather_01/fabric_leather_01_arm_2k.exr"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 309975,
+        "md5": "825db6e0f22ea689172ae918a00b8a51",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/fabric_leather_01/fabric_leather_01_arm_1k.jpg"
+      },
+      "png": {
+        "size": 1873648,
+        "md5": "9819d042c2e14fcb688902fd822d88a1",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/fabric_leather_01/fabric_leather_01_arm_1k.png"
+      },
+      "exr": {
+        "size": 2233223,
+        "md5": "62fd54c2c8d97bb9feae5c16dcfdebae",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/fabric_leather_01/fabric_leather_01_arm_1k.exr"
+      }
+    }
+  },
+  "AO": {
+    "8k": {
+      "jpg": {
+        "size": 46715194,
+        "md5": "d6b3c7dbdad90e139455c9d932690b3c",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/fabric_leather_01/fabric_leather_01_ao_8k.jpg"
+      },
+      "png": {
+        "size": 113750138,
+        "md5": "ba7d35cd808a64669189b5b802b553f7",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/fabric_leather_01/fabric_leather_01_ao_8k.png"
+      },
+      "exr": {
+        "size": 63690711,
+        "md5": "5b83d484705d0e1a7abe00029eeabcb9",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/fabric_leather_01/fabric_leather_01_ao_8k.exr"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 11234205,
+        "md5": "8710d6d580d362183166462c1576b501",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/fabric_leather_01/fabric_leather_01_ao_4k.jpg"
+      },
+      "png": {
+        "size": 14437809,
+        "md5": "cf1ede08833f4a56596c3fee274d93de",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/fabric_leather_01/fabric_leather_01_ao_4k.png"
+      },
+      "exr": {
+        "size": 23463843,
+        "md5": "4a32e5d23b00ac502abc3f02b5731836",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/fabric_leather_01/fabric_leather_01_ao_4k.exr"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 2333298,
+        "md5": "4008c692fcf41c73d1013bfac37474cb",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/fabric_leather_01/fabric_leather_01_ao_2k.jpg"
+      },
+      "png": {
+        "size": 3539448,
+        "md5": "fa5431b075206079183050abc2c30e42",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/fabric_leather_01/fabric_leather_01_ao_2k.png"
+      },
+      "exr": {
+        "size": 5266529,
+        "md5": "8c503474fa451f590db787af9eae953f",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/fabric_leather_01/fabric_leather_01_ao_2k.exr"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 524869,
+        "md5": "67d42fa86fecb3605dbc89f15a91d12b",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/fabric_leather_01/fabric_leather_01_ao_1k.jpg"
+      },
+      "png": {
+        "size": 849755,
+        "md5": "d6ccd4cc15c4e6c9c962c8cf2664d16a",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/fabric_leather_01/fabric_leather_01_ao_1k.png"
+      },
+      "exr": {
+        "size": 1247328,
+        "md5": "5820936a9d9bfdb971f8dfb674dfc5fe",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/fabric_leather_01/fabric_leather_01_ao_1k.exr"
+      }
+    }
+  },
+  "Displacement": {
+    "8k": {
+      "jpg": {
+        "size": 3835995,
+        "md5": "47cdab15bc5be0fb8a1df05df8528f14",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/fabric_leather_01/fabric_leather_01_disp_8k.jpg"
+      },
+      "png": {
+        "size": 67336069,
+        "md5": "0b0e7b363dcfe957a4ec1ee24d8551e0",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/fabric_leather_01/fabric_leather_01_disp_8k.png"
+      },
+      "exr": {
+        "size": 8927094,
+        "md5": "08f2add0686b97f57216e2f3bdf17318",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/fabric_leather_01/fabric_leather_01_disp_8k.exr"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 1318015,
+        "md5": "2ac7ad7ccc977eb463066f53b0e09e8a",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/fabric_leather_01/fabric_leather_01_disp_4k.jpg"
+      },
+      "png": {
+        "size": 27349841,
+        "md5": "b89b7b6bebb98173d1239476d29ad517",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/fabric_leather_01/fabric_leather_01_disp_4k.png"
+      },
+      "exr": {
+        "size": 2996557,
+        "md5": "03ab254cbe58c626959f24ff23a893bd",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/fabric_leather_01/fabric_leather_01_disp_4k.exr"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 468654,
+        "md5": "55bbac4458235f06ac22665985e51291",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/fabric_leather_01/fabric_leather_01_disp_2k.jpg"
+      },
+      "png": {
+        "size": 7235162,
+        "md5": "bbb403d143680f80ce06c46975a0f7dc",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/fabric_leather_01/fabric_leather_01_disp_2k.png"
+      },
+      "exr": {
+        "size": 1064601,
+        "md5": "9ac86890d2d9fb7b9494383485a797c2",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/fabric_leather_01/fabric_leather_01_disp_2k.exr"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 132269,
+        "md5": "8fe3cd40d4cd0474d6ddd526cb035b10",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/fabric_leather_01/fabric_leather_01_disp_1k.jpg"
+      },
+      "png": {
+        "size": 1892284,
+        "md5": "a2a606a0d1d8bce596446b62a9ec6efb",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/fabric_leather_01/fabric_leather_01_disp_1k.png"
+      },
+      "exr": {
+        "size": 349402,
+        "md5": "3c2e0fea72f0ffabd7199624a30479ed",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/fabric_leather_01/fabric_leather_01_disp_1k.exr"
+      }
+    }
+  },
+  "Rough": {
+    "8k": {
+      "jpg": {
+        "size": 38277022,
+        "md5": "f2c3cbdc55b4fb56b6cb38a2fb6665d8",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/fabric_leather_01/fabric_leather_01_rough_8k.jpg"
+      },
+      "png": {
+        "size": 48756423,
+        "md5": "d70ca7c0d550e1e7fd6f80046d968226",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/fabric_leather_01/fabric_leather_01_rough_8k.png"
+      },
+      "exr": {
+        "size": 78008098,
+        "md5": "db30bb71395858815f265f8f4cb54514",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/fabric_leather_01/fabric_leather_01_rough_8k.exr"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 10121508,
+        "md5": "f0cc8bff978ab30b680b91333b49f72d",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/fabric_leather_01/fabric_leather_01_rough_4k.jpg"
+      },
+      "png": {
+        "size": 15297967,
+        "md5": "a787d60a70dd55e04c2e07aa375a825f",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/fabric_leather_01/fabric_leather_01_rough_4k.png"
+      },
+      "exr": {
+        "size": 21015307,
+        "md5": "e13b85d22c8349af4c11fae7a129f800",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/fabric_leather_01/fabric_leather_01_rough_4k.exr"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 2621259,
+        "md5": "6166d7bbd6a96f99a3bc528cfa518506",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/fabric_leather_01/fabric_leather_01_rough_2k.jpg"
+      },
+      "png": {
+        "size": 3673663,
+        "md5": "44f62d5e8c86e1a7d166cdd14f66c54f",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/fabric_leather_01/fabric_leather_01_rough_2k.png"
+      },
+      "exr": {
+        "size": 5135972,
+        "md5": "2c574eb764d4b56e38e45499750ad016",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/fabric_leather_01/fabric_leather_01_rough_2k.exr"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 577850,
+        "md5": "8984afb0139f961a4a05d58f3c9403df",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/fabric_leather_01/fabric_leather_01_rough_1k.jpg"
+      },
+      "png": {
+        "size": 848435,
+        "md5": "07b92a577fd5e844f9ab01ee03629366",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/fabric_leather_01/fabric_leather_01_rough_1k.png"
+      },
+      "exr": {
+        "size": 1149316,
+        "md5": "476280e25882bec2e5b311df167db68c",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/fabric_leather_01/fabric_leather_01_rough_1k.exr"
+      }
+    }
+  },
+  "mtlx": {
+    "8k": {
+      "mtlx": {
+        "size": 4768,
+        "md5": "ce0493015b29f4fb5efbfe45c7000618",
+        "include": {
+          "textures/fabric_leather_01_nor_gl_8k.exr": {
+            "size": 84208581,
+            "md5": "a0be70b7372796131a3ec651fd3a22e5",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/fabric_leather_01/fabric_leather_01_nor_gl_8k.exr"
+          },
+          "textures/fabric_leather_01_rough_8k.jpg": {
+            "size": 38277022,
+            "md5": "f2c3cbdc55b4fb56b6cb38a2fb6665d8",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/fabric_leather_01/fabric_leather_01_rough_8k.jpg"
+          },
+          "textures/fabric_leather_01_diff_8k.jpg": {
+            "size": 31636199,
+            "md5": "daa37baff9a621495ef96e064fe53933",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/fabric_leather_01/fabric_leather_01_diff_8k.jpg"
+          },
+          "textures/fabric_leather_01_disp_8k.png": {
+            "size": 67336069,
+            "md5": "0b0e7b363dcfe957a4ec1ee24d8551e0",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/fabric_leather_01/fabric_leather_01_disp_8k.png"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/mtlx/8k/fabric_leather_01/fabric_leather_01_8k.mtlx"
+      }
+    },
+    "4k": {
+      "mtlx": {
+        "size": 4768,
+        "md5": "26a9d6656a1ce515c1185963c0484921",
+        "include": {
+          "textures/fabric_leather_01_diff_4k.jpg": {
+            "size": 9414710,
+            "md5": "efc17589fc24476ef033e5063a54d4cb",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/fabric_leather_01/fabric_leather_01_diff_4k.jpg"
+          },
+          "textures/fabric_leather_01_rough_4k.jpg": {
+            "size": 10121508,
+            "md5": "f0cc8bff978ab30b680b91333b49f72d",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/fabric_leather_01/fabric_leather_01_rough_4k.jpg"
+          },
+          "textures/fabric_leather_01_nor_gl_4k.exr": {
+            "size": 24797617,
+            "md5": "3c762c72ed9ae56503bd47c707f702b5",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/fabric_leather_01/fabric_leather_01_nor_gl_4k.exr"
+          },
+          "textures/fabric_leather_01_disp_4k.png": {
+            "size": 27349841,
+            "md5": "b89b7b6bebb98173d1239476d29ad517",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/fabric_leather_01/fabric_leather_01_disp_4k.png"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/mtlx/4k/fabric_leather_01/fabric_leather_01_4k.mtlx"
+      }
+    },
+    "2k": {
+      "mtlx": {
+        "size": 4768,
+        "md5": "1072485fcdc280a9a62dd5684e6ace89",
+        "include": {
+          "textures/fabric_leather_01_nor_gl_2k.exr": {
+            "size": 7523650,
+            "md5": "599685fea7f94ff004006c1a65eb072f",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/fabric_leather_01/fabric_leather_01_nor_gl_2k.exr"
+          },
+          "textures/fabric_leather_01_diff_2k.jpg": {
+            "size": 2467670,
+            "md5": "f9c0c71ebadf92071d5779257c12d73a",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/fabric_leather_01/fabric_leather_01_diff_2k.jpg"
+          },
+          "textures/fabric_leather_01_disp_2k.png": {
+            "size": 7235162,
+            "md5": "bbb403d143680f80ce06c46975a0f7dc",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/fabric_leather_01/fabric_leather_01_disp_2k.png"
+          },
+          "textures/fabric_leather_01_rough_2k.jpg": {
+            "size": 2621259,
+            "md5": "6166d7bbd6a96f99a3bc528cfa518506",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/fabric_leather_01/fabric_leather_01_rough_2k.jpg"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/mtlx/2k/fabric_leather_01/fabric_leather_01_2k.mtlx"
+      }
+    },
+    "1k": {
+      "mtlx": {
+        "size": 4768,
+        "md5": "7ee848a89f6dbca08a1b73480d3c29e6",
+        "include": {
+          "textures/fabric_leather_01_diff_1k.jpg": {
+            "size": 510537,
+            "md5": "54ef2a19a00d35a9cd374e419fb75912",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/fabric_leather_01/fabric_leather_01_diff_1k.jpg"
+          },
+          "textures/fabric_leather_01_disp_1k.png": {
+            "size": 1892284,
+            "md5": "a2a606a0d1d8bce596446b62a9ec6efb",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/fabric_leather_01/fabric_leather_01_disp_1k.png"
+          },
+          "textures/fabric_leather_01_rough_1k.jpg": {
+            "size": 577850,
+            "md5": "8984afb0139f961a4a05d58f3c9403df",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/fabric_leather_01/fabric_leather_01_rough_1k.jpg"
+          },
+          "textures/fabric_leather_01_nor_gl_1k.exr": {
+            "size": 1914757,
+            "md5": "65e0ed440aeba7dc997686024659fe10",
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/fabric_leather_01/fabric_leather_01_nor_gl_1k.exr"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/mtlx/1k/fabric_leather_01/fabric_leather_01_1k.mtlx"
+      }
+    }
+  }
+}

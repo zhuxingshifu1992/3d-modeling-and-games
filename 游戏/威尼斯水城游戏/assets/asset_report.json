@@ -1,0 +1,76 @@
+{
+  "status": "PASS",
+  "source": "威尼斯水城.blend",
+  "source_saved_or_modified": false,
+  "blender": "5.2.1 LTS",
+  "source_mesh_objects": 5880,
+  "excluded_animated_gondola_groups": 6,
+  "static_source_objects": 6096,
+  "source_triangles_after_detail_simplification": 449896,
+  "budget_collapse_ratio": 0.5254547717694756,
+  "city_triangle_budget": 240000,
+  "axis_conversion": "Blender (x,y,z) -> Godot/glTF (x,z,-y); transforms baked; nodes identity",
+  "gondola_origin": "Authored hull center in x/y; lowest geometry y=0 in Godot",
+  "gondola_long_axis": "+X; game can rotate by yaw + PI/2 for default -Z travel",
+  "materials": "One opaque double-sided KHR_materials_unlit vertex-color material per asset; gentle directional and ambient lighting baked in linear colors",
+  "optimization": [
+    "All static meshes merged into one draw surface",
+    "Roof barrel tile cross sections halved",
+    "Decorative bevel modifiers omitted",
+    "Curve bevel resolution reduced to four-sided profiles",
+    "Degenerate triangles removed",
+    "Shared position/normal/color vertices welded"
+  ],
+  "contains_water": false,
+  "contains_physics_collision": false,
+  "external_dependencies": [],
+  "assets": {
+    "city": {
+      "file": "city.glb",
+      "bytes": 18950256,
+      "triangles": 226056,
+      "render_vertices": 579867,
+      "meshes": 1,
+      "surfaces": 1,
+      "materials": 1,
+      "bounds_godot": {
+        "min": [
+          -31.19955,
+          -0.6,
+          -26.03
+        ],
+        "max": [
+          32.925,
+          25.1824,
+          28.43
+        ]
+      },
+      "degenerate_triangles_removed": 10344,
+      "validation": "PASS: binary chunks, accessors, indices, one surface, no animations/textures, opaque double-sided"
+    },
+    "gondola": {
+      "file": "gondola.glb",
+      "bytes": 94892,
+      "triangles": 1160,
+      "render_vertices": 2846,
+      "meshes": 1,
+      "surfaces": 1,
+      "materials": 1,
+      "bounds_godot": {
+        "min": [
+          -3.02429,
+          0.0,
+          -2.95832
+        ],
+        "max": [
+          3.22,
+          1.77436,
+          0.65351
+        ]
+      },
+      "degenerate_triangles_removed": 64,
+      "validation": "PASS: binary chunks, accessors, indices, one surface, no animations/textures, opaque double-sided"
+    }
+  },
+  "elapsed_seconds": 50.42
+}

@@ -1,0 +1,25 @@
+{
+  "godot": "4.7.2-stable (official)",
+  "minimal_runtime_fix": "Enable BaseMaterial3D.vertex_color_use_as_albedo on imported mesh surface materials. Keep vertex_color_is_srgb=false because exported GLB colors are linear.",
+  "observed_materials": [
+    {
+      "color_count": 579867,
+      "cull_mode": 2,
+      "mesh": "VeniceCity",
+      "sample_color": "(0.2667, 0.0902, 0.0588, 1.0)",
+      "shading_mode": 0,
+      "vertex_color_is_srgb": false,
+      "vertex_color_use_as_albedo": false
+    },
+    {
+      "color_count": 2846,
+      "cull_mode": 2,
+      "mesh": "PlayerGondola",
+      "sample_color": "(0.8118, 0.7373, 0.5529, 1.0)",
+      "shading_mode": 0,
+      "vertex_color_is_srgb": false,
+      "vertex_color_use_as_albedo": false
+    }
+  ],
+  "root_cause": "COLOR_0 vertex data survives import but vertex_color_use_as_albedo is false."
+}

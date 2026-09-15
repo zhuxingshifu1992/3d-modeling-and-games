@@ -1,0 +1,56 @@
+{
+  "source": "Microsoft Rocketbox",
+  "upstream_commit": "0943055db6ec570bcef9f2c8b41c9e5467c808f9",
+  "bones": 80,
+  "meshes": [
+    {
+      "name": "AnatomicalSkin",
+      "vertices": 17024,
+      "polygons": 16815
+    },
+    {
+      "name": "CapPonytailAndSocks",
+      "vertices": 5734,
+      "polygons": 5388
+    },
+    {
+      "name": "CroppedCottonTee",
+      "vertices": 5552,
+      "polygons": 5556
+    },
+    {
+      "name": "PhotographicCanvasSneakers",
+      "vertices": 1946,
+      "polygons": 1920
+    },
+    {
+      "name": "TailoredGreenShorts",
+      "vertices": 3346,
+      "polygons": 3348
+    }
+  ],
+  "actions": [
+    "Ride",
+    "Tuck",
+    "Brake",
+    "Push"
+  ],
+  "material_overrides": {
+    "CottonTee": {
+      "source": "source/image_optimization/generated/cotton_tee_image2_v1.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "fee3b613d716ee7427bdd7154de0fec90745a9eb332da8389e5a44be7cedcd2b",
+      "channel": "albedo",
+      "approval_manifest": "source/image_optimization/approved_overrides.json"
+    },
+    "GreenDenim": {
+      "source": "source/image_optimization/generated/green_shorts_image2_v2.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "79f5668166c16f34d362bced6ba32d6e39d2b9c76600cf403603caf39caf0e29",
+      "channel": "albedo",
+      "approval_manifest": "source/image_optimization/approved_overrides.json"
+    }
+  }
+}
