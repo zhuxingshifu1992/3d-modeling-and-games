@@ -1,0 +1,109 @@
+{
+  "date": "2026-09-24",
+  "godot": "4.7.2",
+  "blender": "5.2.1",
+  "headless_only": true,
+  "resource_import_passed": true,
+  "run_checks": [
+    {
+      "name": "startup",
+      "passed": true
+    },
+    {
+      "name": "test_bay_state",
+      "passed": true
+    },
+    {
+      "name": "test_boarding_alignment_assist",
+      "passed": true
+    },
+    {
+      "name": "test_cockpit_furniture",
+      "passed": true
+    },
+    {
+      "name": "test_cockpit_transfer",
+      "passed": true
+    },
+    {
+      "name": "test_exia_docking_bridge",
+      "passed": true
+    },
+    {
+      "name": "test_freedom_asset",
+      "passed": true
+    },
+    {
+      "name": "test_mouse_ownership",
+      "passed": true
+    },
+    {
+      "name": "test_narrow_alignment",
+      "passed": true
+    },
+    {
+      "name": "test_narrow_entry",
+      "passed": true
+    },
+    {
+      "name": "test_profile",
+      "passed": true
+    },
+    {
+      "name": "test_refined_assets",
+      "passed": true
+    },
+    {
+      "name": "test_rx78_clearance",
+      "passed": true
+    },
+    {
+      "name": "test_unicorn_asset",
+      "passed": true
+    },
+    {
+      "name": "clearance_rx78",
+      "passed": true
+    },
+    {
+      "name": "clearance_nu",
+      "passed": true
+    },
+    {
+      "name": "clearance_exia",
+      "passed": true
+    },
+    {
+      "name": "clearance_freedom",
+      "passed": true
+    },
+    {
+      "name": "clearance_unicorn",
+      "passed": true
+    },
+    {
+      "name": "hud",
+      "passed": true
+    },
+    {
+      "name": "pack_dry_run",
+      "passed": true
+    },
+    {
+      "name": "six_machine_walkthrough",
+      "passed": true
+    }
+  ],
+  "six_machine_walkthrough": {
+    "checks": 100,
+    "failures": 0,
+    "gpu": false
+  },
+  "glb_integrity": {
+    "models": 12,
+    "geometry_accessors": 926,
+    "images": 160
+  },
+  "blender_files": 3,
+  "original_files_unchanged": true
+}

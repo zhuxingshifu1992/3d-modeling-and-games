@@ -1,0 +1,4071 @@
+{
+  "schema": 1,
+  "converter_version": "1.0.0",
+  "source_fingerprint": {
+    "converter_version": "1.0.0",
+    "converter_sha256": "df7b0fd6eabdd44668013b702171efdc4851e62319e7351ca1fb1366f8b43770",
+    "mtl_sha256": "db311f561ce3a56c4ff5425c66032b2a1dd3a1e8c0931dbe014ef12e9bca74f4",
+    "obj_sha256": "90aa3a9ed97bd7b7a0722b4ea70b99197821be974e167e044514950d5e8e785b",
+    "textures": {
+      "UC_BODY_OTHER_BUMP.jpg": "c0a13ca40635ce1383aa5ab1c2565a6b6678e7fdf0bc055ce608bb8d9bddce54",
+      "UC_BODY_OTHER_COL.jpg": "ef144608c9a4e1c8c765673e2560a8b3f41bccf4c711df789db1af4472c05702",
+      "UC_BODY_OTHER_SPEC.jpg": "4c81a62344128bbdd7801d87d91adeb509ad6e9cc97043e898bb07390d6298f1",
+      "UC_BODY_RED_BUMP.jpg": "e705bcff95f156075dd0351c6f9fed6449b1c05cc4e1ccdabf4c4aba64a6257d",
+      "UC_BODY_RED_COL.jpg": "cf40c05fb9da0c1ba4089c8b3647ca7e846e9e2b8506fa34c35ddfba8ee17afe",
+      "UC_BODY_RED_SPEC.jpg": "9c7dc9c05b0f07db4238619cfeda9a5dba2d6305f8fc4d7162168f097f3c7bd7",
+      "UC_BODY_WHITE_BUMP.jpg": "5a65e760d46b02506736847d236b43174d492c868799404dbc761771d87e2ee7",
+      "UC_BODY_WHITE_COL.jpg": "1c82af03585a9c8a1a42ee6b84e5bfc6d439cc6597fd76392194ac0755eb2efd",
+      "UC_BODY_WHITE_SPEC.jpg": "69b2a36afa63843b6eea9f332d77f5e79dbe335fcbbe2ed9c5265ab16428ec28",
+      "UC_BPACK_MAIN_BUMP.jpg": "f9660ed4c11d8e9ee1701e6051a2ffc853eb3a9d9ae59519194d27126ec471be",
+      "UC_BPACK_MAIN_COL.jpg": "76a1db75b7e002c533e1b06655aca5ae27787e47e95517c62c59da98cee8b09a",
+      "UC_BPACK_MAIN_SPEC.jpg": "a44e05276487509877b744610b51de2e2feee7e1068b62b314d065ae7c1709b8",
+      "UC_BPACK_RED_BUMP.jpg": "800ede12d31e407861c7722b3c47150082181f8d12db54770c962500b818ff7c",
+      "UC_BPACK_RED_COL.jpg": "6b357c14ad7ce9a0920698e089e60a38155cf2090913903e759348fa602db1ff",
+      "UC_COCKPIT_OTHER_BUMP.jpg": "b6ae0c4bbfdd512dc264e9edf19e42ecce6ee9de82056a624a6ffdd8027bf5a7",
+      "UC_COCKPIT_OTHER_COL.jpg": "9d0a8b17aaf04855aff2b82b2dd3b5cae5575b0b90467eeaf17eecaea6e6fc71",
+      "UC_COCKPIT_OTHER_SPEC.jpg": "9d6d5c34ed2ef4008f1f4d133641a6a3561ed85da65a0098b3082ea92f8ef7ac",
+      "UC_HEAD_OTHER_BUMP.jpg": "ab747a188c3dc3a8bfcf4e37cebe60af46bc26626c22240d4adc6797cc053fc3",
+      "UC_HEAD_OTHER_COL.jpg": "ebd7677a68d7faaf8e9b6874b2df64fd96f8b4227a4dd882ef43d3307af26775",
+      "UC_HEAD_OTHER_SPEC.jpg": "39368ff82dbd00a3bf347bb57a864a3a9f32357f8fe21a49e4ad95bd9d26a5b3",
+      "UC_HEAD_RED_BUMP.jpg": "ad48aa5980ae43a1116e13cd085fbfef5d1f2f57322d2efe42923b8acae5c1f2",
+      "UC_HEAD_RED_COL.jpg": "709170a4863f2e27fc9142c3dcf94374ba4bb125fd9846304a4c05212ad2c12b",
+      "UC_HEAD_RED_SPEC.jpg": "2dedb2795908674a4ec285f3a8a3a54ad0126e4c4561f956305f2d8c93950d19",
+      "UC_HEAD_WHITE_BUMP.jpg": "c2a073d0e063e29f65775f8539491c4359eff6ab51028ea9108b3362f1453437",
+      "UC_HEAD_WHITE_COL.jpg": "b1dd7efce7b5cf04030c5afa44a311ac3aa43d7f04a3d34d664366078fee0a74",
+      "UC_HEAD_WHITE_SPEC.jpg": "3707ef2bb80f131ea00fc54e4b9119f9356417c539e263138fd7a53fd8d4a657",
+      "UC_LHAND_OTHER_BUMP.jpg": "9c4efe2f5cf51ac304f57f22f7764b82b9f4e50c86de1ddcfc8b4d1d4d4324f9",
+      "UC_LHAND_OTHER_COL.jpg": "9bbc77aab16126acb8981c5c78002fd2ea20d66d1359df57d49a604035b0080c",
+      "UC_LHAND_OTHER_SPEC.jpg": "5d05cd778975c2908b7d1e02547987bda7862ac7b1bc834175380723d7edd79e",
+      "UC_LHAND_RED_BUMP.jpg": "69ef5249c23b15132c4b4073040786a3a06d91b5e546ebb21a8b26df74d60cb9",
+      "UC_LHAND_RED_COL.jpg": "23b0393268fac294fc612cba18b00604abff4f907614cf85c66175595b30d2b7",
+      "UC_LHAND_RED_SPEC.jpg": "2b9a7fa4b85b24c367f36d00910bbc16d03d095eb1f99f2264f01d460a1e1b7c",
+      "UC_LHAND_WHITE_BUMP.jpg": "15a4967e0bd268cda04d53ddcc9b131dd564fb89d0ebaaed4f8b968bbd727c6b",
+      "UC_LHAND_WHITE_COL.jpg": "646a0767af7f2885527030021717b5ef164997879e881deb709c768c612a0f46",
+      "UC_LHAND_WHITE_SPEC.jpg": "6675b2cd3248af55d1819edad880a6adf08097b2921c66a0970185b02a54a6a3",
+      "UC_LLEG_OTHER_BUMP.jpg": "e912e5bcda01a36cfa0c9836183f6d88d4aab3757e79f636c1cc0e717fedc052",
+      "UC_LLEG_OTHER_COL.jpg": "a7bfd57947a642ed977499cfc7f1bd0da7870100dfb044654b8b2c895ff7fd40",
+      "UC_LLEG_OTHER_SPEC.jpg": "7e325542db54fc53a64adef4dfcb3979005cac3b7094da83811e8fd02cc63f18",
+      "UC_LLEG_RED_BUMP.jpg": "794aaf24ce30e571f6584f28f293da62014945406c94d160d24cd35fcfb3ba3a",
+      "UC_LLEG_RED_COL.jpg": "d942fb022be5f1d16c1bd8552ba3a7a4aa5588bebe7084e8e0eacac616dbb492",
+      "UC_LLEG_RED_SPEC.jpg": "6e5b52936cbbb42706de8894ac168e64d7202b0ab19bb7f1184c0bde74d3f140",
+      "UC_LLEG_WHITE_BUMP.jpg": "3b24466d4c63bc0e3d609c1712f36191536eae1897c525ae0b335b52d772458e",
+      "UC_LLEG_WHITE_COL.jpg": "903a970732071feca312d1a98e859f09f4f8a9ce73f202e16c0454b868108fad",
+      "UC_LLEG_WHITE_SPEC.jpg": "8a6f86905205f54516c646e8ae485b26b0d94baaf4da797f76e9e7acabcc3d45",
+      "UC_RHAND_OTHER_BUMP.jpg": "bc97298540554d1ac2fca27eb329f43a01346d4943ad08b88bd69a5a73e30b81",
+      "UC_RHAND_OTHER_COL.jpg": "df83c886f0ef4a41dc41a0b7bacf226c0140eba0755a42de484b0a8713d9d791",
+      "UC_RHAND_OTHER_SPEC.jpg": "10794102fcad135599381b3d04a9ef46a3a1431193a857e9860d154e32a4f93a",
+      "UC_RHAND_RED_BUMP.jpg": "4f75aa608c8404a5669b06f765c78b2a058fc164d8d2054843313bd77a7d76a2",
+      "UC_RHAND_RED_COL.jpg": "ffa227114b0b6d7cb8ccbc27ad8eff47622daf517825fbcfbfd9123624b84b26",
+      "UC_RHAND_RED_SPEC.jpg": "4ee32aa60d00d4852763c9977dc5730a45b8948b80453e4b5220211c4ec63438",
+      "UC_RHAND_WHITE_BUMP.jpg": "83a06ace54543191cefd43272c91f0a68b766d12a30dffaff2908aa4b194dbaf",
+      "UC_RHAND_WHITE_COL.jpg": "68ac46819e0841b796b995c3ac3e7d4457ab7291145fe71b7fe841c997d66f78",
+      "UC_RHAND_WHITE_SPEC.jpg": "846d043a71b19952b55f3872f294cbfb9e593d9dc61d03951613f12cacd5dc23",
+      "UC_RLEG_OTHER_BUMP.jpg": "2fd5d63e18db90bab20827794fd6327cb9dfe0681383cf9f08c0584d3b4bd200",
+      "UC_RLEG_OTHER_COL.jpg": "6e9eac21320725ab0dad138140b868044df8ac2564325282b7ca386edecb679c",
+      "UC_RLEG_OTHER_SPEC.jpg": "40b8882080fa854b9af5e0765b378a29476e904c294c54fa1b4ab089ccfcf6cd",
+      "UC_RLEG_RED_BUMP.jpg": "d7212b0f6cd23380e24b421ef8178321221191aed261a5f19bba9ab42d2b56e0",
+      "UC_RLEG_RED_COL.jpg": "889e69f01a02e20352889ba8236233e176d9651fcf31151d4010e77439671970",
+      "UC_RLEG_RED_SPEC.jpg": "f0e579904ea9a145bd475a0e7b5a8cda2e995f8f9825e3fc65c7d07cc909e6f2",
+      "UC_RLEG_WHITE_BUMP.jpg": "90996090a678aeffd6abcbb27450e8ce974db3bee149c15b47d9cab14bc44fc5",
+      "UC_RLEG_WHITE_COL.jpg": "e13b76e55dba27c596e3d88e78c56e58db27c38aa5201ae72ab3753c5e41feb1",
+      "UC_RLEG_WHITE_SPEC.jpg": "a540c3a0883b82a96c623f3222f368f6b25ae194bcd3283b083fe971cf994a4c",
+      "UC_WAIST_OTHER_BUMP.jpg": "b087081796624be534bdf8920abf28a8d912b5bc1a948e6144a7f0a4ee038659",
+      "UC_WAIST_OTHER_COL.jpg": "80eeb2ffe83e331319d337219fa950d46a9e8ff7209ca53035038c738918b56c",
+      "UC_WAIST_OTHER_SPEC.jpg": "780fc7e4d1c79d1f14dad1305ac7fb4cd8fa42def6a4c56037896410cc4b8b26",
+      "UC_WAIST_RED_BUMP.jpg": "e558167bd5d22a3cc033f3e4bfb91ecf130f8a8fa1ec6fe516047065fbbfd7f6",
+      "UC_WAIST_RED_COL.jpg": "4d03356b82bfd46d73b5df442f8e5741ea48138327955ccf26dd1b0db3fecb72",
+      "UC_WAIST_RED_SPEC.jpg": "8a4778be0642cb7ac05584f6a35ce35388845e32dd7d3b9e9558be48a54d0072",
+      "UC_WAIST_WHITE_BUMP.jpg": "c8f9ccf7f34a586d82a183cc993cbfc9f727726c8651d20670b914c24f651eb3",
+      "UC_WAIST_WHITE_COL.jpg": "8f9d3cf82414fb35ccc348872538b179c1cf36688e8a087cd6abea124be63e23",
+      "UC_WAIST_WHITE_SPEC.jpg": "8de274c3c094a310d44f526aeedacf6edff3eac1116147f4f3ce6fb4a5aab471"
+    }
+  },
+  "source_directory": "游戏/高达_巨构机库/source/external/unicorn_sketchfab/author_source",
+  "derived_directory": "游戏/高达_巨构机库/source/external/unicorn_sketchfab/derived",
+  "references": [
+    "https://registry.khronos.org/glTF/specs/2.0/glTF-2.0.html",
+    "https://docs.blender.org/manual/en/3.6/addons/import_export/scene_gltf2.html"
+  ],
+  "limitations": [
+    "Author files contain legacy diffuse, bump and specular-intensity maps, not native metallic/roughness PBR.",
+    "Original COL pixels, including baked lighting, wear, panel lines and markings, remain unchanged; baked shading can compound with runtime lighting.",
+    "SPEC intensity supplies bounded roughness variation only; no measured glossiness, IOR or true metallic masks exist.",
+    "Dark mixed atlases use a conservative artistic metal fraction with bright COL regions masked toward dielectric paint; this does not recover physical material identity.",
+    "Tangent normals assume white-is-high bump and OpenGL +Y; height scale is artistic, since MTL bump amplitude has no reliable physical unit.",
+    "Emission is a restrained artistic treatment for the eight RED COL atlases, masked by red chroma; the untextured red material remains non-emissive because its identity is unknown.",
+    "MTL illum=4, Tf=1 and Ni=1 are legacy exporter defaults and do not establish transparent armor; the converted materials are opaque with transmission zero."
+  ],
+  "source_audit": {
+    "missing_referenced_textures": [],
+    "unreferenced_source_textures": [],
+    "obj_used_materials": {
+      "blinn10SG": 9496,
+      "blinn11SG": 11600,
+      "blinn12SG": 3060,
+      "blinn13SG": 8844,
+      "blinn14SG": 14320,
+      "blinn15SG": 5543,
+      "blinn16SG": 9380,
+      "blinn17SG": 13769,
+      "blinn18SG": 1194,
+      "blinn19SG": 7342,
+      "blinn1SG": 9818,
+      "blinn20SG": 328,
+      "blinn2SG": 2670,
+      "blinn4SG": 2410,
+      "blinn5SG": 11820,
+      "blinn6SG": 2788,
+      "blinn7SG": 8034,
+      "blinn8SG": 9944,
+      "blinn9SG": 4486,
+      "rhand_other_texSG": 8844,
+      "rhand_red_texSG": 3060,
+      "rhand_white_texSG": 11600,
+      "rleg_other_texSG": 9380,
+      "rleg_red_texSG": 5543,
+      "rleg_white_texSG": 14320
+    },
+    "all_source_textures": {
+      "UC_BODY_OTHER_BUMP.jpg": {
+        "path": "UC_BODY_OTHER_BUMP.jpg",
+        "sha256": "c0a13ca40635ce1383aa5ab1c2565a6b6678e7fdf0bc055ce608bb8d9bddce54",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1274253
+      },
+      "UC_BODY_OTHER_COL.jpg": {
+        "path": "UC_BODY_OTHER_COL.jpg",
+        "sha256": "ef144608c9a4e1c8c765673e2560a8b3f41bccf4c711df789db1af4472c05702",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1355386
+      },
+      "UC_BODY_OTHER_SPEC.jpg": {
+        "path": "UC_BODY_OTHER_SPEC.jpg",
+        "sha256": "4c81a62344128bbdd7801d87d91adeb509ad6e9cc97043e898bb07390d6298f1",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 2190351
+      },
+      "UC_BODY_RED_BUMP.jpg": {
+        "path": "UC_BODY_RED_BUMP.jpg",
+        "sha256": "e705bcff95f156075dd0351c6f9fed6449b1c05cc4e1ccdabf4c4aba64a6257d",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1440914
+      },
+      "UC_BODY_RED_COL.jpg": {
+        "path": "UC_BODY_RED_COL.jpg",
+        "sha256": "cf40c05fb9da0c1ba4089c8b3647ca7e846e9e2b8506fa34c35ddfba8ee17afe",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1579863
+      },
+      "UC_BODY_RED_SPEC.jpg": {
+        "path": "UC_BODY_RED_SPEC.jpg",
+        "sha256": "9c7dc9c05b0f07db4238619cfeda9a5dba2d6305f8fc4d7162168f097f3c7bd7",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 2035368
+      },
+      "UC_BODY_WHITE_BUMP.jpg": {
+        "path": "UC_BODY_WHITE_BUMP.jpg",
+        "sha256": "5a65e760d46b02506736847d236b43174d492c868799404dbc761771d87e2ee7",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1306213
+      },
+      "UC_BODY_WHITE_COL.jpg": {
+        "path": "UC_BODY_WHITE_COL.jpg",
+        "sha256": "1c82af03585a9c8a1a42ee6b84e5bfc6d439cc6597fd76392194ac0755eb2efd",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 2093377
+      },
+      "UC_BODY_WHITE_SPEC.jpg": {
+        "path": "UC_BODY_WHITE_SPEC.jpg",
+        "sha256": "69b2a36afa63843b6eea9f332d77f5e79dbe335fcbbe2ed9c5265ab16428ec28",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 2397619
+      },
+      "UC_BPACK_MAIN_BUMP.jpg": {
+        "path": "UC_BPACK_MAIN_BUMP.jpg",
+        "sha256": "f9660ed4c11d8e9ee1701e6051a2ffc853eb3a9d9ae59519194d27126ec471be",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1535885
+      },
+      "UC_BPACK_MAIN_COL.jpg": {
+        "path": "UC_BPACK_MAIN_COL.jpg",
+        "sha256": "76a1db75b7e002c533e1b06655aca5ae27787e47e95517c62c59da98cee8b09a",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1225147
+      },
+      "UC_BPACK_MAIN_SPEC.jpg": {
+        "path": "UC_BPACK_MAIN_SPEC.jpg",
+        "sha256": "a44e05276487509877b744610b51de2e2feee7e1068b62b314d065ae7c1709b8",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 2195071
+      },
+      "UC_BPACK_RED_BUMP.jpg": {
+        "path": "UC_BPACK_RED_BUMP.jpg",
+        "sha256": "800ede12d31e407861c7722b3c47150082181f8d12db54770c962500b818ff7c",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1217015
+      },
+      "UC_BPACK_RED_COL.jpg": {
+        "path": "UC_BPACK_RED_COL.jpg",
+        "sha256": "6b357c14ad7ce9a0920698e089e60a38155cf2090913903e759348fa602db1ff",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1388809
+      },
+      "UC_COCKPIT_OTHER_BUMP.jpg": {
+        "path": "UC_COCKPIT_OTHER_BUMP.jpg",
+        "sha256": "b6ae0c4bbfdd512dc264e9edf19e42ecce6ee9de82056a624a6ffdd8027bf5a7",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1314034
+      },
+      "UC_COCKPIT_OTHER_COL.jpg": {
+        "path": "UC_COCKPIT_OTHER_COL.jpg",
+        "sha256": "9d0a8b17aaf04855aff2b82b2dd3b5cae5575b0b90467eeaf17eecaea6e6fc71",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1349820
+      },
+      "UC_COCKPIT_OTHER_SPEC.jpg": {
+        "path": "UC_COCKPIT_OTHER_SPEC.jpg",
+        "sha256": "9d6d5c34ed2ef4008f1f4d133641a6a3561ed85da65a0098b3082ea92f8ef7ac",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1839877
+      },
+      "UC_HEAD_OTHER_BUMP.jpg": {
+        "path": "UC_HEAD_OTHER_BUMP.jpg",
+        "sha256": "ab747a188c3dc3a8bfcf4e37cebe60af46bc26626c22240d4adc6797cc053fc3",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1161544
+      },
+      "UC_HEAD_OTHER_COL.jpg": {
+        "path": "UC_HEAD_OTHER_COL.jpg",
+        "sha256": "ebd7677a68d7faaf8e9b6874b2df64fd96f8b4227a4dd882ef43d3307af26775",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1441810
+      },
+      "UC_HEAD_OTHER_SPEC.jpg": {
+        "path": "UC_HEAD_OTHER_SPEC.jpg",
+        "sha256": "39368ff82dbd00a3bf347bb57a864a3a9f32357f8fe21a49e4ad95bd9d26a5b3",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1632964
+      },
+      "UC_HEAD_RED_BUMP.jpg": {
+        "path": "UC_HEAD_RED_BUMP.jpg",
+        "sha256": "ad48aa5980ae43a1116e13cd085fbfef5d1f2f57322d2efe42923b8acae5c1f2",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1260766
+      },
+      "UC_HEAD_RED_COL.jpg": {
+        "path": "UC_HEAD_RED_COL.jpg",
+        "sha256": "709170a4863f2e27fc9142c3dcf94374ba4bb125fd9846304a4c05212ad2c12b",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1671871
+      },
+      "UC_HEAD_RED_SPEC.jpg": {
+        "path": "UC_HEAD_RED_SPEC.jpg",
+        "sha256": "2dedb2795908674a4ec285f3a8a3a54ad0126e4c4561f956305f2d8c93950d19",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1701350
+      },
+      "UC_HEAD_WHITE_BUMP.jpg": {
+        "path": "UC_HEAD_WHITE_BUMP.jpg",
+        "sha256": "c2a073d0e063e29f65775f8539491c4359eff6ab51028ea9108b3362f1453437",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1529492
+      },
+      "UC_HEAD_WHITE_COL.jpg": {
+        "path": "UC_HEAD_WHITE_COL.jpg",
+        "sha256": "b1dd7efce7b5cf04030c5afa44a311ac3aa43d7f04a3d34d664366078fee0a74",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1927661
+      },
+      "UC_HEAD_WHITE_SPEC.jpg": {
+        "path": "UC_HEAD_WHITE_SPEC.jpg",
+        "sha256": "3707ef2bb80f131ea00fc54e4b9119f9356417c539e263138fd7a53fd8d4a657",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 2341379
+      },
+      "UC_LHAND_OTHER_BUMP.jpg": {
+        "path": "UC_LHAND_OTHER_BUMP.jpg",
+        "sha256": "9c4efe2f5cf51ac304f57f22f7764b82b9f4e50c86de1ddcfc8b4d1d4d4324f9",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1396923
+      },
+      "UC_LHAND_OTHER_COL.jpg": {
+        "path": "UC_LHAND_OTHER_COL.jpg",
+        "sha256": "9bbc77aab16126acb8981c5c78002fd2ea20d66d1359df57d49a604035b0080c",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1365368
+      },
+      "UC_LHAND_OTHER_SPEC.jpg": {
+        "path": "UC_LHAND_OTHER_SPEC.jpg",
+        "sha256": "5d05cd778975c2908b7d1e02547987bda7862ac7b1bc834175380723d7edd79e",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 2191483
+      },
+      "UC_LHAND_RED_BUMP.jpg": {
+        "path": "UC_LHAND_RED_BUMP.jpg",
+        "sha256": "69ef5249c23b15132c4b4073040786a3a06d91b5e546ebb21a8b26df74d60cb9",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1279707
+      },
+      "UC_LHAND_RED_COL.jpg": {
+        "path": "UC_LHAND_RED_COL.jpg",
+        "sha256": "23b0393268fac294fc612cba18b00604abff4f907614cf85c66175595b30d2b7",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1615325
+      },
+      "UC_LHAND_RED_SPEC.jpg": {
+        "path": "UC_LHAND_RED_SPEC.jpg",
+        "sha256": "2b9a7fa4b85b24c367f36d00910bbc16d03d095eb1f99f2264f01d460a1e1b7c",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 2238273
+      },
+      "UC_LHAND_WHITE_BUMP.jpg": {
+        "path": "UC_LHAND_WHITE_BUMP.jpg",
+        "sha256": "15a4967e0bd268cda04d53ddcc9b131dd564fb89d0ebaaed4f8b968bbd727c6b",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1475007
+      },
+      "UC_LHAND_WHITE_COL.jpg": {
+        "path": "UC_LHAND_WHITE_COL.jpg",
+        "sha256": "646a0767af7f2885527030021717b5ef164997879e881deb709c768c612a0f46",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1975769
+      },
+      "UC_LHAND_WHITE_SPEC.jpg": {
+        "path": "UC_LHAND_WHITE_SPEC.jpg",
+        "sha256": "6675b2cd3248af55d1819edad880a6adf08097b2921c66a0970185b02a54a6a3",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 2345601
+      },
+      "UC_LLEG_OTHER_BUMP.jpg": {
+        "path": "UC_LLEG_OTHER_BUMP.jpg",
+        "sha256": "e912e5bcda01a36cfa0c9836183f6d88d4aab3757e79f636c1cc0e717fedc052",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1198481
+      },
+      "UC_LLEG_OTHER_COL.jpg": {
+        "path": "UC_LLEG_OTHER_COL.jpg",
+        "sha256": "a7bfd57947a642ed977499cfc7f1bd0da7870100dfb044654b8b2c895ff7fd40",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1339423
+      },
+      "UC_LLEG_OTHER_SPEC.jpg": {
+        "path": "UC_LLEG_OTHER_SPEC.jpg",
+        "sha256": "7e325542db54fc53a64adef4dfcb3979005cac3b7094da83811e8fd02cc63f18",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 2063800
+      },
+      "UC_LLEG_RED_BUMP.jpg": {
+        "path": "UC_LLEG_RED_BUMP.jpg",
+        "sha256": "794aaf24ce30e571f6584f28f293da62014945406c94d160d24cd35fcfb3ba3a",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1299637
+      },
+      "UC_LLEG_RED_COL.jpg": {
+        "path": "UC_LLEG_RED_COL.jpg",
+        "sha256": "d942fb022be5f1d16c1bd8552ba3a7a4aa5588bebe7084e8e0eacac616dbb492",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1632251
+      },
+      "UC_LLEG_RED_SPEC.jpg": {
+        "path": "UC_LLEG_RED_SPEC.jpg",
+        "sha256": "6e5b52936cbbb42706de8894ac168e64d7202b0ab19bb7f1184c0bde74d3f140",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1886435
+      },
+      "UC_LLEG_WHITE_BUMP.jpg": {
+        "path": "UC_LLEG_WHITE_BUMP.jpg",
+        "sha256": "3b24466d4c63bc0e3d609c1712f36191536eae1897c525ae0b335b52d772458e",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1350077
+      },
+      "UC_LLEG_WHITE_COL.jpg": {
+        "path": "UC_LLEG_WHITE_COL.jpg",
+        "sha256": "903a970732071feca312d1a98e859f09f4f8a9ce73f202e16c0454b868108fad",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 2072432
+      },
+      "UC_LLEG_WHITE_SPEC.jpg": {
+        "path": "UC_LLEG_WHITE_SPEC.jpg",
+        "sha256": "8a6f86905205f54516c646e8ae485b26b0d94baaf4da797f76e9e7acabcc3d45",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 2277680
+      },
+      "UC_RHAND_OTHER_BUMP.jpg": {
+        "path": "UC_RHAND_OTHER_BUMP.jpg",
+        "sha256": "bc97298540554d1ac2fca27eb329f43a01346d4943ad08b88bd69a5a73e30b81",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1396783
+      },
+      "UC_RHAND_OTHER_COL.jpg": {
+        "path": "UC_RHAND_OTHER_COL.jpg",
+        "sha256": "df83c886f0ef4a41dc41a0b7bacf226c0140eba0755a42de484b0a8713d9d791",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1365746
+      },
+      "UC_RHAND_OTHER_SPEC.jpg": {
+        "path": "UC_RHAND_OTHER_SPEC.jpg",
+        "sha256": "10794102fcad135599381b3d04a9ef46a3a1431193a857e9860d154e32a4f93a",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 2191449
+      },
+      "UC_RHAND_RED_BUMP.jpg": {
+        "path": "UC_RHAND_RED_BUMP.jpg",
+        "sha256": "4f75aa608c8404a5669b06f765c78b2a058fc164d8d2054843313bd77a7d76a2",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1279600
+      },
+      "UC_RHAND_RED_COL.jpg": {
+        "path": "UC_RHAND_RED_COL.jpg",
+        "sha256": "ffa227114b0b6d7cb8ccbc27ad8eff47622daf517825fbcfbfd9123624b84b26",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1615498
+      },
+      "UC_RHAND_RED_SPEC.jpg": {
+        "path": "UC_RHAND_RED_SPEC.jpg",
+        "sha256": "4ee32aa60d00d4852763c9977dc5730a45b8948b80453e4b5220211c4ec63438",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 2238333
+      },
+      "UC_RHAND_WHITE_BUMP.jpg": {
+        "path": "UC_RHAND_WHITE_BUMP.jpg",
+        "sha256": "83a06ace54543191cefd43272c91f0a68b766d12a30dffaff2908aa4b194dbaf",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1475003
+      },
+      "UC_RHAND_WHITE_COL.jpg": {
+        "path": "UC_RHAND_WHITE_COL.jpg",
+        "sha256": "68ac46819e0841b796b995c3ac3e7d4457ab7291145fe71b7fe841c997d66f78",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1977128
+      },
+      "UC_RHAND_WHITE_SPEC.jpg": {
+        "path": "UC_RHAND_WHITE_SPEC.jpg",
+        "sha256": "846d043a71b19952b55f3872f294cbfb9e593d9dc61d03951613f12cacd5dc23",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 2344606
+      },
+      "UC_RLEG_OTHER_BUMP.jpg": {
+        "path": "UC_RLEG_OTHER_BUMP.jpg",
+        "sha256": "2fd5d63e18db90bab20827794fd6327cb9dfe0681383cf9f08c0584d3b4bd200",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1198481
+      },
+      "UC_RLEG_OTHER_COL.jpg": {
+        "path": "UC_RLEG_OTHER_COL.jpg",
+        "sha256": "6e9eac21320725ab0dad138140b868044df8ac2564325282b7ca386edecb679c",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1339761
+      },
+      "UC_RLEG_OTHER_SPEC.jpg": {
+        "path": "UC_RLEG_OTHER_SPEC.jpg",
+        "sha256": "40b8882080fa854b9af5e0765b378a29476e904c294c54fa1b4ab089ccfcf6cd",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 2063799
+      },
+      "UC_RLEG_RED_BUMP.jpg": {
+        "path": "UC_RLEG_RED_BUMP.jpg",
+        "sha256": "d7212b0f6cd23380e24b421ef8178321221191aed261a5f19bba9ab42d2b56e0",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1299717
+      },
+      "UC_RLEG_RED_COL.jpg": {
+        "path": "UC_RLEG_RED_COL.jpg",
+        "sha256": "889e69f01a02e20352889ba8236233e176d9651fcf31151d4010e77439671970",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1632497
+      },
+      "UC_RLEG_RED_SPEC.jpg": {
+        "path": "UC_RLEG_RED_SPEC.jpg",
+        "sha256": "f0e579904ea9a145bd475a0e7b5a8cda2e995f8f9825e3fc65c7d07cc909e6f2",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1886201
+      },
+      "UC_RLEG_WHITE_BUMP.jpg": {
+        "path": "UC_RLEG_WHITE_BUMP.jpg",
+        "sha256": "90996090a678aeffd6abcbb27450e8ce974db3bee149c15b47d9cab14bc44fc5",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1349813
+      },
+      "UC_RLEG_WHITE_COL.jpg": {
+        "path": "UC_RLEG_WHITE_COL.jpg",
+        "sha256": "e13b76e55dba27c596e3d88e78c56e58db27c38aa5201ae72ab3753c5e41feb1",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 2071928
+      },
+      "UC_RLEG_WHITE_SPEC.jpg": {
+        "path": "UC_RLEG_WHITE_SPEC.jpg",
+        "sha256": "a540c3a0883b82a96c623f3222f368f6b25ae194bcd3283b083fe971cf994a4c",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 2277615
+      },
+      "UC_WAIST_OTHER_BUMP.jpg": {
+        "path": "UC_WAIST_OTHER_BUMP.jpg",
+        "sha256": "b087081796624be534bdf8920abf28a8d912b5bc1a948e6144a7f0a4ee038659",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1313408
+      },
+      "UC_WAIST_OTHER_COL.jpg": {
+        "path": "UC_WAIST_OTHER_COL.jpg",
+        "sha256": "80eeb2ffe83e331319d337219fa950d46a9e8ff7209ca53035038c738918b56c",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1238133
+      },
+      "UC_WAIST_OTHER_SPEC.jpg": {
+        "path": "UC_WAIST_OTHER_SPEC.jpg",
+        "sha256": "780fc7e4d1c79d1f14dad1305ac7fb4cd8fa42def6a4c56037896410cc4b8b26",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 2121889
+      },
+      "UC_WAIST_RED_BUMP.jpg": {
+        "path": "UC_WAIST_RED_BUMP.jpg",
+        "sha256": "e558167bd5d22a3cc033f3e4bfb91ecf130f8a8fa1ec6fe516047065fbbfd7f6",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1311034
+      },
+      "UC_WAIST_RED_COL.jpg": {
+        "path": "UC_WAIST_RED_COL.jpg",
+        "sha256": "4d03356b82bfd46d73b5df442f8e5741ea48138327955ccf26dd1b0db3fecb72",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1501908
+      },
+      "UC_WAIST_RED_SPEC.jpg": {
+        "path": "UC_WAIST_RED_SPEC.jpg",
+        "sha256": "8a4778be0642cb7ac05584f6a35ce35388845e32dd7d3b9e9558be48a54d0072",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 2381915
+      },
+      "UC_WAIST_WHITE_BUMP.jpg": {
+        "path": "UC_WAIST_WHITE_BUMP.jpg",
+        "sha256": "c8f9ccf7f34a586d82a183cc993cbfc9f727726c8651d20670b914c24f651eb3",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 1402627
+      },
+      "UC_WAIST_WHITE_COL.jpg": {
+        "path": "UC_WAIST_WHITE_COL.jpg",
+        "sha256": "8f9d3cf82414fb35ccc348872538b179c1cf36688e8a087cd6abea124be63e23",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 2007471
+      },
+      "UC_WAIST_WHITE_SPEC.jpg": {
+        "path": "UC_WAIST_WHITE_SPEC.jpg",
+        "sha256": "8de274c3c094a310d44f526aeedacf6edff3eac1116147f4f3ce6fb4a5aab471",
+        "size": [
+          2000,
+          2000
+        ],
+        "mode": "RGB",
+        "bytes": 2525067
+      }
+    },
+    "unused_mtl_materials": []
+  },
+  "materials": [
+    {
+      "original_name": "blinn1SG",
+      "semantic_name": "UC_HEAD_WHITE",
+      "obj_face_count": 9818,
+      "legacy_mtl": {
+        "name": "blinn1SG",
+        "maps": {
+          "color": "UC_HEAD_WHITE_COL.jpg",
+          "bump": "UC_HEAD_WHITE_BUMP.jpg",
+          "specular": "UC_HEAD_WHITE_SPEC.jpg"
+        },
+        "bump_multiplier": 0.05,
+        "illum": 4.0,
+        "Kd": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Ka": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Tf": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Ni": 1.0,
+        "Ks": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parameters": {
+        "kind": "painted_white",
+        "metallic": 0.0,
+        "roughness": 0.48,
+        "emission_strength": 0.0,
+        "alpha": 1.0,
+        "transmission": 0.0,
+        "ior": 1.5,
+        "specular_ior_level": 0.5
+      },
+      "inputs": {
+        "color": {
+          "path": "UC_HEAD_WHITE_COL.jpg",
+          "sha256": "b1dd7efce7b5cf04030c5afa44a311ac3aa43d7f04a3d34d664366078fee0a74",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1927661
+        },
+        "bump": {
+          "path": "UC_HEAD_WHITE_BUMP.jpg",
+          "sha256": "c2a073d0e063e29f65775f8539491c4359eff6ab51028ea9108b3362f1453437",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1529492
+        },
+        "specular": {
+          "path": "UC_HEAD_WHITE_SPEC.jpg",
+          "sha256": "3707ef2bb80f131ea00fc54e4b9119f9356417c539e263138fd7a53fd8d4a657",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2341379
+        }
+      },
+      "derived": {
+        "metallic_roughness": {
+          "path": "textures/UC_HEAD_WHITE_MR.png",
+          "sha256": "67dcffe1fa624c5aaeeba648ac5c0df970d98fafe827242f4e29364c39eb7a4c",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1372364,
+          "color_space": "Non-Color",
+          "channels": {
+            "R": "unused constant 1 (not baked AO)",
+            "G": "roughness",
+            "B": "metallic"
+          },
+          "roughness_formula": "base + 0.14 * (0.5 - SPEC luminance in raw image encoding)",
+          "roughness_range": [
+            0.4099999964237213,
+            0.5494509935379028
+          ],
+          "metallic_formula": "constant material prior; independent of SPEC",
+          "metallic_range": [
+            0.0,
+            0.0
+          ]
+        },
+        "normal": {
+          "path": "textures/UC_HEAD_WHITE_NORMAL.png",
+          "sha256": "65f784e971d9ef9f458100b08c6e3f67435c1e364531ddfd3d801a97eaeed451",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 3236287,
+          "color_space": "Non-Color",
+          "space": "TANGENT",
+          "convention": "OpenGL +Y",
+          "height_white_is_high": true,
+          "slope_scale": 2.0,
+          "legacy_bump_multiplier": 0.05,
+          "gaussian_blur_radius_px": 0.6,
+          "derivative": "numpy central difference per pixel; one-sided boundary",
+          "normal_formula": "normalize(-dH/dx*slope, +dH/dy*slope, 1), source image rows point down",
+          "normal_map_strength": 1.0
+        }
+      },
+      "notes": []
+    },
+    {
+      "original_name": "blinn2SG",
+      "semantic_name": "UC_HEAD_RED",
+      "obj_face_count": 2670,
+      "legacy_mtl": {
+        "name": "blinn2SG",
+        "maps": {
+          "color": "UC_HEAD_RED_COL.jpg",
+          "bump": "UC_HEAD_RED_BUMP.jpg",
+          "specular": "UC_HEAD_RED_SPEC.jpg"
+        },
+        "bump_multiplier": 0.05,
+        "illum": 4.0,
+        "Kd": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Ka": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Tf": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Ni": 1.0,
+        "Ks": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parameters": {
+        "kind": "red_psychoframe_approximation",
+        "metallic": 0.08,
+        "roughness": 0.38,
+        "emission_strength": 0.65,
+        "alpha": 1.0,
+        "transmission": 0.0,
+        "ior": 1.5,
+        "specular_ior_level": 0.5
+      },
+      "inputs": {
+        "color": {
+          "path": "UC_HEAD_RED_COL.jpg",
+          "sha256": "709170a4863f2e27fc9142c3dcf94374ba4bb125fd9846304a4c05212ad2c12b",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1671871
+        },
+        "bump": {
+          "path": "UC_HEAD_RED_BUMP.jpg",
+          "sha256": "ad48aa5980ae43a1116e13cd085fbfef5d1f2f57322d2efe42923b8acae5c1f2",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1260766
+        },
+        "specular": {
+          "path": "UC_HEAD_RED_SPEC.jpg",
+          "sha256": "2dedb2795908674a4ec285f3a8a3a54ad0126e4c4561f956305f2d8c93950d19",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1701350
+        }
+      },
+      "derived": {
+        "metallic_roughness": {
+          "path": "textures/UC_HEAD_RED_MR.png",
+          "sha256": "d68b7aacde68550ebf96191dfe14d12b383ef9caa237fc43c3d72f173313ea25",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 927495,
+          "color_space": "Non-Color",
+          "channels": {
+            "R": "unused constant 1 (not baked AO)",
+            "G": "roughness",
+            "B": "metallic"
+          },
+          "roughness_formula": "base + 0.14 * (0.5 - SPEC luminance in raw image encoding)",
+          "roughness_range": [
+            0.4022352993488312,
+            0.4439607858657837
+          ],
+          "metallic_formula": "constant material prior; independent of SPEC",
+          "metallic_range": [
+            0.07999999821186066,
+            0.07999999821186066
+          ]
+        },
+        "normal": {
+          "path": "textures/UC_HEAD_RED_NORMAL.png",
+          "sha256": "ad6f6516ee69db704b17aaa48e272a4d18ab23ed12568a56d9d7f51feb141074",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2599353,
+          "color_space": "Non-Color",
+          "space": "TANGENT",
+          "convention": "OpenGL +Y",
+          "height_white_is_high": true,
+          "slope_scale": 2.0,
+          "legacy_bump_multiplier": 0.05,
+          "gaussian_blur_radius_px": 0.6,
+          "derivative": "numpy central difference per pixel; one-sided boundary",
+          "normal_formula": "normalize(-dH/dx*slope, +dH/dy*slope, 1), source image rows point down",
+          "normal_map_strength": 1.0
+        },
+        "emission": {
+          "path": "textures/UC_HEAD_RED_EMISSION.png",
+          "sha256": "e827c870a95ce98ba7c114abad50a0b1c62634e2d91c924c74b209a60f775b96",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 3891661,
+          "color_space": "sRGB",
+          "mask_formula": "smoothstep(.08,.28,R-max(G,B)) * smoothstep(.12,.35,R), encoded COL values",
+          "strength": 0.65,
+          "mask_mean": 0.9990903735160828
+        }
+      },
+      "notes": []
+    },
+    {
+      "original_name": "blinn4SG",
+      "semantic_name": "UC_HEAD_OTHER",
+      "obj_face_count": 2410,
+      "legacy_mtl": {
+        "name": "blinn4SG",
+        "maps": {
+          "color": "UC_HEAD_OTHER_COL.jpg",
+          "bump": "UC_HEAD_OTHER_BUMP.jpg",
+          "specular": "UC_HEAD_OTHER_SPEC.jpg"
+        },
+        "bump_multiplier": 0.05,
+        "illum": 4.0,
+        "Kd": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Ka": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Tf": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Ni": 1.0,
+        "Ks": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parameters": {
+        "kind": "mixed_dark_mechanism",
+        "metallic": 0.35,
+        "roughness": 0.52,
+        "emission_strength": 0.0,
+        "alpha": 1.0,
+        "transmission": 0.0,
+        "ior": 1.5,
+        "specular_ior_level": 0.5
+      },
+      "inputs": {
+        "color": {
+          "path": "UC_HEAD_OTHER_COL.jpg",
+          "sha256": "ebd7677a68d7faaf8e9b6874b2df64fd96f8b4227a4dd882ef43d3307af26775",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1441810
+        },
+        "bump": {
+          "path": "UC_HEAD_OTHER_BUMP.jpg",
+          "sha256": "ab747a188c3dc3a8bfcf4e37cebe60af46bc26626c22240d4adc6797cc053fc3",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1161544
+        },
+        "specular": {
+          "path": "UC_HEAD_OTHER_SPEC.jpg",
+          "sha256": "39368ff82dbd00a3bf347bb57a864a3a9f32357f8fe21a49e4ad95bd9d26a5b3",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1632964
+        }
+      },
+      "derived": {
+        "metallic_roughness": {
+          "path": "textures/UC_HEAD_OTHER_MR.png",
+          "sha256": "134cb07bab5bc2c5c84c2462ade4470d2b1c31c4b38324e7efbed39b529113b1",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1657303,
+          "color_space": "Non-Color",
+          "channels": {
+            "R": "unused constant 1 (not baked AO)",
+            "G": "roughness",
+            "B": "metallic"
+          },
+          "roughness_formula": "base + 0.14 * (0.5 - SPEC luminance in raw image encoding)",
+          "roughness_range": [
+            0.47909802198410034,
+            0.5867058634757996
+          ],
+          "metallic_formula": "0.35 * (1 - smoothstep(0.24, 0.52, COL encoded luminance))",
+          "metallic_range": [
+            0.0,
+            0.3499999940395355
+          ]
+        },
+        "normal": {
+          "path": "textures/UC_HEAD_OTHER_NORMAL.png",
+          "sha256": "cc7ef24f2b321c53d51fa8ed56363d66050ae1891351b3da4a520035c016dab3",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2347297,
+          "color_space": "Non-Color",
+          "space": "TANGENT",
+          "convention": "OpenGL +Y",
+          "height_white_is_high": true,
+          "slope_scale": 2.0,
+          "legacy_bump_multiplier": 0.05,
+          "gaussian_blur_radius_px": 0.6,
+          "derivative": "numpy central difference per pixel; one-sided boundary",
+          "normal_formula": "normalize(-dH/dx*slope, +dH/dy*slope, 1), source image rows point down",
+          "normal_map_strength": 1.0
+        }
+      },
+      "notes": []
+    },
+    {
+      "original_name": "blinn5SG",
+      "semantic_name": "UC_BODY_WHITE",
+      "obj_face_count": 11820,
+      "legacy_mtl": {
+        "name": "blinn5SG",
+        "maps": {
+          "color": "UC_BODY_WHITE_COL.jpg",
+          "bump": "UC_BODY_WHITE_BUMP.jpg",
+          "specular": "UC_BODY_WHITE_SPEC.jpg"
+        },
+        "bump_multiplier": 0.05,
+        "illum": 4.0,
+        "Kd": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Ka": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Tf": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Ni": 1.0,
+        "Ks": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parameters": {
+        "kind": "painted_white",
+        "metallic": 0.0,
+        "roughness": 0.48,
+        "emission_strength": 0.0,
+        "alpha": 1.0,
+        "transmission": 0.0,
+        "ior": 1.5,
+        "specular_ior_level": 0.5
+      },
+      "inputs": {
+        "color": {
+          "path": "UC_BODY_WHITE_COL.jpg",
+          "sha256": "1c82af03585a9c8a1a42ee6b84e5bfc6d439cc6597fd76392194ac0755eb2efd",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2093377
+        },
+        "bump": {
+          "path": "UC_BODY_WHITE_BUMP.jpg",
+          "sha256": "5a65e760d46b02506736847d236b43174d492c868799404dbc761771d87e2ee7",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1306213
+        },
+        "specular": {
+          "path": "UC_BODY_WHITE_SPEC.jpg",
+          "sha256": "69b2a36afa63843b6eea9f332d77f5e79dbe335fcbbe2ed9c5265ab16428ec28",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2397619
+        }
+      },
+      "derived": {
+        "metallic_roughness": {
+          "path": "textures/UC_BODY_WHITE_MR.png",
+          "sha256": "3d131cbd0864fda4d0dc131f13672d2b216636107fa06dfaedce0b2d7266d6e6",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1417494,
+          "color_space": "Non-Color",
+          "channels": {
+            "R": "unused constant 1 (not baked AO)",
+            "G": "roughness",
+            "B": "metallic"
+          },
+          "roughness_formula": "base + 0.14 * (0.5 - SPEC luminance in raw image encoding)",
+          "roughness_range": [
+            0.4099999964237213,
+            0.5450588464736938
+          ],
+          "metallic_formula": "constant material prior; independent of SPEC",
+          "metallic_range": [
+            0.0,
+            0.0
+          ]
+        },
+        "normal": {
+          "path": "textures/UC_BODY_WHITE_NORMAL.png",
+          "sha256": "7438b7c810ad87d04397cb5cfdd41e3d250f08b123256b9695674e7abce5e0c0",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2705295,
+          "color_space": "Non-Color",
+          "space": "TANGENT",
+          "convention": "OpenGL +Y",
+          "height_white_is_high": true,
+          "slope_scale": 2.0,
+          "legacy_bump_multiplier": 0.05,
+          "gaussian_blur_radius_px": 0.6,
+          "derivative": "numpy central difference per pixel; one-sided boundary",
+          "normal_formula": "normalize(-dH/dx*slope, +dH/dy*slope, 1), source image rows point down",
+          "normal_map_strength": 1.0
+        }
+      },
+      "notes": []
+    },
+    {
+      "original_name": "blinn6SG",
+      "semantic_name": "UC_BODY_RED",
+      "obj_face_count": 2788,
+      "legacy_mtl": {
+        "name": "blinn6SG",
+        "maps": {
+          "color": "UC_BODY_RED_COL.jpg",
+          "bump": "UC_BODY_RED_BUMP.jpg",
+          "specular": "UC_BODY_RED_SPEC.jpg"
+        },
+        "bump_multiplier": 0.03,
+        "illum": 4.0,
+        "Kd": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Ka": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Tf": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Ni": 1.0,
+        "Ks": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parameters": {
+        "kind": "red_psychoframe_approximation",
+        "metallic": 0.08,
+        "roughness": 0.38,
+        "emission_strength": 0.65,
+        "alpha": 1.0,
+        "transmission": 0.0,
+        "ior": 1.5,
+        "specular_ior_level": 0.5
+      },
+      "inputs": {
+        "color": {
+          "path": "UC_BODY_RED_COL.jpg",
+          "sha256": "cf40c05fb9da0c1ba4089c8b3647ca7e846e9e2b8506fa34c35ddfba8ee17afe",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1579863
+        },
+        "bump": {
+          "path": "UC_BODY_RED_BUMP.jpg",
+          "sha256": "e705bcff95f156075dd0351c6f9fed6449b1c05cc4e1ccdabf4c4aba64a6257d",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1440914
+        },
+        "specular": {
+          "path": "UC_BODY_RED_SPEC.jpg",
+          "sha256": "9c7dc9c05b0f07db4238619cfeda9a5dba2d6305f8fc4d7162168f097f3c7bd7",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2035368
+        }
+      },
+      "derived": {
+        "metallic_roughness": {
+          "path": "textures/UC_BODY_RED_MR.png",
+          "sha256": "3bd015d75321d946fc2ed40f7548e9071ad93f388f7d07bb52e5177b587a16c9",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1164414,
+          "color_space": "Non-Color",
+          "channels": {
+            "R": "unused constant 1 (not baked AO)",
+            "G": "roughness",
+            "B": "metallic"
+          },
+          "roughness_formula": "base + 0.14 * (0.5 - SPEC luminance in raw image encoding)",
+          "roughness_range": [
+            0.3786274492740631,
+            0.4417647123336792
+          ],
+          "metallic_formula": "constant material prior; independent of SPEC",
+          "metallic_range": [
+            0.07999999821186066,
+            0.07999999821186066
+          ]
+        },
+        "normal": {
+          "path": "textures/UC_BODY_RED_NORMAL.png",
+          "sha256": "29f0d80fcefd14a9d7ef5805027cd8e70b5c34fe08c57e6881362c4821153597",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2494214,
+          "color_space": "Non-Color",
+          "space": "TANGENT",
+          "convention": "OpenGL +Y",
+          "height_white_is_high": true,
+          "slope_scale": 1.2,
+          "legacy_bump_multiplier": 0.03,
+          "gaussian_blur_radius_px": 0.6,
+          "derivative": "numpy central difference per pixel; one-sided boundary",
+          "normal_formula": "normalize(-dH/dx*slope, +dH/dy*slope, 1), source image rows point down",
+          "normal_map_strength": 1.0
+        },
+        "emission": {
+          "path": "textures/UC_BODY_RED_EMISSION.png",
+          "sha256": "d9d65fbcf6340c364c5401536c0d4a55ff976517b60cd4499602dfa4c4e4d8ec",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 3721288,
+          "color_space": "sRGB",
+          "mask_formula": "smoothstep(.08,.28,R-max(G,B)) * smoothstep(.12,.35,R), encoded COL values",
+          "strength": 0.65,
+          "mask_mean": 0.9905887842178345
+        }
+      },
+      "notes": []
+    },
+    {
+      "original_name": "blinn7SG",
+      "semantic_name": "UC_BODY_OTHER",
+      "obj_face_count": 8034,
+      "legacy_mtl": {
+        "name": "blinn7SG",
+        "maps": {
+          "color": "UC_BODY_OTHER_COL.jpg",
+          "bump": "UC_BODY_OTHER_BUMP.jpg",
+          "specular": "UC_BODY_OTHER_SPEC.jpg"
+        },
+        "bump_multiplier": 0.03,
+        "illum": 4.0,
+        "Kd": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Ka": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Tf": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Ni": 1.0,
+        "Ks": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parameters": {
+        "kind": "mixed_dark_mechanism",
+        "metallic": 0.35,
+        "roughness": 0.52,
+        "emission_strength": 0.0,
+        "alpha": 1.0,
+        "transmission": 0.0,
+        "ior": 1.5,
+        "specular_ior_level": 0.5
+      },
+      "inputs": {
+        "color": {
+          "path": "UC_BODY_OTHER_COL.jpg",
+          "sha256": "ef144608c9a4e1c8c765673e2560a8b3f41bccf4c711df789db1af4472c05702",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1355386
+        },
+        "bump": {
+          "path": "UC_BODY_OTHER_BUMP.jpg",
+          "sha256": "c0a13ca40635ce1383aa5ab1c2565a6b6678e7fdf0bc055ce608bb8d9bddce54",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1274253
+        },
+        "specular": {
+          "path": "UC_BODY_OTHER_SPEC.jpg",
+          "sha256": "4c81a62344128bbdd7801d87d91adeb509ad6e9cc97043e898bb07390d6298f1",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2190351
+        }
+      },
+      "derived": {
+        "metallic_roughness": {
+          "path": "textures/UC_BODY_OTHER_MR.png",
+          "sha256": "f7b2f28b42002814526aa293d970faee300dc0d3a9cd90283aec639e2bec697a",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1441979,
+          "color_space": "Non-Color",
+          "channels": {
+            "R": "unused constant 1 (not baked AO)",
+            "G": "roughness",
+            "B": "metallic"
+          },
+          "roughness_formula": "base + 0.14 * (0.5 - SPEC luminance in raw image encoding)",
+          "roughness_range": [
+            0.5389411449432373,
+            0.5899999737739563
+          ],
+          "metallic_formula": "0.35 * (1 - smoothstep(0.24, 0.52, COL encoded luminance))",
+          "metallic_range": [
+            0.0,
+            0.3499999940395355
+          ]
+        },
+        "normal": {
+          "path": "textures/UC_BODY_OTHER_NORMAL.png",
+          "sha256": "e6fbe3de26a734b7598cb0aaa75f07ddc0272011c31038af33b9c06460a58f90",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2191791,
+          "color_space": "Non-Color",
+          "space": "TANGENT",
+          "convention": "OpenGL +Y",
+          "height_white_is_high": true,
+          "slope_scale": 1.2,
+          "legacy_bump_multiplier": 0.03,
+          "gaussian_blur_radius_px": 0.6,
+          "derivative": "numpy central difference per pixel; one-sided boundary",
+          "normal_formula": "normalize(-dH/dx*slope, +dH/dy*slope, 1), source image rows point down",
+          "normal_map_strength": 1.0
+        }
+      },
+      "notes": []
+    },
+    {
+      "original_name": "blinn8SG",
+      "semantic_name": "UC_WAIST_WHITE",
+      "obj_face_count": 9944,
+      "legacy_mtl": {
+        "name": "blinn8SG",
+        "maps": {
+          "color": "UC_WAIST_WHITE_COL.jpg",
+          "bump": "UC_WAIST_WHITE_BUMP.jpg",
+          "specular": "UC_WAIST_WHITE_SPEC.jpg"
+        },
+        "bump_multiplier": 0.05,
+        "illum": 4.0,
+        "Kd": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Ka": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Tf": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Ni": 1.0,
+        "Ks": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parameters": {
+        "kind": "painted_white",
+        "metallic": 0.0,
+        "roughness": 0.48,
+        "emission_strength": 0.0,
+        "alpha": 1.0,
+        "transmission": 0.0,
+        "ior": 1.5,
+        "specular_ior_level": 0.5
+      },
+      "inputs": {
+        "color": {
+          "path": "UC_WAIST_WHITE_COL.jpg",
+          "sha256": "8f9d3cf82414fb35ccc348872538b179c1cf36688e8a087cd6abea124be63e23",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2007471
+        },
+        "bump": {
+          "path": "UC_WAIST_WHITE_BUMP.jpg",
+          "sha256": "c8f9ccf7f34a586d82a183cc993cbfc9f727726c8651d20670b914c24f651eb3",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1402627
+        },
+        "specular": {
+          "path": "UC_WAIST_WHITE_SPEC.jpg",
+          "sha256": "8de274c3c094a310d44f526aeedacf6edff3eac1116147f4f3ce6fb4a5aab471",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2525067
+        }
+      },
+      "derived": {
+        "metallic_roughness": {
+          "path": "textures/UC_WAIST_WHITE_MR.png",
+          "sha256": "75ba08322ba7f8d3db563a9f21a37495d9001c82d4dbca6fef70f5c984f91050",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1493013,
+          "color_space": "Non-Color",
+          "channels": {
+            "R": "unused constant 1 (not baked AO)",
+            "G": "roughness",
+            "B": "metallic"
+          },
+          "roughness_formula": "base + 0.14 * (0.5 - SPEC luminance in raw image encoding)",
+          "roughness_range": [
+            0.4099999964237213,
+            0.550000011920929
+          ],
+          "metallic_formula": "constant material prior; independent of SPEC",
+          "metallic_range": [
+            0.0,
+            0.0
+          ]
+        },
+        "normal": {
+          "path": "textures/UC_WAIST_WHITE_NORMAL.png",
+          "sha256": "f66e0a20513d1a38c33db528fa29ee5a8e7e566ba7c50f00a4d0efcc3af971c3",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2949378,
+          "color_space": "Non-Color",
+          "space": "TANGENT",
+          "convention": "OpenGL +Y",
+          "height_white_is_high": true,
+          "slope_scale": 2.0,
+          "legacy_bump_multiplier": 0.05,
+          "gaussian_blur_radius_px": 0.6,
+          "derivative": "numpy central difference per pixel; one-sided boundary",
+          "normal_formula": "normalize(-dH/dx*slope, +dH/dy*slope, 1), source image rows point down",
+          "normal_map_strength": 1.0
+        }
+      },
+      "notes": []
+    },
+    {
+      "original_name": "blinn9SG",
+      "semantic_name": "UC_WAIST_RED",
+      "obj_face_count": 4486,
+      "legacy_mtl": {
+        "name": "blinn9SG",
+        "maps": {
+          "color": "UC_WAIST_RED_COL.jpg",
+          "bump": "UC_WAIST_RED_BUMP.jpg",
+          "specular": "UC_WAIST_RED_SPEC.jpg"
+        },
+        "bump_multiplier": 0.05,
+        "illum": 4.0,
+        "Kd": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Ka": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Tf": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Ni": 1.0,
+        "Ks": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parameters": {
+        "kind": "red_psychoframe_approximation",
+        "metallic": 0.08,
+        "roughness": 0.38,
+        "emission_strength": 0.65,
+        "alpha": 1.0,
+        "transmission": 0.0,
+        "ior": 1.5,
+        "specular_ior_level": 0.5
+      },
+      "inputs": {
+        "color": {
+          "path": "UC_WAIST_RED_COL.jpg",
+          "sha256": "4d03356b82bfd46d73b5df442f8e5741ea48138327955ccf26dd1b0db3fecb72",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1501908
+        },
+        "bump": {
+          "path": "UC_WAIST_RED_BUMP.jpg",
+          "sha256": "e558167bd5d22a3cc033f3e4bfb91ecf130f8a8fa1ec6fe516047065fbbfd7f6",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1311034
+        },
+        "specular": {
+          "path": "UC_WAIST_RED_SPEC.jpg",
+          "sha256": "8a4778be0642cb7ac05584f6a35ce35388845e32dd7d3b9e9558be48a54d0072",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2381915
+        }
+      },
+      "derived": {
+        "metallic_roughness": {
+          "path": "textures/UC_WAIST_RED_MR.png",
+          "sha256": "3227bd36e519999abf10bea98a690f39f3cbbcee8ee5c908815c26b73b1ef53f",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1359112,
+          "color_space": "Non-Color",
+          "channels": {
+            "R": "unused constant 1 (not baked AO)",
+            "G": "roughness",
+            "B": "metallic"
+          },
+          "roughness_formula": "base + 0.14 * (0.5 - SPEC luminance in raw image encoding)",
+          "roughness_range": [
+            0.3703921437263489,
+            0.44999998807907104
+          ],
+          "metallic_formula": "constant material prior; independent of SPEC",
+          "metallic_range": [
+            0.07999999821186066,
+            0.07999999821186066
+          ]
+        },
+        "normal": {
+          "path": "textures/UC_WAIST_RED_NORMAL.png",
+          "sha256": "6286f6e80c2d016327f57cc9565328c73f87aab2aa5fb15f054339ccb718c7d2",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2730709,
+          "color_space": "Non-Color",
+          "space": "TANGENT",
+          "convention": "OpenGL +Y",
+          "height_white_is_high": true,
+          "slope_scale": 2.0,
+          "legacy_bump_multiplier": 0.05,
+          "gaussian_blur_radius_px": 0.6,
+          "derivative": "numpy central difference per pixel; one-sided boundary",
+          "normal_formula": "normalize(-dH/dx*slope, +dH/dy*slope, 1), source image rows point down",
+          "normal_map_strength": 1.0
+        },
+        "emission": {
+          "path": "textures/UC_WAIST_RED_EMISSION.png",
+          "sha256": "8ddeef4f78fa5688e0f128ad0b3acb5f0f743fcea7ea017c2e2f03608735dc8d",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 3606757,
+          "color_space": "sRGB",
+          "mask_formula": "smoothstep(.08,.28,R-max(G,B)) * smoothstep(.12,.35,R), encoded COL values",
+          "strength": 0.65,
+          "mask_mean": 0.9985071420669556
+        }
+      },
+      "notes": []
+    },
+    {
+      "original_name": "blinn10SG",
+      "semantic_name": "UC_WAIST_OTHER",
+      "obj_face_count": 9496,
+      "legacy_mtl": {
+        "name": "blinn10SG",
+        "maps": {
+          "color": "UC_WAIST_OTHER_COL.jpg",
+          "bump": "UC_WAIST_OTHER_BUMP.jpg",
+          "specular": "UC_WAIST_OTHER_SPEC.jpg"
+        },
+        "bump_multiplier": 0.05,
+        "illum": 4.0,
+        "Kd": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Ka": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Tf": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Ni": 1.0,
+        "Ks": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parameters": {
+        "kind": "mixed_dark_mechanism",
+        "metallic": 0.35,
+        "roughness": 0.52,
+        "emission_strength": 0.0,
+        "alpha": 1.0,
+        "transmission": 0.0,
+        "ior": 1.5,
+        "specular_ior_level": 0.5
+      },
+      "inputs": {
+        "color": {
+          "path": "UC_WAIST_OTHER_COL.jpg",
+          "sha256": "80eeb2ffe83e331319d337219fa950d46a9e8ff7209ca53035038c738918b56c",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1238133
+        },
+        "bump": {
+          "path": "UC_WAIST_OTHER_BUMP.jpg",
+          "sha256": "b087081796624be534bdf8920abf28a8d912b5bc1a948e6144a7f0a4ee038659",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1313408
+        },
+        "specular": {
+          "path": "UC_WAIST_OTHER_SPEC.jpg",
+          "sha256": "780fc7e4d1c79d1f14dad1305ac7fb4cd8fa42def6a4c56037896410cc4b8b26",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2121889
+        }
+      },
+      "derived": {
+        "metallic_roughness": {
+          "path": "textures/UC_WAIST_OTHER_MR.png",
+          "sha256": "8345a61c1dcd0e74d20952a301b5ae5003674652c0f4845eee594007b3754678",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1195152,
+          "color_space": "Non-Color",
+          "channels": {
+            "R": "unused constant 1 (not baked AO)",
+            "G": "roughness",
+            "B": "metallic"
+          },
+          "roughness_formula": "base + 0.14 * (0.5 - SPEC luminance in raw image encoding)",
+          "roughness_range": [
+            0.5389411449432373,
+            0.5899999737739563
+          ],
+          "metallic_formula": "0.35 * (1 - smoothstep(0.24, 0.52, COL encoded luminance))",
+          "metallic_range": [
+            0.3246578276157379,
+            0.3499999940395355
+          ]
+        },
+        "normal": {
+          "path": "textures/UC_WAIST_OTHER_NORMAL.png",
+          "sha256": "f4770a81e99ca5048ea2a355e5fd173564819184e389f39ddfb8235fb9bb0159",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2716108,
+          "color_space": "Non-Color",
+          "space": "TANGENT",
+          "convention": "OpenGL +Y",
+          "height_white_is_high": true,
+          "slope_scale": 2.0,
+          "legacy_bump_multiplier": 0.05,
+          "gaussian_blur_radius_px": 0.6,
+          "derivative": "numpy central difference per pixel; one-sided boundary",
+          "normal_formula": "normalize(-dH/dx*slope, +dH/dy*slope, 1), source image rows point down",
+          "normal_map_strength": 1.0
+        }
+      },
+      "notes": []
+    },
+    {
+      "original_name": "blinn11SG",
+      "semantic_name": "UC_LHAND_WHITE",
+      "obj_face_count": 11600,
+      "legacy_mtl": {
+        "name": "blinn11SG",
+        "maps": {
+          "color": "UC_LHAND_WHITE_COL.jpg",
+          "bump": "UC_LHAND_WHITE_BUMP.jpg",
+          "specular": "UC_LHAND_WHITE_SPEC.jpg"
+        },
+        "bump_multiplier": 0.03,
+        "illum": 4.0,
+        "Kd": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Ka": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Tf": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Ni": 1.0,
+        "Ks": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parameters": {
+        "kind": "painted_white",
+        "metallic": 0.0,
+        "roughness": 0.48,
+        "emission_strength": 0.0,
+        "alpha": 1.0,
+        "transmission": 0.0,
+        "ior": 1.5,
+        "specular_ior_level": 0.5
+      },
+      "inputs": {
+        "color": {
+          "path": "UC_LHAND_WHITE_COL.jpg",
+          "sha256": "646a0767af7f2885527030021717b5ef164997879e881deb709c768c612a0f46",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1975769
+        },
+        "bump": {
+          "path": "UC_LHAND_WHITE_BUMP.jpg",
+          "sha256": "15a4967e0bd268cda04d53ddcc9b131dd564fb89d0ebaaed4f8b968bbd727c6b",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1475007
+        },
+        "specular": {
+          "path": "UC_LHAND_WHITE_SPEC.jpg",
+          "sha256": "6675b2cd3248af55d1819edad880a6adf08097b2921c66a0970185b02a54a6a3",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2345601
+        }
+      },
+      "derived": {
+        "metallic_roughness": {
+          "path": "textures/UC_LHAND_WHITE_MR.png",
+          "sha256": "1dfdadd8f59e98fdb08bfb3dc83780a60f0c8ba260f665b93d30995d325c8cb2",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1387934,
+          "color_space": "Non-Color",
+          "channels": {
+            "R": "unused constant 1 (not baked AO)",
+            "G": "roughness",
+            "B": "metallic"
+          },
+          "roughness_formula": "base + 0.14 * (0.5 - SPEC luminance in raw image encoding)",
+          "roughness_range": [
+            0.4099999964237213,
+            0.550000011920929
+          ],
+          "metallic_formula": "constant material prior; independent of SPEC",
+          "metallic_range": [
+            0.0,
+            0.0
+          ]
+        },
+        "normal": {
+          "path": "textures/UC_LHAND_WHITE_NORMAL.png",
+          "sha256": "cb42fa07e5277a8ffbcad8836bc206d2bcbe325e9c9a03cfc4ed3395217bd881",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2545495,
+          "color_space": "Non-Color",
+          "space": "TANGENT",
+          "convention": "OpenGL +Y",
+          "height_white_is_high": true,
+          "slope_scale": 1.2,
+          "legacy_bump_multiplier": 0.03,
+          "gaussian_blur_radius_px": 0.6,
+          "derivative": "numpy central difference per pixel; one-sided boundary",
+          "normal_formula": "normalize(-dH/dx*slope, +dH/dy*slope, 1), source image rows point down",
+          "normal_map_strength": 1.0
+        }
+      },
+      "notes": []
+    },
+    {
+      "original_name": "blinn12SG",
+      "semantic_name": "UC_LHAND_RED",
+      "obj_face_count": 3060,
+      "legacy_mtl": {
+        "name": "blinn12SG",
+        "maps": {
+          "color": "UC_LHAND_RED_COL.jpg",
+          "bump": "UC_LHAND_RED_BUMP.jpg",
+          "specular": "UC_LHAND_RED_SPEC.jpg"
+        },
+        "bump_multiplier": 0.05,
+        "illum": 4.0,
+        "Kd": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Ka": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Tf": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Ni": 1.0,
+        "Ks": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parameters": {
+        "kind": "red_psychoframe_approximation",
+        "metallic": 0.08,
+        "roughness": 0.38,
+        "emission_strength": 0.65,
+        "alpha": 1.0,
+        "transmission": 0.0,
+        "ior": 1.5,
+        "specular_ior_level": 0.5
+      },
+      "inputs": {
+        "color": {
+          "path": "UC_LHAND_RED_COL.jpg",
+          "sha256": "23b0393268fac294fc612cba18b00604abff4f907614cf85c66175595b30d2b7",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1615325
+        },
+        "bump": {
+          "path": "UC_LHAND_RED_BUMP.jpg",
+          "sha256": "69ef5249c23b15132c4b4073040786a3a06d91b5e546ebb21a8b26df74d60cb9",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1279707
+        },
+        "specular": {
+          "path": "UC_LHAND_RED_SPEC.jpg",
+          "sha256": "2b9a7fa4b85b24c367f36d00910bbc16d03d095eb1f99f2264f01d460a1e1b7c",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2238273
+        }
+      },
+      "derived": {
+        "metallic_roughness": {
+          "path": "textures/UC_LHAND_RED_MR.png",
+          "sha256": "f0e9373f08e71e61969a972dc88b788afa2eb2234495cf38efbfc6e5597c51f5",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1296280,
+          "color_space": "Non-Color",
+          "channels": {
+            "R": "unused constant 1 (not baked AO)",
+            "G": "roughness",
+            "B": "metallic"
+          },
+          "roughness_formula": "base + 0.14 * (0.5 - SPEC luminance in raw image encoding)",
+          "roughness_range": [
+            0.3813725411891937,
+            0.4390196204185486
+          ],
+          "metallic_formula": "constant material prior; independent of SPEC",
+          "metallic_range": [
+            0.07999999821186066,
+            0.07999999821186066
+          ]
+        },
+        "normal": {
+          "path": "textures/UC_LHAND_RED_NORMAL.png",
+          "sha256": "8c72b27e1161aca6d6fb1722db820c4cc1869179cdbd25321989a2bb039408e0",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2639473,
+          "color_space": "Non-Color",
+          "space": "TANGENT",
+          "convention": "OpenGL +Y",
+          "height_white_is_high": true,
+          "slope_scale": 2.0,
+          "legacy_bump_multiplier": 0.05,
+          "gaussian_blur_radius_px": 0.6,
+          "derivative": "numpy central difference per pixel; one-sided boundary",
+          "normal_formula": "normalize(-dH/dx*slope, +dH/dy*slope, 1), source image rows point down",
+          "normal_map_strength": 1.0
+        },
+        "emission": {
+          "path": "textures/UC_LHAND_RED_EMISSION.png",
+          "sha256": "4df9481188c908f0b928391513676ef676f26dcb66f4fba5180c60d697ee1f2d",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 3787616,
+          "color_space": "sRGB",
+          "mask_formula": "smoothstep(.08,.28,R-max(G,B)) * smoothstep(.12,.35,R), encoded COL values",
+          "strength": 0.65,
+          "mask_mean": 0.9732747673988342
+        }
+      },
+      "notes": []
+    },
+    {
+      "original_name": "blinn13SG",
+      "semantic_name": "UC_LHAND_OTHER",
+      "obj_face_count": 8844,
+      "legacy_mtl": {
+        "name": "blinn13SG",
+        "maps": {
+          "color": "UC_LHAND_OTHER_COL.jpg",
+          "bump": "UC_LHAND_OTHER_BUMP.jpg",
+          "specular": "UC_LHAND_OTHER_SPEC.jpg"
+        },
+        "bump_multiplier": 0.05,
+        "illum": 4.0,
+        "Kd": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Ka": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Tf": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Ni": 1.0,
+        "Ks": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parameters": {
+        "kind": "mixed_dark_mechanism",
+        "metallic": 0.35,
+        "roughness": 0.52,
+        "emission_strength": 0.0,
+        "alpha": 1.0,
+        "transmission": 0.0,
+        "ior": 1.5,
+        "specular_ior_level": 0.5
+      },
+      "inputs": {
+        "color": {
+          "path": "UC_LHAND_OTHER_COL.jpg",
+          "sha256": "9bbc77aab16126acb8981c5c78002fd2ea20d66d1359df57d49a604035b0080c",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1365368
+        },
+        "bump": {
+          "path": "UC_LHAND_OTHER_BUMP.jpg",
+          "sha256": "9c4efe2f5cf51ac304f57f22f7764b82b9f4e50c86de1ddcfc8b4d1d4d4324f9",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1396923
+        },
+        "specular": {
+          "path": "UC_LHAND_OTHER_SPEC.jpg",
+          "sha256": "5d05cd778975c2908b7d1e02547987bda7862ac7b1bc834175380723d7edd79e",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2191483
+        }
+      },
+      "derived": {
+        "metallic_roughness": {
+          "path": "textures/UC_LHAND_OTHER_MR.png",
+          "sha256": "5882601ef66edcc29a42ad8e82693935d9d2b108864ee3e238f1637f138d1fc8",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1267988,
+          "color_space": "Non-Color",
+          "channels": {
+            "R": "unused constant 1 (not baked AO)",
+            "G": "roughness",
+            "B": "metallic"
+          },
+          "roughness_formula": "base + 0.14 * (0.5 - SPEC luminance in raw image encoding)",
+          "roughness_range": [
+            0.5433332920074463,
+            0.5899999737739563
+          ],
+          "metallic_formula": "0.35 * (1 - smoothstep(0.24, 0.52, COL encoded luminance))",
+          "metallic_range": [
+            0.2530270516872406,
+            0.3499999940395355
+          ]
+        },
+        "normal": {
+          "path": "textures/UC_LHAND_OTHER_NORMAL.png",
+          "sha256": "d8ff2610d1924ebf21bf0a2d32e1d91042e230ab9375b16b8dcb8ab8f7bec400",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2900177,
+          "color_space": "Non-Color",
+          "space": "TANGENT",
+          "convention": "OpenGL +Y",
+          "height_white_is_high": true,
+          "slope_scale": 2.0,
+          "legacy_bump_multiplier": 0.05,
+          "gaussian_blur_radius_px": 0.6,
+          "derivative": "numpy central difference per pixel; one-sided boundary",
+          "normal_formula": "normalize(-dH/dx*slope, +dH/dy*slope, 1), source image rows point down",
+          "normal_map_strength": 1.0
+        }
+      },
+      "notes": []
+    },
+    {
+      "original_name": "blinn14SG",
+      "semantic_name": "UC_LLEG_WHITE",
+      "obj_face_count": 14320,
+      "legacy_mtl": {
+        "name": "blinn14SG",
+        "maps": {
+          "color": "UC_LLEG_WHITE_COL.jpg",
+          "bump": "UC_LLEG_WHITE_BUMP.jpg",
+          "specular": "UC_LLEG_WHITE_SPEC.jpg"
+        },
+        "bump_multiplier": 0.05,
+        "illum": 4.0,
+        "Kd": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Ka": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Tf": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Ni": 1.0,
+        "Ks": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parameters": {
+        "kind": "painted_white",
+        "metallic": 0.0,
+        "roughness": 0.48,
+        "emission_strength": 0.0,
+        "alpha": 1.0,
+        "transmission": 0.0,
+        "ior": 1.5,
+        "specular_ior_level": 0.5
+      },
+      "inputs": {
+        "color": {
+          "path": "UC_LLEG_WHITE_COL.jpg",
+          "sha256": "903a970732071feca312d1a98e859f09f4f8a9ce73f202e16c0454b868108fad",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2072432
+        },
+        "bump": {
+          "path": "UC_LLEG_WHITE_BUMP.jpg",
+          "sha256": "3b24466d4c63bc0e3d609c1712f36191536eae1897c525ae0b335b52d772458e",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1350077
+        },
+        "specular": {
+          "path": "UC_LLEG_WHITE_SPEC.jpg",
+          "sha256": "8a6f86905205f54516c646e8ae485b26b0d94baaf4da797f76e9e7acabcc3d45",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2277680
+        }
+      },
+      "derived": {
+        "metallic_roughness": {
+          "path": "textures/UC_LLEG_WHITE_MR.png",
+          "sha256": "202ee8174ccd80916822e81505542ea4f645e890f7a0cff675b27881ae1f4349",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1374800,
+          "color_space": "Non-Color",
+          "channels": {
+            "R": "unused constant 1 (not baked AO)",
+            "G": "roughness",
+            "B": "metallic"
+          },
+          "roughness_formula": "base + 0.14 * (0.5 - SPEC luminance in raw image encoding)",
+          "roughness_range": [
+            0.4099999964237213,
+            0.550000011920929
+          ],
+          "metallic_formula": "constant material prior; independent of SPEC",
+          "metallic_range": [
+            0.0,
+            0.0
+          ]
+        },
+        "normal": {
+          "path": "textures/UC_LLEG_WHITE_NORMAL.png",
+          "sha256": "2123e0d29876f4d320527a617941bf2c347974fc46b554703f9abb53d2cc5bb0",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2841872,
+          "color_space": "Non-Color",
+          "space": "TANGENT",
+          "convention": "OpenGL +Y",
+          "height_white_is_high": true,
+          "slope_scale": 2.0,
+          "legacy_bump_multiplier": 0.05,
+          "gaussian_blur_radius_px": 0.6,
+          "derivative": "numpy central difference per pixel; one-sided boundary",
+          "normal_formula": "normalize(-dH/dx*slope, +dH/dy*slope, 1), source image rows point down",
+          "normal_map_strength": 1.0
+        }
+      },
+      "notes": []
+    },
+    {
+      "original_name": "blinn15SG",
+      "semantic_name": "UC_LLEG_RED",
+      "obj_face_count": 5543,
+      "legacy_mtl": {
+        "name": "blinn15SG",
+        "maps": {
+          "color": "UC_LLEG_RED_COL.jpg",
+          "bump": "UC_LLEG_RED_BUMP.jpg",
+          "specular": "UC_LLEG_RED_SPEC.jpg"
+        },
+        "bump_multiplier": 0.05,
+        "illum": 4.0,
+        "Kd": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Ka": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Tf": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Ni": 1.0,
+        "Ks": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parameters": {
+        "kind": "red_psychoframe_approximation",
+        "metallic": 0.08,
+        "roughness": 0.38,
+        "emission_strength": 0.65,
+        "alpha": 1.0,
+        "transmission": 0.0,
+        "ior": 1.5,
+        "specular_ior_level": 0.5
+      },
+      "inputs": {
+        "color": {
+          "path": "UC_LLEG_RED_COL.jpg",
+          "sha256": "d942fb022be5f1d16c1bd8552ba3a7a4aa5588bebe7084e8e0eacac616dbb492",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1632251
+        },
+        "bump": {
+          "path": "UC_LLEG_RED_BUMP.jpg",
+          "sha256": "794aaf24ce30e571f6584f28f293da62014945406c94d160d24cd35fcfb3ba3a",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1299637
+        },
+        "specular": {
+          "path": "UC_LLEG_RED_SPEC.jpg",
+          "sha256": "6e5b52936cbbb42706de8894ac168e64d7202b0ab19bb7f1184c0bde74d3f140",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1886435
+        }
+      },
+      "derived": {
+        "metallic_roughness": {
+          "path": "textures/UC_LLEG_RED_MR.png",
+          "sha256": "f3e56e3c2e5c7944cd08d7390560317d2234fb86070dace0ce22326b9438d8db",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1093215,
+          "color_space": "Non-Color",
+          "channels": {
+            "R": "unused constant 1 (not baked AO)",
+            "G": "roughness",
+            "B": "metallic"
+          },
+          "roughness_formula": "base + 0.14 * (0.5 - SPEC luminance in raw image encoding)",
+          "roughness_range": [
+            0.38192155957221985,
+            0.44505882263183594
+          ],
+          "metallic_formula": "constant material prior; independent of SPEC",
+          "metallic_range": [
+            0.07999999821186066,
+            0.07999999821186066
+          ]
+        },
+        "normal": {
+          "path": "textures/UC_LLEG_RED_NORMAL.png",
+          "sha256": "77d610092883e9c21a6a03df7edea7f629355d04977fce6488d468a89a41b70b",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2678550,
+          "color_space": "Non-Color",
+          "space": "TANGENT",
+          "convention": "OpenGL +Y",
+          "height_white_is_high": true,
+          "slope_scale": 2.0,
+          "legacy_bump_multiplier": 0.05,
+          "gaussian_blur_radius_px": 0.6,
+          "derivative": "numpy central difference per pixel; one-sided boundary",
+          "normal_formula": "normalize(-dH/dx*slope, +dH/dy*slope, 1), source image rows point down",
+          "normal_map_strength": 1.0
+        },
+        "emission": {
+          "path": "textures/UC_LLEG_RED_EMISSION.png",
+          "sha256": "728cca509a8034d94ede41fae148fbc2eb12b7ecaf831bddd036c7f56d44641b",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 3879182,
+          "color_space": "sRGB",
+          "mask_formula": "smoothstep(.08,.28,R-max(G,B)) * smoothstep(.12,.35,R), encoded COL values",
+          "strength": 0.65,
+          "mask_mean": 0.9873106479644775
+        }
+      },
+      "notes": []
+    },
+    {
+      "original_name": "blinn16SG",
+      "semantic_name": "UC_LLEG_OTHER",
+      "obj_face_count": 9380,
+      "legacy_mtl": {
+        "name": "blinn16SG",
+        "maps": {
+          "color": "UC_LLEG_OTHER_COL.jpg",
+          "bump": "UC_LLEG_OTHER_BUMP.jpg",
+          "specular": "UC_LLEG_OTHER_SPEC.jpg"
+        },
+        "bump_multiplier": 0.05,
+        "illum": 4.0,
+        "Kd": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Ka": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Tf": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Ni": 1.0,
+        "Ks": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parameters": {
+        "kind": "mixed_dark_mechanism",
+        "metallic": 0.35,
+        "roughness": 0.52,
+        "emission_strength": 0.0,
+        "alpha": 1.0,
+        "transmission": 0.0,
+        "ior": 1.5,
+        "specular_ior_level": 0.5
+      },
+      "inputs": {
+        "color": {
+          "path": "UC_LLEG_OTHER_COL.jpg",
+          "sha256": "a7bfd57947a642ed977499cfc7f1bd0da7870100dfb044654b8b2c895ff7fd40",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1339423
+        },
+        "bump": {
+          "path": "UC_LLEG_OTHER_BUMP.jpg",
+          "sha256": "e912e5bcda01a36cfa0c9836183f6d88d4aab3757e79f636c1cc0e717fedc052",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1198481
+        },
+        "specular": {
+          "path": "UC_LLEG_OTHER_SPEC.jpg",
+          "sha256": "7e325542db54fc53a64adef4dfcb3979005cac3b7094da83811e8fd02cc63f18",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2063800
+        }
+      },
+      "derived": {
+        "metallic_roughness": {
+          "path": "textures/UC_LLEG_OTHER_MR.png",
+          "sha256": "5737f3031f6f375e3069d36d8460469703a8ab0dd29151f91aa0fd7e0966bf82",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1218290,
+          "color_space": "Non-Color",
+          "channels": {
+            "R": "unused constant 1 (not baked AO)",
+            "G": "roughness",
+            "B": "metallic"
+          },
+          "roughness_formula": "base + 0.14 * (0.5 - SPEC luminance in raw image encoding)",
+          "roughness_range": [
+            0.5378431081771851,
+            0.5899999737739563
+          ],
+          "metallic_formula": "0.35 * (1 - smoothstep(0.24, 0.52, COL encoded luminance))",
+          "metallic_range": [
+            0.03791848570108414,
+            0.3499999940395355
+          ]
+        },
+        "normal": {
+          "path": "textures/UC_LLEG_OTHER_NORMAL.png",
+          "sha256": "9abb0769e24fa2ccc961d591f42b98d082d731a815d074b1abc2a63091c2242b",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2404470,
+          "color_space": "Non-Color",
+          "space": "TANGENT",
+          "convention": "OpenGL +Y",
+          "height_white_is_high": true,
+          "slope_scale": 2.0,
+          "legacy_bump_multiplier": 0.05,
+          "gaussian_blur_radius_px": 0.6,
+          "derivative": "numpy central difference per pixel; one-sided boundary",
+          "normal_formula": "normalize(-dH/dx*slope, +dH/dy*slope, 1), source image rows point down",
+          "normal_map_strength": 1.0
+        }
+      },
+      "notes": []
+    },
+    {
+      "original_name": "blinn17SG",
+      "semantic_name": "UC_BPACK_MAIN",
+      "obj_face_count": 13769,
+      "legacy_mtl": {
+        "name": "blinn17SG",
+        "maps": {
+          "color": "UC_BPACK_MAIN_COL.jpg",
+          "bump": "UC_BPACK_MAIN_BUMP.jpg",
+          "specular": "UC_BPACK_MAIN_SPEC.jpg"
+        },
+        "bump_multiplier": 0.05,
+        "illum": 4.0,
+        "Kd": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Ka": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Tf": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Ni": 1.0,
+        "Ks": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parameters": {
+        "kind": "mixed_dark_mechanism",
+        "metallic": 0.35,
+        "roughness": 0.52,
+        "emission_strength": 0.0,
+        "alpha": 1.0,
+        "transmission": 0.0,
+        "ior": 1.5,
+        "specular_ior_level": 0.5
+      },
+      "inputs": {
+        "color": {
+          "path": "UC_BPACK_MAIN_COL.jpg",
+          "sha256": "76a1db75b7e002c533e1b06655aca5ae27787e47e95517c62c59da98cee8b09a",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1225147
+        },
+        "bump": {
+          "path": "UC_BPACK_MAIN_BUMP.jpg",
+          "sha256": "f9660ed4c11d8e9ee1701e6051a2ffc853eb3a9d9ae59519194d27126ec471be",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1535885
+        },
+        "specular": {
+          "path": "UC_BPACK_MAIN_SPEC.jpg",
+          "sha256": "a44e05276487509877b744610b51de2e2feee7e1068b62b314d065ae7c1709b8",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2195071
+        }
+      },
+      "derived": {
+        "metallic_roughness": {
+          "path": "textures/UC_BPACK_MAIN_MR.png",
+          "sha256": "f9aea0dd5faed7c45468a1a17362a48bcf43346d8afc43bbbe59393304aadae1",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1477764,
+          "color_space": "Non-Color",
+          "channels": {
+            "R": "unused constant 1 (not baked AO)",
+            "G": "roughness",
+            "B": "metallic"
+          },
+          "roughness_formula": "base + 0.14 * (0.5 - SPEC luminance in raw image encoding)",
+          "roughness_range": [
+            0.5296078324317932,
+            0.5899999737739563
+          ],
+          "metallic_formula": "0.35 * (1 - smoothstep(0.24, 0.52, COL encoded luminance))",
+          "metallic_range": [
+            0.0,
+            0.3499999940395355
+          ]
+        },
+        "normal": {
+          "path": "textures/UC_BPACK_MAIN_NORMAL.png",
+          "sha256": "01e86f2ccb0e7fc0b07afc4e3714afac676af8725a806121eb3ea12c3c24804a",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 3237451,
+          "color_space": "Non-Color",
+          "space": "TANGENT",
+          "convention": "OpenGL +Y",
+          "height_white_is_high": true,
+          "slope_scale": 2.0,
+          "legacy_bump_multiplier": 0.05,
+          "gaussian_blur_radius_px": 0.6,
+          "derivative": "numpy central difference per pixel; one-sided boundary",
+          "normal_formula": "normalize(-dH/dx*slope, +dH/dy*slope, 1), source image rows point down",
+          "normal_map_strength": 1.0
+        }
+      },
+      "notes": []
+    },
+    {
+      "original_name": "blinn18SG",
+      "semantic_name": "UC_BPACK_RED",
+      "obj_face_count": 1194,
+      "legacy_mtl": {
+        "name": "blinn18SG",
+        "maps": {
+          "color": "UC_BPACK_RED_COL.jpg",
+          "bump": "UC_BPACK_RED_BUMP.jpg",
+          "specular": "UC_BPACK_RED_BUMP.jpg"
+        },
+        "bump_multiplier": 0.05,
+        "illum": 4.0,
+        "Kd": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Ka": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Tf": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Ni": 1.0,
+        "Ks": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parameters": {
+        "kind": "red_psychoframe_approximation",
+        "metallic": 0.08,
+        "roughness": 0.38,
+        "emission_strength": 0.65,
+        "alpha": 1.0,
+        "transmission": 0.0,
+        "ior": 1.5,
+        "specular_ior_level": 0.5
+      },
+      "inputs": {
+        "color": {
+          "path": "UC_BPACK_RED_COL.jpg",
+          "sha256": "6b357c14ad7ce9a0920698e089e60a38155cf2090913903e759348fa602db1ff",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1388809
+        },
+        "bump": {
+          "path": "UC_BPACK_RED_BUMP.jpg",
+          "sha256": "800ede12d31e407861c7722b3c47150082181f8d12db54770c962500b818ff7c",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1217015
+        },
+        "specular": {
+          "path": "UC_BPACK_RED_BUMP.jpg",
+          "sha256": "800ede12d31e407861c7722b3c47150082181f8d12db54770c962500b818ff7c",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1217015
+        }
+      },
+      "derived": {
+        "metallic_roughness": {
+          "path": "textures/UC_BPACK_RED_MR.png",
+          "sha256": "9daa8205dfa21eeb6ac46a96a3f49baa75064f119c8da4958433fde6cac6645b",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 16355,
+          "color_space": "Non-Color",
+          "channels": {
+            "R": "unused constant 1 (not baked AO)",
+            "G": "roughness",
+            "B": "metallic"
+          },
+          "roughness_formula": "constant base",
+          "roughness_range": [
+            0.3799999952316284,
+            0.3799999952316284
+          ],
+          "metallic_formula": "constant material prior; independent of SPEC",
+          "metallic_range": [
+            0.07999999821186066,
+            0.07999999821186066
+          ]
+        },
+        "normal": {
+          "path": "textures/UC_BPACK_RED_NORMAL.png",
+          "sha256": "457799947b8919f30b66ec1dae52e3439bd03acdc0382f1c64063f7a41fb619a",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2480270,
+          "color_space": "Non-Color",
+          "space": "TANGENT",
+          "convention": "OpenGL +Y",
+          "height_white_is_high": true,
+          "slope_scale": 2.0,
+          "legacy_bump_multiplier": 0.05,
+          "gaussian_blur_radius_px": 0.6,
+          "derivative": "numpy central difference per pixel; one-sided boundary",
+          "normal_formula": "normalize(-dH/dx*slope, +dH/dy*slope, 1), source image rows point down",
+          "normal_map_strength": 1.0
+        },
+        "emission": {
+          "path": "textures/UC_BPACK_RED_EMISSION.png",
+          "sha256": "42da35ff4ab35f85a9796623c770432275f6fe2a223c8412abf42974b102b7f8",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 3344130,
+          "color_space": "sRGB",
+          "mask_formula": "smoothstep(.08,.28,R-max(G,B)) * smoothstep(.12,.35,R), encoded COL values",
+          "strength": 0.65,
+          "mask_mean": 0.9818530082702637
+        }
+      },
+      "notes": [
+        "Author map_Ks aliases BUMP. It is not a missing SPEC image; do not treat height as specular or metallic. Use constant base roughness."
+      ]
+    },
+    {
+      "original_name": "blinn19SG",
+      "semantic_name": "UC_COCKPIT_OTHER",
+      "obj_face_count": 7342,
+      "legacy_mtl": {
+        "name": "blinn19SG",
+        "maps": {
+          "color": "UC_COCKPIT_OTHER_COL.jpg",
+          "bump": "UC_COCKPIT_OTHER_BUMP.jpg",
+          "specular": "UC_COCKPIT_OTHER_SPEC.jpg"
+        },
+        "bump_multiplier": 0.05,
+        "illum": 4.0,
+        "Kd": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Ka": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Tf": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Ni": 1.0,
+        "Ks": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parameters": {
+        "kind": "mixed_dark_mechanism",
+        "metallic": 0.35,
+        "roughness": 0.52,
+        "emission_strength": 0.0,
+        "alpha": 1.0,
+        "transmission": 0.0,
+        "ior": 1.5,
+        "specular_ior_level": 0.5
+      },
+      "inputs": {
+        "color": {
+          "path": "UC_COCKPIT_OTHER_COL.jpg",
+          "sha256": "9d0a8b17aaf04855aff2b82b2dd3b5cae5575b0b90467eeaf17eecaea6e6fc71",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1349820
+        },
+        "bump": {
+          "path": "UC_COCKPIT_OTHER_BUMP.jpg",
+          "sha256": "b6ae0c4bbfdd512dc264e9edf19e42ecce6ee9de82056a624a6ffdd8027bf5a7",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1314034
+        },
+        "specular": {
+          "path": "UC_COCKPIT_OTHER_SPEC.jpg",
+          "sha256": "9d6d5c34ed2ef4008f1f4d133641a6a3561ed85da65a0098b3082ea92f8ef7ac",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1839877
+        }
+      },
+      "derived": {
+        "metallic_roughness": {
+          "path": "textures/UC_COCKPIT_OTHER_MR.png",
+          "sha256": "ab2a0b205fd2f2dad46499e4f90923cfe6db26c8c9a22a2b5c49223018c82fce",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1529063,
+          "color_space": "Non-Color",
+          "channels": {
+            "R": "unused constant 1 (not baked AO)",
+            "G": "roughness",
+            "B": "metallic"
+          },
+          "roughness_formula": "base + 0.14 * (0.5 - SPEC luminance in raw image encoding)",
+          "roughness_range": [
+            0.546627402305603,
+            0.5899999737739563
+          ],
+          "metallic_formula": "0.35 * (1 - smoothstep(0.24, 0.52, COL encoded luminance))",
+          "metallic_range": [
+            0.0,
+            0.3499999940395355
+          ]
+        },
+        "normal": {
+          "path": "textures/UC_COCKPIT_OTHER_NORMAL.png",
+          "sha256": "a04720f03a680a362427f826bf3113fd5f26cdcc4ef11ee31eb3bd4fc2039b17",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2725448,
+          "color_space": "Non-Color",
+          "space": "TANGENT",
+          "convention": "OpenGL +Y",
+          "height_white_is_high": true,
+          "slope_scale": 2.0,
+          "legacy_bump_multiplier": 0.05,
+          "gaussian_blur_radius_px": 0.6,
+          "derivative": "numpy central difference per pixel; one-sided boundary",
+          "normal_formula": "normalize(-dH/dx*slope, +dH/dy*slope, 1), source image rows point down",
+          "normal_map_strength": 1.0
+        }
+      },
+      "notes": []
+    },
+    {
+      "original_name": "blinn20SG",
+      "semantic_name": "UC_UNTEXTURED_RUBY",
+      "obj_face_count": 328,
+      "legacy_mtl": {
+        "name": "blinn20SG",
+        "maps": {},
+        "bump_multiplier": 1.0,
+        "illum": 4.0,
+        "Kd": [
+          0.61,
+          0.0,
+          0.0
+        ],
+        "Ka": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Tf": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Ni": 1.0,
+        "Ks": [
+          0.88,
+          0.88,
+          0.88
+        ]
+      },
+      "parameters": {
+        "kind": "unknown_untextured_red",
+        "metallic": 0.0,
+        "roughness": 0.44,
+        "emission_strength": 0.0,
+        "alpha": 1.0,
+        "transmission": 0.0,
+        "ior": 1.5,
+        "specular_ior_level": 0.5
+      },
+      "inputs": {},
+      "derived": {},
+      "notes": [
+        "No texture is referenced in MTL; use author Kd and do not invent a missing map or part identity."
+      ],
+      "base_color_factor": [
+        0.61,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "original_name": "rhand_other_texSG",
+      "semantic_name": "UC_RHAND_OTHER",
+      "obj_face_count": 8844,
+      "legacy_mtl": {
+        "name": "rhand_other_texSG",
+        "maps": {
+          "color": "UC_RHAND_OTHER_COL.jpg",
+          "bump": "UC_RHAND_OTHER_BUMP.jpg",
+          "specular": "UC_RHAND_OTHER_SPEC.jpg"
+        },
+        "bump_multiplier": 0.05,
+        "illum": 4.0,
+        "Kd": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Ka": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Tf": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Ni": 1.0,
+        "Ks": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parameters": {
+        "kind": "mixed_dark_mechanism",
+        "metallic": 0.35,
+        "roughness": 0.52,
+        "emission_strength": 0.0,
+        "alpha": 1.0,
+        "transmission": 0.0,
+        "ior": 1.5,
+        "specular_ior_level": 0.5
+      },
+      "inputs": {
+        "color": {
+          "path": "UC_RHAND_OTHER_COL.jpg",
+          "sha256": "df83c886f0ef4a41dc41a0b7bacf226c0140eba0755a42de484b0a8713d9d791",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1365746
+        },
+        "bump": {
+          "path": "UC_RHAND_OTHER_BUMP.jpg",
+          "sha256": "bc97298540554d1ac2fca27eb329f43a01346d4943ad08b88bd69a5a73e30b81",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1396783
+        },
+        "specular": {
+          "path": "UC_RHAND_OTHER_SPEC.jpg",
+          "sha256": "10794102fcad135599381b3d04a9ef46a3a1431193a857e9860d154e32a4f93a",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2191449
+        }
+      },
+      "derived": {
+        "metallic_roughness": {
+          "path": "textures/UC_RHAND_OTHER_MR.png",
+          "sha256": "3cebfed78b1217e224dfe7bb289826b228d4bcc98fcdd9a20b3b6fe9a8b535fb",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1267658,
+          "color_space": "Non-Color",
+          "channels": {
+            "R": "unused constant 1 (not baked AO)",
+            "G": "roughness",
+            "B": "metallic"
+          },
+          "roughness_formula": "base + 0.14 * (0.5 - SPEC luminance in raw image encoding)",
+          "roughness_range": [
+            0.5433332920074463,
+            0.5899999737739563
+          ],
+          "metallic_formula": "0.35 * (1 - smoothstep(0.24, 0.52, COL encoded luminance))",
+          "metallic_range": [
+            0.2530270516872406,
+            0.3499999940395355
+          ]
+        },
+        "normal": {
+          "path": "textures/UC_RHAND_OTHER_NORMAL.png",
+          "sha256": "580c8562e6118a11f299fc5246880accb87c58b3ba897cc7bd4df431509015f1",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2898725,
+          "color_space": "Non-Color",
+          "space": "TANGENT",
+          "convention": "OpenGL +Y",
+          "height_white_is_high": true,
+          "slope_scale": 2.0,
+          "legacy_bump_multiplier": 0.05,
+          "gaussian_blur_radius_px": 0.6,
+          "derivative": "numpy central difference per pixel; one-sided boundary",
+          "normal_formula": "normalize(-dH/dx*slope, +dH/dy*slope, 1), source image rows point down",
+          "normal_map_strength": 1.0
+        }
+      },
+      "notes": []
+    },
+    {
+      "original_name": "rhand_red_texSG",
+      "semantic_name": "UC_RHAND_RED",
+      "obj_face_count": 3060,
+      "legacy_mtl": {
+        "name": "rhand_red_texSG",
+        "maps": {
+          "color": "UC_RHAND_RED_COL.jpg",
+          "bump": "UC_RHAND_RED_BUMP.jpg",
+          "specular": "UC_RHAND_RED_SPEC.jpg"
+        },
+        "bump_multiplier": 0.05,
+        "illum": 4.0,
+        "Kd": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Ka": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Tf": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Ni": 1.0,
+        "Ks": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parameters": {
+        "kind": "red_psychoframe_approximation",
+        "metallic": 0.08,
+        "roughness": 0.38,
+        "emission_strength": 0.65,
+        "alpha": 1.0,
+        "transmission": 0.0,
+        "ior": 1.5,
+        "specular_ior_level": 0.5
+      },
+      "inputs": {
+        "color": {
+          "path": "UC_RHAND_RED_COL.jpg",
+          "sha256": "ffa227114b0b6d7cb8ccbc27ad8eff47622daf517825fbcfbfd9123624b84b26",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1615498
+        },
+        "bump": {
+          "path": "UC_RHAND_RED_BUMP.jpg",
+          "sha256": "4f75aa608c8404a5669b06f765c78b2a058fc164d8d2054843313bd77a7d76a2",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1279600
+        },
+        "specular": {
+          "path": "UC_RHAND_RED_SPEC.jpg",
+          "sha256": "4ee32aa60d00d4852763c9977dc5730a45b8948b80453e4b5220211c4ec63438",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2238333
+        }
+      },
+      "derived": {
+        "metallic_roughness": {
+          "path": "textures/UC_RHAND_RED_MR.png",
+          "sha256": "e4f786b3b0f945eac5bedb4fb7e3af852d61c9c0c40427884cbb19336979be05",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1294981,
+          "color_space": "Non-Color",
+          "channels": {
+            "R": "unused constant 1 (not baked AO)",
+            "G": "roughness",
+            "B": "metallic"
+          },
+          "roughness_formula": "base + 0.14 * (0.5 - SPEC luminance in raw image encoding)",
+          "roughness_range": [
+            0.3813725411891937,
+            0.4390196204185486
+          ],
+          "metallic_formula": "constant material prior; independent of SPEC",
+          "metallic_range": [
+            0.07999999821186066,
+            0.07999999821186066
+          ]
+        },
+        "normal": {
+          "path": "textures/UC_RHAND_RED_NORMAL.png",
+          "sha256": "6d896c6061465c26b484e3cec6efebe02c33d5328d72ae40b5742e42ebd570e9",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2636018,
+          "color_space": "Non-Color",
+          "space": "TANGENT",
+          "convention": "OpenGL +Y",
+          "height_white_is_high": true,
+          "slope_scale": 2.0,
+          "legacy_bump_multiplier": 0.05,
+          "gaussian_blur_radius_px": 0.6,
+          "derivative": "numpy central difference per pixel; one-sided boundary",
+          "normal_formula": "normalize(-dH/dx*slope, +dH/dy*slope, 1), source image rows point down",
+          "normal_map_strength": 1.0
+        },
+        "emission": {
+          "path": "textures/UC_RHAND_RED_EMISSION.png",
+          "sha256": "20c13ab72cdc03cbd3ba8db237e75945e95464071723966fe6a6df0d489e2f81",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 3783743,
+          "color_space": "sRGB",
+          "mask_formula": "smoothstep(.08,.28,R-max(G,B)) * smoothstep(.12,.35,R), encoded COL values",
+          "strength": 0.65,
+          "mask_mean": 0.9732751250267029
+        }
+      },
+      "notes": []
+    },
+    {
+      "original_name": "rhand_white_texSG",
+      "semantic_name": "UC_RHAND_WHITE",
+      "obj_face_count": 11600,
+      "legacy_mtl": {
+        "name": "rhand_white_texSG",
+        "maps": {
+          "color": "UC_RHAND_WHITE_COL.jpg",
+          "bump": "UC_RHAND_WHITE_BUMP.jpg",
+          "specular": "UC_RHAND_WHITE_SPEC.jpg"
+        },
+        "bump_multiplier": 0.03,
+        "illum": 4.0,
+        "Kd": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Ka": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Tf": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Ni": 1.0,
+        "Ks": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parameters": {
+        "kind": "painted_white",
+        "metallic": 0.0,
+        "roughness": 0.48,
+        "emission_strength": 0.0,
+        "alpha": 1.0,
+        "transmission": 0.0,
+        "ior": 1.5,
+        "specular_ior_level": 0.5
+      },
+      "inputs": {
+        "color": {
+          "path": "UC_RHAND_WHITE_COL.jpg",
+          "sha256": "68ac46819e0841b796b995c3ac3e7d4457ab7291145fe71b7fe841c997d66f78",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1977128
+        },
+        "bump": {
+          "path": "UC_RHAND_WHITE_BUMP.jpg",
+          "sha256": "83a06ace54543191cefd43272c91f0a68b766d12a30dffaff2908aa4b194dbaf",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1475003
+        },
+        "specular": {
+          "path": "UC_RHAND_WHITE_SPEC.jpg",
+          "sha256": "846d043a71b19952b55f3872f294cbfb9e593d9dc61d03951613f12cacd5dc23",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2344606
+        }
+      },
+      "derived": {
+        "metallic_roughness": {
+          "path": "textures/UC_RHAND_WHITE_MR.png",
+          "sha256": "310549ae30cac233e22826479f019934a6d61765d61f0aa368fd6ffd56ac2e6d",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1386887,
+          "color_space": "Non-Color",
+          "channels": {
+            "R": "unused constant 1 (not baked AO)",
+            "G": "roughness",
+            "B": "metallic"
+          },
+          "roughness_formula": "base + 0.14 * (0.5 - SPEC luminance in raw image encoding)",
+          "roughness_range": [
+            0.4099999964237213,
+            0.550000011920929
+          ],
+          "metallic_formula": "constant material prior; independent of SPEC",
+          "metallic_range": [
+            0.0,
+            0.0
+          ]
+        },
+        "normal": {
+          "path": "textures/UC_RHAND_WHITE_NORMAL.png",
+          "sha256": "204211aa0aff9bc82419bf782677ffd263f33be8fd022988aec020948ace5b3a",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2541212,
+          "color_space": "Non-Color",
+          "space": "TANGENT",
+          "convention": "OpenGL +Y",
+          "height_white_is_high": true,
+          "slope_scale": 1.2,
+          "legacy_bump_multiplier": 0.03,
+          "gaussian_blur_radius_px": 0.6,
+          "derivative": "numpy central difference per pixel; one-sided boundary",
+          "normal_formula": "normalize(-dH/dx*slope, +dH/dy*slope, 1), source image rows point down",
+          "normal_map_strength": 1.0
+        }
+      },
+      "notes": []
+    },
+    {
+      "original_name": "rleg_other_texSG",
+      "semantic_name": "UC_RLEG_OTHER",
+      "obj_face_count": 9380,
+      "legacy_mtl": {
+        "name": "rleg_other_texSG",
+        "maps": {
+          "color": "UC_RLEG_OTHER_COL.jpg",
+          "bump": "UC_RLEG_OTHER_BUMP.jpg",
+          "specular": "UC_RLEG_OTHER_SPEC.jpg"
+        },
+        "bump_multiplier": 0.05,
+        "illum": 4.0,
+        "Kd": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Ka": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Tf": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Ni": 1.0,
+        "Ks": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parameters": {
+        "kind": "mixed_dark_mechanism",
+        "metallic": 0.35,
+        "roughness": 0.52,
+        "emission_strength": 0.0,
+        "alpha": 1.0,
+        "transmission": 0.0,
+        "ior": 1.5,
+        "specular_ior_level": 0.5
+      },
+      "inputs": {
+        "color": {
+          "path": "UC_RLEG_OTHER_COL.jpg",
+          "sha256": "6e9eac21320725ab0dad138140b868044df8ac2564325282b7ca386edecb679c",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1339761
+        },
+        "bump": {
+          "path": "UC_RLEG_OTHER_BUMP.jpg",
+          "sha256": "2fd5d63e18db90bab20827794fd6327cb9dfe0681383cf9f08c0584d3b4bd200",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1198481
+        },
+        "specular": {
+          "path": "UC_RLEG_OTHER_SPEC.jpg",
+          "sha256": "40b8882080fa854b9af5e0765b378a29476e904c294c54fa1b4ab089ccfcf6cd",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2063799
+        }
+      },
+      "derived": {
+        "metallic_roughness": {
+          "path": "textures/UC_RLEG_OTHER_MR.png",
+          "sha256": "7fd5fec34de33f65bbec49c35edcf8971dff0024b44e2d0adf3eaa8a18bb35dd",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1218284,
+          "color_space": "Non-Color",
+          "channels": {
+            "R": "unused constant 1 (not baked AO)",
+            "G": "roughness",
+            "B": "metallic"
+          },
+          "roughness_formula": "base + 0.14 * (0.5 - SPEC luminance in raw image encoding)",
+          "roughness_range": [
+            0.5378431081771851,
+            0.5899999737739563
+          ],
+          "metallic_formula": "0.35 * (1 - smoothstep(0.24, 0.52, COL encoded luminance))",
+          "metallic_range": [
+            0.03791848570108414,
+            0.3499999940395355
+          ]
+        },
+        "normal": {
+          "path": "textures/UC_RLEG_OTHER_NORMAL.png",
+          "sha256": "8eb1015c47f86cef4d5c1717be648897c93f96b61e73c92634934a526b70be16",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2402867,
+          "color_space": "Non-Color",
+          "space": "TANGENT",
+          "convention": "OpenGL +Y",
+          "height_white_is_high": true,
+          "slope_scale": 2.0,
+          "legacy_bump_multiplier": 0.05,
+          "gaussian_blur_radius_px": 0.6,
+          "derivative": "numpy central difference per pixel; one-sided boundary",
+          "normal_formula": "normalize(-dH/dx*slope, +dH/dy*slope, 1), source image rows point down",
+          "normal_map_strength": 1.0
+        }
+      },
+      "notes": []
+    },
+    {
+      "original_name": "rleg_red_texSG",
+      "semantic_name": "UC_RLEG_RED",
+      "obj_face_count": 5543,
+      "legacy_mtl": {
+        "name": "rleg_red_texSG",
+        "maps": {
+          "color": "UC_RLEG_RED_COL.jpg",
+          "bump": "UC_RLEG_RED_BUMP.jpg",
+          "specular": "UC_RLEG_RED_SPEC.jpg"
+        },
+        "bump_multiplier": 0.05,
+        "illum": 4.0,
+        "Kd": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Ka": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Tf": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Ni": 1.0,
+        "Ks": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parameters": {
+        "kind": "red_psychoframe_approximation",
+        "metallic": 0.08,
+        "roughness": 0.38,
+        "emission_strength": 0.65,
+        "alpha": 1.0,
+        "transmission": 0.0,
+        "ior": 1.5,
+        "specular_ior_level": 0.5
+      },
+      "inputs": {
+        "color": {
+          "path": "UC_RLEG_RED_COL.jpg",
+          "sha256": "889e69f01a02e20352889ba8236233e176d9651fcf31151d4010e77439671970",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1632497
+        },
+        "bump": {
+          "path": "UC_RLEG_RED_BUMP.jpg",
+          "sha256": "d7212b0f6cd23380e24b421ef8178321221191aed261a5f19bba9ab42d2b56e0",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1299717
+        },
+        "specular": {
+          "path": "UC_RLEG_RED_SPEC.jpg",
+          "sha256": "f0e579904ea9a145bd475a0e7b5a8cda2e995f8f9825e3fc65c7d07cc909e6f2",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1886201
+        }
+      },
+      "derived": {
+        "metallic_roughness": {
+          "path": "textures/UC_RLEG_RED_MR.png",
+          "sha256": "08d3622916865b853a2f2a0dd108b14b5a258d82aa7fbbb63b9181a4f84fa139",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1090741,
+          "color_space": "Non-Color",
+          "channels": {
+            "R": "unused constant 1 (not baked AO)",
+            "G": "roughness",
+            "B": "metallic"
+          },
+          "roughness_formula": "base + 0.14 * (0.5 - SPEC luminance in raw image encoding)",
+          "roughness_range": [
+            0.38192155957221985,
+            0.44505882263183594
+          ],
+          "metallic_formula": "constant material prior; independent of SPEC",
+          "metallic_range": [
+            0.07999999821186066,
+            0.07999999821186066
+          ]
+        },
+        "normal": {
+          "path": "textures/UC_RLEG_RED_NORMAL.png",
+          "sha256": "cfed97e6ef90d69f0ef9ffe7b703caa3b25a928560a4be5472297f5a2cdf7982",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2676844,
+          "color_space": "Non-Color",
+          "space": "TANGENT",
+          "convention": "OpenGL +Y",
+          "height_white_is_high": true,
+          "slope_scale": 2.0,
+          "legacy_bump_multiplier": 0.05,
+          "gaussian_blur_radius_px": 0.6,
+          "derivative": "numpy central difference per pixel; one-sided boundary",
+          "normal_formula": "normalize(-dH/dx*slope, +dH/dy*slope, 1), source image rows point down",
+          "normal_map_strength": 1.0
+        },
+        "emission": {
+          "path": "textures/UC_RLEG_RED_EMISSION.png",
+          "sha256": "16f8ba7cfd23ef0e2901bb05f65c58184b5786c0ddcb79a6ae4e0aaacd3b862e",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 3878041,
+          "color_space": "sRGB",
+          "mask_formula": "smoothstep(.08,.28,R-max(G,B)) * smoothstep(.12,.35,R), encoded COL values",
+          "strength": 0.65,
+          "mask_mean": 0.9873106479644775
+        }
+      },
+      "notes": []
+    },
+    {
+      "original_name": "rleg_white_texSG",
+      "semantic_name": "UC_RLEG_WHITE",
+      "obj_face_count": 14320,
+      "legacy_mtl": {
+        "name": "rleg_white_texSG",
+        "maps": {
+          "color": "UC_RLEG_WHITE_COL.jpg",
+          "bump": "UC_RLEG_WHITE_BUMP.jpg",
+          "specular": "UC_RLEG_WHITE_SPEC.jpg"
+        },
+        "bump_multiplier": 0.05,
+        "illum": 4.0,
+        "Kd": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Ka": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Tf": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Ni": 1.0,
+        "Ks": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "parameters": {
+        "kind": "painted_white",
+        "metallic": 0.0,
+        "roughness": 0.48,
+        "emission_strength": 0.0,
+        "alpha": 1.0,
+        "transmission": 0.0,
+        "ior": 1.5,
+        "specular_ior_level": 0.5
+      },
+      "inputs": {
+        "color": {
+          "path": "UC_RLEG_WHITE_COL.jpg",
+          "sha256": "e13b76e55dba27c596e3d88e78c56e58db27c38aa5201ae72ab3753c5e41feb1",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2071928
+        },
+        "bump": {
+          "path": "UC_RLEG_WHITE_BUMP.jpg",
+          "sha256": "90996090a678aeffd6abcbb27450e8ce974db3bee149c15b47d9cab14bc44fc5",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1349813
+        },
+        "specular": {
+          "path": "UC_RLEG_WHITE_SPEC.jpg",
+          "sha256": "a540c3a0883b82a96c623f3222f368f6b25ae194bcd3283b083fe971cf994a4c",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2277615
+        }
+      },
+      "derived": {
+        "metallic_roughness": {
+          "path": "textures/UC_RLEG_WHITE_MR.png",
+          "sha256": "6ca6cdd5034df683ee17ceb7eda2d48f47da6fcef8fad26f0003e61e8a5729bf",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 1373377,
+          "color_space": "Non-Color",
+          "channels": {
+            "R": "unused constant 1 (not baked AO)",
+            "G": "roughness",
+            "B": "metallic"
+          },
+          "roughness_formula": "base + 0.14 * (0.5 - SPEC luminance in raw image encoding)",
+          "roughness_range": [
+            0.4099999964237213,
+            0.550000011920929
+          ],
+          "metallic_formula": "constant material prior; independent of SPEC",
+          "metallic_range": [
+            0.0,
+            0.0
+          ]
+        },
+        "normal": {
+          "path": "textures/UC_RLEG_WHITE_NORMAL.png",
+          "sha256": "ae02560287f5989394499d048be7c8d68cc1fdca370f94e44b21b6f8808e9a83",
+          "size": [
+            2000,
+            2000
+          ],
+          "mode": "RGB",
+          "bytes": 2839401,
+          "color_space": "Non-Color",
+          "space": "TANGENT",
+          "convention": "OpenGL +Y",
+          "height_white_is_high": true,
+          "slope_scale": 2.0,
+          "legacy_bump_multiplier": 0.05,
+          "gaussian_blur_radius_px": 0.6,
+          "derivative": "numpy central difference per pixel; one-sided boundary",
+          "normal_formula": "normalize(-dH/dx*slope, +dH/dy*slope, 1), source image rows point down",
+          "normal_map_strength": 1.0
+        }
+      },
+      "notes": []
+    }
+  ],
+  "statistics": {
+    "materials": 25,
+    "textured_materials": 24,
+    "source_texture_count": 71,
+    "source_color_maps": 24,
+    "source_bump_maps": 24,
+    "source_spec_maps": 23,
+    "derived_normal_maps": 24,
+    "derived_metallic_roughness_maps": 24,
+    "derived_emission_maps": 8,
+    "specular_aliases_bump": 1
+  }
+}

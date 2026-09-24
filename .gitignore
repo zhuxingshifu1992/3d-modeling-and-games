@@ -16,3 +16,6 @@
 .env.*
 *.pem
 *.key
+
+# Megastructure hangar generated verification reports
+游戏/高达_巨构机库/previews/**/*.json

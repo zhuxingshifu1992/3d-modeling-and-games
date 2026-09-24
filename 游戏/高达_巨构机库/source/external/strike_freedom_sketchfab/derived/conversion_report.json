@@ -1,0 +1,192 @@
+{
+  "status": "exported_reimport_verified",
+  "source_sha256": "80815c3dc77ab86ac28bde2352e4e73991094c6e6a5628df5cc94e3ed5566b04",
+  "target_sha256": "6d27b64ce79469c14d878efc200636bdf9e68b06511f9d371f5e0dc3ac58ed73",
+  "target_bytes": 40020440,
+  "scale": 0.025173431154894014,
+  "source_floor": -531.6830444335938,
+  "source_body_landmark": 218.3140411376953,
+  "total_height_reference_m": 18.88,
+  "calibration_convention": "sole to authored helmet antenna; not asserted as official endpoint",
+  "equipped_bounds_blender": [
+    [
+      -11.471282958984375,
+      -4.977342128753662,
+      0.0
+    ],
+    [
+      11.516593933105469,
+      4.16721248626709,
+      19.449674606323242
+    ]
+  ],
+  "triangles": 429608,
+  "removed_overlap_object": "Object_12",
+  "overlap_max_vertex_distance_m": 0.0002593994140625,
+  "source_hatch_components": [
+    {
+      "bounds": [
+        [
+          -0.5633773803710938,
+          0.9149034023284912,
+          13.279242515563965
+        ],
+        [
+          0.567413330078125,
+          2.8025832176208496,
+          15.695722579956055
+        ]
+      ],
+      "vertices": 886
+    },
+    {
+      "bounds": [
+        [
+          -0.205413818359375,
+          0.9459171295166016,
+          12.989019393920898
+        ],
+        [
+          0.209442138671875,
+          2.4147119522094727,
+          14.740740776062012
+        ]
+      ],
+      "vertices": 121
+    },
+    {
+      "bounds": [
+        [
+          -0.42215728759765625,
+          0.9224808216094971,
+          12.90098762512207
+        ],
+        [
+          0.42618560791015625,
+          1.8880078792572021,
+          13.666509628295898
+        ]
+      ],
+      "vertices": 166
+    },
+    {
+      "bounds": [
+        [
+          -0.1178131103515625,
+          2.1841988563537598,
+          14.247952461242676
+        ],
+        [
+          0.11328125,
+          2.376070499420166,
+          14.501997947692871
+        ]
+      ],
+      "vertices": 2454
+    },
+    {
+      "bounds": [
+        [
+          -0.5558242797851562,
+          1.0802676677703857,
+          14.891645431518555
+        ],
+        [
+          0.5598602294921875,
+          3.109724521636963,
+          16.03245735168457
+        ]
+      ],
+      "vertices": 252
+    }
+  ],
+  "source_hatch_face_count": 2115,
+  "cavity_bounds_blender": {
+    "entry": [
+      [
+        -0.43,
+        0.9,
+        13.87
+      ],
+      [
+        0.43,
+        3.25,
+        15.91
+      ]
+    ],
+    "interior": [
+      [
+        -0.66,
+        -1.13,
+        13.87
+      ],
+      [
+        0.66,
+        0.9,
+        15.91
+      ]
+    ],
+    "sliding_cover_recess": [
+      [
+        -0.61,
+        0.84,
+        13.78
+      ],
+      [
+        0.61,
+        4.56,
+        16.05
+      ]
+    ]
+  },
+  "cavity_removed_faces": {
+    "entry": 135,
+    "interior": 1395,
+    "sliding_cover_recess": 494
+  },
+  "fixed_abdominal_below_y_m": 13.8,
+  "hatch_pivot_godot": [
+    0,
+    16.05,
+    -0.9
+  ],
+  "suggested_cockpit": {
+    "floor_y": 13.75,
+    "portal_z": -3.12,
+    "bridge_end_z": -5.4,
+    "interior_front_z": -0.88,
+    "rear_z": 1.05,
+    "seat_offset_z": -0.18,
+    "screen_z": -0.5,
+    "wait_z": -5.76,
+    "gate_z": -5.4,
+    "console_offset_z": 0.3,
+    "console_x": 0.48,
+    "screen_side_x": 0.35,
+    "screen_fold_yaw_zero": true,
+    "screen_fold_height": 1.96,
+    "hatch_travel": 1.4,
+    "hatch_angle": 90.0,
+    "docking_width": 0.73,
+    "entry_half_width": 0.06,
+    "head_clearance_min_y": 15.95,
+    "head_clearance_max_y": 18.9,
+    "head_clearance_half_width": 1.7,
+    "head_clearance_min_z": -1.35,
+    "head_clearance_max_z": 1.15,
+    "clearance_entry_min_z": -2.9,
+    "clearance_entry_max_z": -0.9
+  },
+  "meshes": [
+    {
+      "name": "CockpitHatch",
+      "triangles": 1984,
+      "surfaces": 1
+    },
+    {
+      "name": "FreedomBody",
+      "triangles": 427624,
+      "surfaces": 16
+    }
+  ]
+}

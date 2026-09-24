@@ -9,3 +9,7 @@
 | Godot Engine | 游戏项目所使用的引擎 | [官方许可](https://godotengine.org/license/)；[许可文本](游戏/欧洲旅行探索游戏/runtime/GODOT-LICENSE.txt) |
 
 来源清单、版权声明和第三方许可保留原文。本仓库尚未为所有自有脚本和模型指定统一的项目许可证；此表只说明列出的第三方部分。
+
+## 2026-09-24 新增：巨构机库
+
+[机体作者、来源、许可和修改说明](游戏/高达_巨构机库/assets/机体素材来源.txt)覆盖 AnonmalyFound 的 CC0 机体、Ryanwill679/TrashCG、yqms、K0077 的 CC BY 4.0 模型，以及 kurojishi 的 CC BY-NC 4.0 独角兽。独角兽及其派生资产仅非商业使用。界面采用随附 SIL OFL 1.1 的 Noto Sans SC。下载版飞翼因来源疑点未纳入公开副本，使用项目既有程序模型。角色和商标权利不由上述素材许可授予。

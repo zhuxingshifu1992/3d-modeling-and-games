@@ -1,0 +1,332 @@
+{
+  "format_version": 1,
+  "source": "source/机体模型.blend",
+  "generator": "source/build_models.py",
+  "coordinate_system": {
+    "source_front": "+Y",
+    "godot_front": "-Z",
+    "up": "Y in GLB / Z in Blender",
+    "units": "meters",
+    "feet_bottom": 0
+  },
+  "models": {
+    "rx78": {
+      "name": "RX-78-2",
+      "file": "rx78.glb",
+      "head_crown_height_m": 18.0,
+      "measured_crown_m": 18.0,
+      "height_status": "specified official reference",
+      "overall_height_m": 18.651451,
+      "width_m": 11.054,
+      "depth_m": 4.4855,
+      "bounds_blender_xyz_m": [
+        [
+          -6.38642692565918,
+          4.667586326599121
+        ],
+        [
+          -2.4254698753356934,
+          2.059999942779541
+        ],
+        [
+          0.0,
+          18.651451110839844
+        ]
+      ],
+      "bounds_godot_xyz_m": [
+        [
+          -6.38642692565918,
+          4.667586326599121
+        ],
+        [
+          0.0,
+          18.651451110839844
+        ],
+        [
+          -2.059999942779541,
+          2.4254698753356934
+        ]
+      ],
+      "triangles": 49664,
+      "draw_surfaces": 11,
+      "editable_components": 195,
+      "cockpit_floor": 10.799999999999999,
+      "portal_z": -1.98,
+      "portal_clear_width": 2.4,
+      "portal_clear_height": 2.4,
+      "crown_excludes": "V-fin, antennas, wing tips, funnel backpack",
+      "collisions": "none; gameplay proxies are separate",
+      "reference_height_m": 18,
+      "body_height_including_antenna_m": 18.651451,
+      "equipment_inclusive_height_m": 18.651451,
+      "height_basis": "head_crown_reference",
+      "reference_url": null,
+      "calibration_preserves": "feet and cockpit portal; only body vertices above H*0.6+2.4m adjusted"
+    },
+    "unicorn": {
+      "name": "RX-0 Unicorn · Destroy",
+      "file": "unicorn.glb",
+      "head_crown_height_m": 21.00194,
+      "measured_crown_m": 21.00194,
+      "height_status": "specified official reference",
+      "overall_height_m": 21.700003,
+      "width_m": 13.1239,
+      "depth_m": 5.4075,
+      "bounds_blender_xyz_m": [
+        [
+          -7.4969024658203125,
+          5.627037048339844
+        ],
+        [
+          -2.924038887023926,
+          2.4834444522857666
+        ],
+        [
+          0.0,
+          21.700002670288086
+        ]
+      ],
+      "bounds_godot_xyz_m": [
+        [
+          -7.4969024658203125,
+          5.627037048339844
+        ],
+        [
+          0.0,
+          21.700002670288086
+        ],
+        [
+          -2.4834444522857666,
+          2.924038887023926
+        ]
+      ],
+      "triangles": 53976,
+      "draw_surfaces": 10,
+      "editable_components": 217,
+      "cockpit_floor": 13.02,
+      "portal_z": -2.387,
+      "portal_clear_width": 2.4,
+      "portal_clear_height": 2.4,
+      "crown_excludes": "V-fin, antennas, wing tips, funnel backpack",
+      "collisions": "none; gameplay proxies are separate",
+      "reference_height_m": 21.7,
+      "body_height_including_antenna_m": 21.700003,
+      "equipment_inclusive_height_m": 21.700003,
+      "height_basis": "body_total_including_antenna",
+      "reference_url": null,
+      "calibration_preserves": "feet and cockpit portal; only body vertices above H*0.6+2.4m adjusted"
+    },
+    "nu": {
+      "name": "RX-93 ν Gundam",
+      "file": "nu.glb",
+      "head_crown_height_m": 22.0,
+      "measured_crown_m": 22.0,
+      "height_status": "specified official reference",
+      "overall_height_m": 24.289618,
+      "width_m": 14.4222,
+      "depth_m": 5.8178,
+      "bounds_blender_xyz_m": [
+        [
+          -7.223331451416016,
+          7.198890686035156
+        ],
+        [
+          -3.299999952316284,
+          2.517777681350708
+        ],
+        [
+          0.0,
+          24.28961753845215
+        ]
+      ],
+      "bounds_godot_xyz_m": [
+        [
+          -7.223331451416016,
+          7.198890686035156
+        ],
+        [
+          0.0,
+          24.28961753845215
+        ],
+        [
+          -2.517777681350708,
+          3.299999952316284
+        ]
+      ],
+      "triangles": 54728,
+      "draw_surfaces": 10,
+      "editable_components": 217,
+      "cockpit_floor": 13.2,
+      "portal_z": -2.42,
+      "portal_clear_width": 2.4,
+      "portal_clear_height": 2.4,
+      "crown_excludes": "V-fin, antennas, wing tips, funnel backpack",
+      "collisions": "none; gameplay proxies are separate",
+      "reference_height_m": 22,
+      "body_height_including_antenna_m": 22.796217,
+      "equipment_inclusive_height_m": 24.289618,
+      "height_basis": "head_crown_reference",
+      "reference_url": null,
+      "calibration_preserves": "feet and cockpit portal; only body vertices above H*0.6+2.4m adjusted"
+    },
+    "freedom": {
+      "name": "ZGMF-X20A Strike Freedom",
+      "file": "freedom.glb",
+      "head_crown_height_m": 18.276712,
+      "measured_crown_m": 18.276712,
+      "height_status": "specified official reference",
+      "overall_height_m": 20.744558,
+      "width_m": 17.3832,
+      "depth_m": 5.4123,
+      "bounds_blender_xyz_m": [
+        [
+          -8.691593170166016,
+          8.69158935546875
+        ],
+        [
+          -3.2515554428100586,
+          2.1607110500335693
+        ],
+        [
+          1.4901161193847656e-08,
+          20.744558334350586
+        ]
+      ],
+      "bounds_godot_xyz_m": [
+        [
+          -8.691593170166016,
+          8.69158935546875
+        ],
+        [
+          1.4901161193847656e-08,
+          20.744558334350586
+        ],
+        [
+          -2.1607110500335693,
+          3.2515554428100586
+        ]
+      ],
+      "triangles": 53772,
+      "draw_surfaces": 11,
+      "editable_components": 216,
+      "cockpit_floor": 11.328,
+      "portal_z": -2.0768,
+      "portal_clear_width": 2.4,
+      "portal_clear_height": 2.4,
+      "crown_excludes": "V-fin, antennas, wing tips, funnel backpack",
+      "collisions": "none; gameplay proxies are separate",
+      "reference_height_m": 18.88,
+      "body_height_including_antenna_m": 18.879999,
+      "equipment_inclusive_height_m": 20.744558,
+      "height_basis": "body_total_including_antenna",
+      "reference_url": "https://manual.bandai-hobby.net/pdf/646.pdf",
+      "calibration_preserves": "feet and cockpit portal; only body vertices above H*0.6+2.4m adjusted"
+    },
+    "wing": {
+      "name": "XXXG-00W0 Wing Zero EW",
+      "file": "wing.glb",
+      "head_crown_height_m": 16.700001,
+      "measured_crown_m": 16.700001,
+      "height_status": "official reference; Wing/Exia modeled using head-crown interpretation",
+      "overall_height_m": 17.480057,
+      "width_m": 15.0486,
+      "depth_m": 4.5832,
+      "bounds_blender_xyz_m": [
+        [
+          -7.5242767333984375,
+          7.5242767333984375
+        ],
+        [
+          -2.6720001697540283,
+          1.911222219467163
+        ],
+        [
+          0.0,
+          17.480056762695312
+        ]
+      ],
+      "bounds_godot_xyz_m": [
+        [
+          -7.5242767333984375,
+          7.5242767333984375
+        ],
+        [
+          0.0,
+          17.480056762695312
+        ],
+        [
+          -1.911222219467163,
+          2.6720001697540283
+        ]
+      ],
+      "triangles": 65284,
+      "draw_surfaces": 11,
+      "editable_components": 248,
+      "cockpit_floor": 10.02,
+      "portal_z": -1.837,
+      "portal_clear_width": 2.4,
+      "portal_clear_height": 2.4,
+      "crown_excludes": "V-fin, antennas, wing tips, funnel backpack",
+      "collisions": "none; gameplay proxies are separate",
+      "reference_height_m": 16.7,
+      "body_height_including_antenna_m": 17.304401,
+      "equipment_inclusive_height_m": 17.480057,
+      "height_basis": "head_crown_reference",
+      "reference_url": "https://manual.bandai-hobby.net/pdf/642.pdf",
+      "calibration_preserves": "feet and cockpit portal; only body vertices above H*0.6+2.4m adjusted"
+    },
+    "exia": {
+      "name": "GN-001 Exia",
+      "file": "exia.glb",
+      "head_crown_height_m": 18.299999,
+      "measured_crown_m": 18.299999,
+      "height_status": "official reference; Wing/Exia modeled using head-crown interpretation",
+      "overall_height_m": 18.962309,
+      "width_m": 9.8663,
+      "depth_m": 4.5602,
+      "bounds_blender_xyz_m": [
+        [
+          -4.479820251464844,
+          5.386528015136719
+        ],
+        [
+          -2.4658942222595215,
+          2.0943331718444824
+        ],
+        [
+          0.0,
+          18.962308883666992
+        ]
+      ],
+      "bounds_godot_xyz_m": [
+        [
+          -4.479820251464844,
+          5.386528015136719
+        ],
+        [
+          0.0,
+          18.962308883666992
+        ],
+        [
+          -2.0943331718444824,
+          2.4658942222595215
+        ]
+      ],
+      "triangles": 51748,
+      "draw_surfaces": 11,
+      "editable_components": 196,
+      "cockpit_floor": 10.98,
+      "portal_z": -2.013,
+      "portal_clear_width": 2.4,
+      "portal_clear_height": 2.4,
+      "crown_excludes": "V-fin, antennas, wing tips, funnel backpack",
+      "collisions": "none; gameplay proxies are separate",
+      "reference_height_m": 18.3,
+      "body_height_including_antenna_m": 18.962309,
+      "equipment_inclusive_height_m": 18.962309,
+      "height_basis": "head_crown_reference",
+      "reference_url": null,
+      "calibration_preserves": "feet and cockpit portal; only body vertices above H*0.6+2.4m adjusted"
+    }
+  }
+}

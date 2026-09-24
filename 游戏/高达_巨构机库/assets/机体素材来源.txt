@@ -1,0 +1,66 @@
+公开版机体素材来源（2026-09-24）
+
+RX-78-2 / AnonmalyFound
+https://www.blendkit.com/asset-gallery-detail/a6a1000b-3b72-48bb-be81-6f4ab36fabda/
+发布者标注 CC0，免费。
+游戏派生版：原结构和颜色、2K底色烘焙、游戏兼容材质、18米头顶尺度校正。
+胸甲分离、内部开腔和人尺度驾驶舱为本项目的交互适配；并非源作者提供的完整驾驶舱。
+
+Zaku MKII Dersert rigged version / AnonmalyFound
+https://www.blendkit.com/asset-gallery-detail/ebee94b8-5e10-4b96-947b-7788145feaf5/
+发布者标注 CC0，免费。
+游戏派生版：2K底色、金属粗糙度、法线和独眼发光贴图，静态展陈。
+头顶17.5米为该作者改型的暂定展陈尺度，不冒充已确认的官方型号参数。
+省略原透明眼罩31面以兼容GL显示，公开仓库提供静态游戏派生模型。
+
+Rx-93 Nu Gundam / Ryanwill679/TrashCG
+作者：https://sketchfab.com/Ryanwill679
+来源：https://sketchfab.com/3d-models/rx-93-nu-gundam-85c329a2565043c58999afd43506c9a9
+许可：CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+游戏派生版采用原始FBX几何、作者的PBR贴图，制作静态停泊模型，校正22米头顶尺度，压缩贴图并转换为GLB。
+保留作者双侧展开的浮游炮造型；不将该造型标作原作标准的非对称背包配置。
+中央胸盖分离、内部开腔、登舱通道和人尺度驾驶舱为本项目交互适配，不是作者提供的完整驾驶舱。
+平台转换GLB的浮游炮几何异常，因此改用同作品Original FBX几何；上游原始下载文件保留在制作档案。
+
+Gundam Exia / yqms
+上传者署名：yqms
+来源：https://sketchfab.com/3d-models/gundam-exia-de3a7fec6d9347108720e0e816c40985
+许可：上传者标注 CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+游戏派生版采用作者上传的Original GLB，保持原材质与顶点颜色，以统一比例校正为全高18.3米，制作静态停泊模型。
+该模型为PG造型、无手持武器的整备展示状态；不作为原版全兵装配置展示。
+原中央舱盖分离、内部开腔、登舱通道和人尺度内舱为本项目交互改动，不是源作者提供的完整可玩驾驶舱。
+B3展位登舱层约12.1米；居中进入窄舱口，舱盖先外移再向下展开。
+模型采用与游戏适配不表示取得高达角色IP的官方授权。
+
+Strike Freedom Gundam / K0077
+上传者署名：K0077
+来源：https://sketchfab.com/3d-models/strike-freedom-gundam-0d5a236cdb164c5094a8d296d9352943
+许可：上传者标注 CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+使用用户下载的免费 GLB 2K，保留16个材质和46张2K贴图、武器及翼组原比例。
+本体18.88米采用脚底至作者头盔天线顶端的游戏定标约定；官方全高字段没有精确定义该端点。翼尖装备总高约19.45米。
+移除一份几乎重合的左臂副本；原中央胸甲分离、保留固定腹甲、内腔及人尺度登舱为本项目交互适配。舱盖前移后抬起，不宣称官方机构复刻。
+B1胸部检修层13.75米。公开仓库保留游戏派生模型和转换记录。
+
+Gundam Unicorn / kurojishi
+来源：https://sketchfab.com/3d-models/gundam-unicorn-1410ff9dd1c94807a00b8a0936170196
+许可：CC BY-NC 4.0 https://creativecommons.org/licenses/by-nc/4.0/
+免费、署名、仅非商业用途。本原型使用不等同于角色IP官方授权。
+采用用户取得的Original OBJ原包及作者RAR中的2K贴图；24张COL原像素/JPEG字节保留。BUMP派生法线、SPEC只作有界粗糙度近似，不冒充原生PBR材质。红框使用受控发光，不透明白甲。
+毁灭模式21.7米全高采用脚底至作者头盔天线的游戏定标约定，官方未明确该端点。A2检修层15.25米，人高1.75米。
+原头部609面局部修正绕序；分离中央胸盖、背部活动间隙、入口开腔及人尺度内舱均为本项目交互改动，前移抬起动作不宣称官方机构复刻。不提供变形。
+公开仓库提供游戏派生模型、贴图和转换报告；来源原件保留在制作档案。
+
+Wing Gundam Zero EW / 本项目程序模型
+公开版使用 source/build_models.py 与 source/机体模型.blend 生成的风格化模型。
+下载版飞翼存在游戏移植来源线索，未确认公开再分发授权，因此未收录其模型、贴图、原包及派生图片。
+来源审查见 docs/飞翼源模型审查.md。
+
+Noto Sans SC / The Noto Project Authors
+https://github.com/google/fonts/tree/main/ofl/notosanssc
+SIL Open Font License 1.1，完整许可见 assets/fonts/OFL.txt。
+公开版用该字体替换制作机系统字库。
+
+以上原作者署名与许可保持。游戏派生资产的缩放、静态姿态、胸盖分离、开腔和材质处理为本项目制作改动。
+公开版另清理文件元数据；独角兽仅拆出贴图文件，未改变几何或图像像素。
+上游下载原包保留在制作档案，不随此公开仓库重复分发；本仓库包含运行资产、部分Blender派生工程及转换方法。
+模型发布者许可不等于高达角色IP的官方或商业授权。独角兽及派生图像仅非商业使用，按CC BY-NC 4.0保留署名与许可。

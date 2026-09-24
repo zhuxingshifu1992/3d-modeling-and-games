@@ -1,0 +1,147 @@
+{
+  "status": "exported_and_reimport_verified",
+  "source_fbx_sha256": "8cdb1d15f773efe4116f63643e1c6bfb7cbc04bb49f83a65ab0361b2045b0f6a",
+  "source_zip_sha256": "a2fdfe58a258fa9574fda3b1bf01a857606925aec3de31defddfaf41dddd350a",
+  "target": "游戏/高达_巨构机库/assets/models/nu_refined.glb",
+  "target_bytes": 44581980,
+  "target_sha256": "b130b89b5c051893c0a15d4132c8c71d5579ac5a536eef2d255f878bdf8e2459",
+  "source_feet_z": 2.1006019115448,
+  "source_crown_z": 4.328773498535156,
+  "uniform_scale": 9.873566348503669,
+  "center_xy": [
+    -0.69261234998703,
+    -1.0
+  ],
+  "head_height_m": 22,
+  "loose_unrendered_vertices_removed": 14,
+  "bounds_blender": [
+    [
+      -11.39683723449707,
+      -5.316511154174805,
+      1.9073486328125e-06
+    ],
+    [
+      12.18570327758789,
+      3.562757968902588,
+      28.548572540283203
+    ]
+  ],
+  "fin_funnels_bounds_blender": [
+    [
+      -8.077127456665039,
+      -5.316511154174805,
+      5.435686111450195
+    ],
+    [
+      8.104400634765625,
+      -1.5248239040374756,
+      28.548572540283203
+    ]
+  ],
+  "material_mapping": {
+    "Rx-93 nu gundam gun 1": "Rx-93_nu_gundam_gun_1",
+    "Rx-93 nu gundam blue": "Rx-93_nu_gundam_blue",
+    "Rx-93 nu gundam W B": "Rx-93_nu_gundam_W_B",
+    "Rx-93 nu gundam black": "Rx-93_nu_gundam_black",
+    "Rx-93 nu gundam W Top": "Rx-93_nu_gundam_W_Top",
+    "Rx-93 nu gundam yellow": "Rx-93_nu_gundam_yellow",
+    "Jet": "material",
+    "Rx-93 nu gundam WINGS ": "Rx-93_nu_gundam_WINGS",
+    " Rx-93 nu gundam Shield": "Rx-93_nu_gundam_Shield",
+    "Rx-93 nu gundam red": "Rx-93_nu_gundam_red",
+    "Green light": "Green_light"
+  },
+  "material_source": "Same author platform GLB validated PBR graphs with 2K base/normal and 1K metallic/roughness; static geometry exclusively original FBX.",
+  "cavity_removed_faces": {
+    "narrow": 154,
+    "interior": 243
+  },
+  "cavity_bounds_blender": {
+    "narrow": [
+      [
+        -0.4,
+        1.47,
+        16.16
+      ],
+      [
+        0.4,
+        3.4,
+        18.405
+      ]
+    ],
+    "interior": [
+      [
+        -0.61,
+        -0.58,
+        16.16
+      ],
+      [
+        0.61,
+        1.47,
+        18.48
+      ]
+    ]
+  },
+  "hatch_pivot_godot": [
+    0,
+    18.405,
+    -2.96
+  ],
+  "suggested_cockpit": {
+    "floor_y": 16.04,
+    "portal_z": -3.35,
+    "interior_front_z": -1.45,
+    "rear_z": 0.55,
+    "seat_offset_z": -0.6,
+    "screen_z": -1.1,
+    "hatch_travel": 0.15,
+    "hatch_angle": 120,
+    "docking_width": 0.73,
+    "entry_half_width": 0.06,
+    "wait_z": -6.1,
+    "gate_z": -5.7,
+    "console_offset_z": 0.15,
+    "console_x": 0.48,
+    "screen_side_x": 0.35,
+    "fold_yaw": 0,
+    "screen_fold_yaw_zero": true,
+    "screen_fold_height": 1.96
+  },
+  "note": "Doorway is a narrow central passage; the full-sized cockpit widens behind side vent units.",
+  "triangles": 127637,
+  "pose": {
+    "mode": "parked: original grounded right-leg skeletal deformation mirrored to corresponding left leg, then rigid sole placement through hip control; upper-body pose and limb scale unchanged",
+    "mirrored_bones": [
+      "Hip.L",
+      "Knee.L",
+      "Shin.L",
+      "foot.L",
+      "Toe.L"
+    ],
+    "armature_local_mirror_plane_x": 0.08579790592193604,
+    "left_hip_rigid_vertical_correction_source": -0.03224539756774902,
+    "feet_min_z": {
+      ".L": 2.100602388381958,
+      ".R": 2.1006019115448
+    }
+  },
+  "uv_conversion": "Flip UV.v to match the platform PBR texture payload: original FBX BaseColor images equal vertically flipped platform images; platform normal G is also inverted.",
+  "meshes": [
+    {
+      "name": "CockpitHatch",
+      "triangles": 260,
+      "materials": 2
+    },
+    {
+      "name": "FinFunnels",
+      "triangles": 24960,
+      "materials": 1
+    },
+    {
+      "name": "NuBody",
+      "triangles": 102417,
+      "materials": 10
+    }
+  ],
+  "verification_scope": "Exported GLB reimport and source/asset inspection by conversion agent; actual game collision, complete boarding flow, PCK packaging are owned by root."
+}

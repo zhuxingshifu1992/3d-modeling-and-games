@@ -1,0 +1,356 @@
+{
+  "status": "exported_reimport_verified",
+  "source_obj_sha256": "90aa3a9ed97bd7b7a0722b4ea70b99197821be974e167e044514950d5e8e785b",
+  "target_sha256": "20a6aff3e5a0d98d62daea82e4bf5c9b98c16bfd764d165b51bc2fc7356006f4",
+  "target_bytes": 173283948,
+  "source_triangles": 377328,
+  "triangles": 403176,
+  "scale": 0.07623126401603748,
+  "source_floor": -4.921889781951904,
+  "source_head_landmark": 279.73822021484375,
+  "total_height_reference_m": 21.7,
+  "calibration_convention": "sole to authored helmet antenna, game convention; official total-height endpoint unspecified",
+  "bounds_blender": [
+    [
+      -6.065983295440674,
+      -3.5542492866516113,
+      0.0
+    ],
+    [
+      6.100782871246338,
+      4.078634262084961,
+      21.700000762939453
+    ]
+  ],
+  "normal_fix": {
+    "source_face_range_inclusive": [
+      6566,
+      7174
+    ],
+    "faces": 609,
+    "uv_preserved": true,
+    "custom_normals_preserved_by_corner_identity": true,
+    "full_audit": "previews/refined_unicorn/normals_geometry_audit.json"
+  },
+  "hatch_parts": [
+    {
+      "component": 45171,
+      "bounds": [
+        [
+          -0.7928377985954285,
+          1.3982961177825928,
+          15.320219039916992
+        ],
+        [
+          0.7928377985954285,
+          2.413785696029663,
+          17.492515563964844
+        ]
+      ],
+      "faces": 812,
+      "materials": [
+        "blinn5SG"
+      ]
+    },
+    {
+      "component": 45859,
+      "bounds": [
+        [
+          -0.6574580073356628,
+          1.1238981485366821,
+          17.054290771484375
+        ],
+        [
+          0.6574580073356628,
+          1.8195337057113647,
+          17.798185348510742
+        ]
+      ],
+      "faces": 620,
+      "materials": [
+        "blinn5SG"
+      ]
+    },
+    {
+      "component": 45923,
+      "bounds": [
+        [
+          -0.2690742611885071,
+          1.362372636795044,
+          15.351749420166016
+        ],
+        [
+          0.2690742611885071,
+          2.0685207843780518,
+          16.07227325439453
+        ]
+      ],
+      "faces": 320,
+      "materials": [
+        "blinn7SG"
+      ]
+    },
+    {
+      "component": 46227,
+      "bounds": [
+        [
+          -0.3498871624469757,
+          1.5342813730239868,
+          16.583919525146484
+        ],
+        [
+          -0.3156425654888153,
+          1.7738971710205078,
+          16.851892471313477
+        ]
+      ],
+      "faces": 24,
+      "materials": [
+        "blinn7SG"
+      ]
+    },
+    {
+      "component": 46267,
+      "bounds": [
+        [
+          -0.31803807616233826,
+          1.44284188747406,
+          16.581422805786133
+        ],
+        [
+          -0.284237802028656,
+          1.775618076324463,
+          16.8880672454834
+        ]
+      ],
+      "faces": 36,
+      "materials": [
+        "blinn7SG"
+      ]
+    },
+    {
+      "component": 46483,
+      "bounds": [
+        [
+          -0.36455681920051575,
+          1.0176970958709717,
+          15.408246040344238
+        ],
+        [
+          -0.2721453905105591,
+          2.3727526664733887,
+          17.43088722229004
+        ]
+      ],
+      "faces": 442,
+      "materials": [
+        "blinn7SG"
+      ]
+    },
+    {
+      "component": 46741,
+      "bounds": [
+        [
+          0.3156425654888153,
+          1.5342813730239868,
+          16.583919525146484
+        ],
+        [
+          0.3498871624469757,
+          1.7738971710205078,
+          16.851892471313477
+        ]
+      ],
+      "faces": 24,
+      "materials": [
+        "blinn7SG"
+      ]
+    },
+    {
+      "component": 46796,
+      "bounds": [
+        [
+          0.284237802028656,
+          1.44284188747406,
+          16.581422805786133
+        ],
+        [
+          0.31803807616233826,
+          1.775618076324463,
+          16.8880672454834
+        ]
+      ],
+      "faces": 36,
+      "materials": [
+        "blinn7SG"
+      ]
+    },
+    {
+      "component": 47079,
+      "bounds": [
+        [
+          0.2721453905105591,
+          1.0176970958709717,
+          15.408246040344238
+        ],
+        [
+          0.36455681920051575,
+          2.3727526664733887,
+          17.43088722229004
+        ]
+      ],
+      "faces": 442,
+      "materials": [
+        "blinn7SG"
+      ]
+    },
+    {
+      "component": 47317,
+      "bounds": [
+        [
+          -0.3718864321708679,
+          1.2079787254333496,
+          17.26952362060547
+        ],
+        [
+          0.3718864321708679,
+          1.3439793586730957,
+          17.40552520751953
+        ]
+      ],
+      "faces": 72,
+      "materials": [
+        "blinn7SG"
+      ]
+    },
+    {
+      "component": 47383,
+      "bounds": [
+        [
+          -0.3592483103275299,
+          0.8133993744850159,
+          16.908456802368164
+        ],
+        [
+          0.3592483103275299,
+          1.3558958768844604,
+          17.417444229125977
+        ]
+      ],
+      "faces": 566,
+      "materials": [
+        "blinn7SG"
+      ]
+    },
+    {
+      "component": 47963,
+      "bounds": [
+        [
+          -0.3806494474411011,
+          0.8252171874046326,
+          16.92383575439453
+        ],
+        [
+          0.3806494474411011,
+          0.9612178802490234,
+          17.059837341308594
+        ]
+      ],
+      "faces": 80,
+      "materials": [
+        "blinn7SG"
+      ]
+    }
+  ],
+  "source_hatch_face_count": 3474,
+  "hatch_pivot_godot": [
+    0,
+    17.83,
+    -0.78
+  ],
+  "cavity_bounds_blender": {
+    "entry": [
+      [
+        -0.43,
+        0.9,
+        15.37
+      ],
+      [
+        0.43,
+        2.55,
+        17.41
+      ]
+    ],
+    "interior": [
+      [
+        -0.66,
+        -1.13,
+        15.37
+      ],
+      [
+        0.66,
+        0.9,
+        17.41
+      ]
+    ],
+    "sliding_cover_recess": [
+      [
+        -0.83,
+        0.75,
+        15.29
+      ],
+      [
+        0.83,
+        3.85,
+        17.85
+      ]
+    ]
+  },
+  "cavity_removed_faces": {
+    "entry": 872,
+    "interior": 6418,
+    "sliding_cover_recess": 3323
+  },
+  "suggested_cockpit": {
+    "floor_y": 15.25,
+    "portal_z": -2.45,
+    "bridge_end_z": -4.87,
+    "interior_front_z": -0.88,
+    "rear_z": 1.05,
+    "seat_offset_z": -0.18,
+    "screen_z": -0.5,
+    "wait_z": -5.23,
+    "gate_z": -4.87,
+    "console_offset_z": 0.3,
+    "console_x": 0.48,
+    "screen_side_x": 0.35,
+    "screen_fold_yaw_zero": true,
+    "screen_fold_height": 1.96,
+    "hatch_travel": 1.35,
+    "hatch_angle": 90.0,
+    "docking_width": 0.73,
+    "entry_half_width": 0.06,
+    "head_clearance_min_y": 18.55,
+    "head_clearance_max_y": 21.75,
+    "head_clearance_half_width": 1.9,
+    "head_clearance_min_z": -1.65,
+    "head_clearance_max_z": 1.65,
+    "clearance_entry_min_z": -2.3,
+    "clearance_entry_max_z": -0.9
+  },
+  "materials_report": "source/external/unicorn_sketchfab/derived/materials_manifest.json",
+  "material_module_sha256": "df7b0fd6eabdd44668013b702171efdc4851e62319e7351ca1fb1366f8b43770",
+  "meshes": [
+    {
+      "name": "CockpitHatch",
+      "triangles": 6868,
+      "surfaces": 2
+    },
+    {
+      "name": "UnicornBody",
+      "triangles": 396308,
+      "surfaces": 25
+    }
+  ],
+  "profile_adjustment": "Final bridge/wait adjustment only; GLB geometry unchanged."
+}

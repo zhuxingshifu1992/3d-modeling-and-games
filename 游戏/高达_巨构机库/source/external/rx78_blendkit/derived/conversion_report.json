@@ -1,0 +1,205 @@
+{
+  "source_sha256": "c67450570c53c6de39bee12b0d5e1bd366761efd4572e1e8e1fa26a5f4a4bdb8",
+  "output_sha256": "9bf9795444531d7017058f269b5db14fdbf1fbb5b1b7141fc06993c14b17bf34",
+  "output_bytes": 6545144,
+  "source_foot_z": -0.19421279430389404,
+  "source_helmet_z": 18.336824417114258,
+  "source_central_crest_z": 18.587228775024414,
+  "source_v_antenna_z": 18.881196975708008,
+  "uniform_scale": 0.9583928865926634,
+  "head_height_m": 18.0,
+  "height_basis": "central helmet crest; excludes V antenna and backpack",
+  "front_godot": "-Z",
+  "reimported_blender_bounds_min": [
+    -5.322605133056641,
+    -3.46877121925354,
+    0.0
+  ],
+  "reimported_blender_bounds_max": [
+    7.564638137817383,
+    3.5058765411376953,
+    18.586679458618164
+  ],
+  "reimported_triangles": 77407,
+  "mesh_nodes": [
+    "CockpitHatch",
+    "RX78Body"
+  ],
+  "hatch_closed_godot_aabb_min": [
+    -0.743963,
+    12.317,
+    -2.350024
+  ],
+  "hatch_closed_godot_aabb_max": [
+    0.743962,
+    15.52368,
+    -0.516273
+  ],
+  "hatch_pivot_godot": [
+    0,
+    15.5236797333,
+    -0.5162730217
+  ],
+  "internal_cavity": {
+    "enabled": true,
+    "width": 1.22,
+    "floor_y": 12.65,
+    "ceiling_y": 14.75,
+    "body_front_z": -3.0,
+    "hatch_inner_front_z": -1.45,
+    "rear_z": 0.45,
+    "method": "six-plane surface clipping, no generated caps",
+    "hatch_inner_back_removed": true
+  },
+  "texture": {
+    "basecolor": "rx78_basecolor_2k.png",
+    "size": [
+      2048,
+      2048
+    ],
+    "embedded_in_glb": true,
+    "bake": "CPU emission bake of authored paint color output; fresh non-overlapping atlas"
+  },
+  "materials": [
+    {
+      "slot": 0,
+      "source": "Blue Old Paint.002",
+      "roughness_constant": 0.5090909004211426,
+      "metallic_constant": 0.22,
+      "repair": null
+    },
+    {
+      "slot": 1,
+      "source": "Material.002",
+      "roughness_constant": 0.5,
+      "metallic_constant": 0.0,
+      "repair": null
+    },
+    {
+      "slot": 2,
+      "source": "Black Old Paint.001",
+      "roughness_constant": 0.5090909004211426,
+      "metallic_constant": 0.22,
+      "repair": null
+    },
+    {
+      "slot": 3,
+      "source": "Yellow Old Paint.002",
+      "roughness_constant": 0.5090909004211426,
+      "metallic_constant": 0.22,
+      "repair": null
+    },
+    {
+      "slot": 4,
+      "source": "Red Old Paint.001",
+      "roughness_constant": 0.5090909004211426,
+      "metallic_constant": 0.22,
+      "repair": null
+    },
+    {
+      "slot": 5,
+      "source": "Green Old Paint",
+      "roughness_constant": 0.5090909004211426,
+      "metallic_constant": 0.22,
+      "repair": null
+    },
+    {
+      "slot": 6,
+      "source": "White Old Paint",
+      "roughness_constant": 0.5090909004211426,
+      "metallic_constant": 0.22,
+      "repair": null
+    },
+    {
+      "slot": 7,
+      "source": "<empty>",
+      "roughness_constant": 0.5,
+      "metallic_constant": 0.0,
+      "repair": "white recovery for empty slot"
+    },
+    {
+      "slot": 8,
+      "source": "Red Old Paint.002",
+      "roughness_constant": 0.5090909004211426,
+      "metallic_constant": 0.22,
+      "repair": "valid red paint graph substituted"
+    },
+    {
+      "slot": 9,
+      "source": "Material.001",
+      "roughness_constant": 0.6090909242630005,
+      "metallic_constant": 0.0,
+      "repair": null
+    },
+    {
+      "slot": 10,
+      "source": "Material",
+      "roughness_constant": 0.5,
+      "metallic_constant": 0.0,
+      "repair": null
+    },
+    {
+      "slot": 11,
+      "source": "Silver",
+      "roughness_constant": 0.36,
+      "metallic_constant": 0.82,
+      "repair": null
+    },
+    {
+      "slot": 12,
+      "source": "White Old Paint.001",
+      "roughness_constant": 0.5090909004211426,
+      "metallic_constant": 0.22,
+      "repair": null
+    },
+    {
+      "slot": 13,
+      "source": "Red Old Paint.004",
+      "roughness_constant": 0.5090909004211426,
+      "metallic_constant": 0.22,
+      "repair": null
+    },
+    {
+      "slot": 14,
+      "source": "Material.003",
+      "roughness_constant": 0.5,
+      "metallic_constant": 0.0,
+      "repair": null
+    },
+    {
+      "slot": 15,
+      "source": "Gray Old Paint",
+      "roughness_constant": 0.5090909004211426,
+      "metallic_constant": 0.22,
+      "repair": null
+    },
+    {
+      "slot": 16,
+      "source": "Copper",
+      "roughness_constant": 0.36,
+      "metallic_constant": 0.82,
+      "repair": null
+    },
+    {
+      "slot": 17,
+      "source": "Red Old Paint.003",
+      "roughness_constant": 0.5090909004211426,
+      "metallic_constant": 0.22,
+      "repair": "valid red paint graph substituted"
+    },
+    {
+      "slot": 18,
+      "source": "Material.004",
+      "roughness_constant": 0.6090909242630005,
+      "metallic_constant": 0.1409090906381607,
+      "repair": null
+    }
+  ],
+  "limitations": [
+    "Static posed mesh: rig intentionally not shipped.",
+    "Roughness and metallic are per-material constants; original bevel, bump and view-dependent undercoat shader effects are not preserved.",
+    "Atlas is 2K for current laptop memory budget, not a close-up cinematic texture set.",
+    "Missing external red material graph is repaired from the included red material; 22 empty-slot faces use neutral white.",
+    "Glass transmission window is approximated as opaque smoked glass for compatibility; eye and sensor emission color preserved."
+  ]
+}

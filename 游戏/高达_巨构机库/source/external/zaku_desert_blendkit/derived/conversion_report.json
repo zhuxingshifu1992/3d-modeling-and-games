@@ -1,0 +1,144 @@
+{
+  "source": "游戏/高达_巨构机库/source/external/zaku_desert_blendkit/Zaku_Desert_AnonmalyFound.blend",
+  "source_sha256": "a213106befd13083e094b4562c764e72f86c1b79cc29587e670a9cf7789c4751",
+  "author": "AnonmalyFound",
+  "license": "CC0",
+  "source_url": "https://www.blendkit.com/asset-gallery-detail/ebee94b8-5e10-4b96-947b-7788145feaf5/",
+  "height_note": "作者沙漠改型；头盔圆顶展陈暂定17.5米，并非经证实的官方机型参数；天线不计入头顶高。",
+  "helmet_source_vertex": 15021,
+  "helmet_source_point": [
+    0.022973069921135902,
+    2.5188241004943848,
+    17.39118194580078
+  ],
+  "floor_source_z": -0.13753479719161987,
+  "source_ground_center_xy": [
+    0.07202029228210449,
+    1.1112430691719055
+  ],
+  "uniform_scale": 0.9983617315851783,
+  "head_height_m": 17.5,
+  "vertices_before_gltf_seam_splits": 34672,
+  "triangles": 68004,
+  "forward_axis": "Godot -Z",
+  "glass_faces_omitted": 31,
+  "mesh_validation_changed_data": true,
+  "godot_bounds_min": [
+    -5.736751556396484,
+    0.0,
+    -3.0197062492370605
+  ],
+  "godot_bounds_max": [
+    5.967491626739502,
+    18.070234298706055,
+    14.84678840637207
+  ],
+  "maps": {
+    "base_color": [
+      2048,
+      2048
+    ],
+    "metallic_roughness": [
+      1024,
+      1024
+    ],
+    "normal": [
+      1024,
+      1024
+    ],
+    "emission": [
+      512,
+      512
+    ]
+  },
+  "limitations": [
+    "Static pose; rig preserved in untouched source only.",
+    "Paint/wear channels and bump normals baked to new atlas; no studio lighting baked.",
+    "Transparent visor lens surfaces omitted so the geometric red mono-eye remains visible without refraction.",
+    "No cockpit, collision mesh, LOD or game rig included."
+  ],
+  "glb_bytes": 7650140,
+  "glb_sha256": "03046fd38947e65554e4bd81c92ab73e3a13c41ee8d34f9688c5644ccda3b03c",
+  "gltf_summary": {
+    "meshes": 1,
+    "materials": 1,
+    "images": 4,
+    "textures": 4,
+    "skins": 0,
+    "animations": 0
+  },
+  "gltf_material": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1,
+        1,
+        1
+      ],
+      "emissiveTexture": {
+        "index": 0
+      },
+      "name": "Zaku_Desert_Baked_PBR",
+      "normalTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      }
+    }
+  ],
+  "reimport": {
+    "mesh_count": 1,
+    "materials": [
+      "Zaku_Desert_Baked_PBR"
+    ],
+    "images": [
+      {
+        "name": "zaku_base_color",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "zaku_emission",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "zaku_normal",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "zaku_orm",
+        "size": [
+          1024,
+          1024
+        ]
+      }
+    ],
+    "feet_z": 0.0,
+    "head_z": 17.5,
+    "triangles": 68004,
+    "bounds_min_blender": [
+      -5.736751556396484,
+      -14.84678840637207,
+      0.0
+    ],
+    "bounds_max_blender": [
+      5.967491626739502,
+      3.0197062492370605,
+      18.070234298706055
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "status": "exported_reimport_verified",
+  "source_sha256": "50d18230471b7704b846d43c0106852ecf99f64e386d50d4a9304edbd807e0c7",
+  "target_sha256": "d428a49fd2ff9d2742f9930b5b40a37f17806f76c3151c8ecb76d972e2feeaea",
+  "target_bytes": 21091628,
+  "total_height_m": 18.3,
+  "source_floor": -4.970829010009766,
+  "source_top": 1.1510359048843384,
+  "scale": 2.9892851695367004,
+  "bounds_blender": [
+    [
+      -5.482477188110352,
+      -4.0922040939331055,
+      0.0
+    ],
+    [
+      5.482477188110352,
+      2.253413200378418,
+      18.299999237060547
+    ]
+  ],
+  "triangles": 283923,
+  "source_hatch_parts": [
+    "Sphere.028",
+    "Sphere.027",
+    "Sphere.025",
+    "Sphere.071",
+    "Sphere.074",
+    "Sphere.031",
+    "Sphere.037"
+  ],
+  "removed_source_objects": [
+    "Cockpit Chair.002"
+  ],
+  "cavity_removed_faces": {
+    "narrow": 1135,
+    "inner": 3746
+  },
+  "cavity_bounds_blender": {
+    "narrow": [
+      [
+        -0.4,
+        0.84,
+        12.18
+      ],
+      [
+        0.4,
+        2.4,
+        14.1
+      ]
+    ],
+    "inner": [
+      [
+        -0.62,
+        -1.05,
+        12.18
+      ],
+      [
+        0.62,
+        0.84,
+        14.19
+      ]
+    ]
+  },
+  "hatch_pivot_godot": [
+    0,
+    12.1,
+    -0.6
+  ],
+  "suggested_cockpit": {
+    "floor_y": 12.08,
+    "portal_z": -2.3,
+    "interior_front_z": -0.85,
+    "rear_z": 1.0,
+    "seat_offset_z": -0.18,
+    "screen_z": -0.45,
+    "wait_z": -5.05,
+    "gate_z": -4.7,
+    "console_offset_z": 0.3,
+    "console_x": 0.48,
+    "screen_side_x": 0.35,
+    "screen_fold_yaw_zero": true,
+    "screen_fold_height": 1.96,
+    "hatch_travel": 1.3,
+    "hatch_angle": -100.0,
+    "docking_width": 0.73,
+    "entry_half_width": 0.06,
+    "head_clearance_min_y": 15.74,
+    "head_clearance_max_y": 18.35,
+    "head_clearance_half_width": 1.7,
+    "head_clearance_min_z": -1.7,
+    "head_clearance_max_z": 1.2,
+    "clearance_entry_min_z": -2.0,
+    "clearance_entry_max_z": -0.9,
+    "bridge_end_z": -4.7
+  },
+  "vertex_color_layers": [
+    "Color",
+    "Color.001"
+  ],
+  "meshes": [
+    {
+      "name": "CockpitHatch",
+      "triangles": 1108,
+      "surfaces": 4
+    },
+    {
+      "name": "ExiaBody",
+      "triangles": 282815,
+      "surfaces": 55
+    }
+  ],
+  "profile_revision_note": "Verified shared bridge_end_z defaults to physical portal. Exia separates bridge endpoint -4.70 from physical portal -2.30 so safe docking geometry does not break near-hatch interactions. Geometry asset unchanged."
+}

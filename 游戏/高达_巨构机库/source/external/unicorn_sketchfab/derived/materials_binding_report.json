@@ -1,0 +1,331 @@
+{
+  "manifest": "游戏/高达_巨构机库/source/external/unicorn_sketchfab/derived/materials_manifest.json",
+  "statistics": {
+    "materials": 25,
+    "textured_materials": 24,
+    "source_texture_count": 71,
+    "source_color_maps": 24,
+    "source_bump_maps": 24,
+    "source_spec_maps": 23,
+    "derived_normal_maps": 24,
+    "derived_metallic_roughness_maps": 24,
+    "derived_emission_maps": 8,
+    "specular_aliases_bump": 1
+  },
+  "configured_material_count": 25,
+  "bindings": [
+    {
+      "source_material": "blinn10SG",
+      "material": "UC_WAIST_OTHER",
+      "node_count": 7,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "textures": [
+        "UC_WAIST_OTHER_COL.jpg",
+        "UC_WAIST_OTHER_MR.png",
+        "UC_WAIST_OTHER_NORMAL.png"
+      ]
+    },
+    {
+      "source_material": "blinn11SG",
+      "material": "UC_LHAND_WHITE",
+      "node_count": 7,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "textures": [
+        "UC_LHAND_WHITE_COL.jpg",
+        "UC_LHAND_WHITE_MR.png",
+        "UC_LHAND_WHITE_NORMAL.png"
+      ]
+    },
+    {
+      "source_material": "blinn12SG",
+      "material": "UC_LHAND_RED",
+      "node_count": 8,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "textures": [
+        "UC_LHAND_RED_COL.jpg",
+        "UC_LHAND_RED_MR.png",
+        "UC_LHAND_RED_NORMAL.png",
+        "UC_LHAND_RED_EMISSION.png"
+      ]
+    },
+    {
+      "source_material": "blinn13SG",
+      "material": "UC_LHAND_OTHER",
+      "node_count": 7,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "textures": [
+        "UC_LHAND_OTHER_COL.jpg",
+        "UC_LHAND_OTHER_MR.png",
+        "UC_LHAND_OTHER_NORMAL.png"
+      ]
+    },
+    {
+      "source_material": "blinn14SG",
+      "material": "UC_LLEG_WHITE",
+      "node_count": 7,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "textures": [
+        "UC_LLEG_WHITE_COL.jpg",
+        "UC_LLEG_WHITE_MR.png",
+        "UC_LLEG_WHITE_NORMAL.png"
+      ]
+    },
+    {
+      "source_material": "blinn15SG",
+      "material": "UC_LLEG_RED",
+      "node_count": 8,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "textures": [
+        "UC_LLEG_RED_COL.jpg",
+        "UC_LLEG_RED_MR.png",
+        "UC_LLEG_RED_NORMAL.png",
+        "UC_LLEG_RED_EMISSION.png"
+      ]
+    },
+    {
+      "source_material": "blinn16SG",
+      "material": "UC_LLEG_OTHER",
+      "node_count": 7,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "textures": [
+        "UC_LLEG_OTHER_COL.jpg",
+        "UC_LLEG_OTHER_MR.png",
+        "UC_LLEG_OTHER_NORMAL.png"
+      ]
+    },
+    {
+      "source_material": "blinn17SG",
+      "material": "UC_BPACK_MAIN",
+      "node_count": 7,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "textures": [
+        "UC_BPACK_MAIN_COL.jpg",
+        "UC_BPACK_MAIN_MR.png",
+        "UC_BPACK_MAIN_NORMAL.png"
+      ]
+    },
+    {
+      "source_material": "blinn18SG",
+      "material": "UC_BPACK_RED",
+      "node_count": 8,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "textures": [
+        "UC_BPACK_RED_COL.jpg",
+        "UC_BPACK_RED_MR.png",
+        "UC_BPACK_RED_NORMAL.png",
+        "UC_BPACK_RED_EMISSION.png"
+      ]
+    },
+    {
+      "source_material": "blinn19SG",
+      "material": "UC_COCKPIT_OTHER",
+      "node_count": 7,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "textures": [
+        "UC_COCKPIT_OTHER_COL.jpg",
+        "UC_COCKPIT_OTHER_MR.png",
+        "UC_COCKPIT_OTHER_NORMAL.png"
+      ]
+    },
+    {
+      "source_material": "blinn1SG",
+      "material": "UC_HEAD_WHITE",
+      "node_count": 7,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "textures": [
+        "UC_HEAD_WHITE_COL.jpg",
+        "UC_HEAD_WHITE_MR.png",
+        "UC_HEAD_WHITE_NORMAL.png"
+      ]
+    },
+    {
+      "source_material": "blinn20SG",
+      "material": "UC_UNTEXTURED_RUBY",
+      "node_count": 2,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "textures": []
+    },
+    {
+      "source_material": "blinn2SG",
+      "material": "UC_HEAD_RED",
+      "node_count": 8,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "textures": [
+        "UC_HEAD_RED_COL.jpg",
+        "UC_HEAD_RED_MR.png",
+        "UC_HEAD_RED_NORMAL.png",
+        "UC_HEAD_RED_EMISSION.png"
+      ]
+    },
+    {
+      "source_material": "blinn4SG",
+      "material": "UC_HEAD_OTHER",
+      "node_count": 7,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "textures": [
+        "UC_HEAD_OTHER_COL.jpg",
+        "UC_HEAD_OTHER_MR.png",
+        "UC_HEAD_OTHER_NORMAL.png"
+      ]
+    },
+    {
+      "source_material": "blinn5SG",
+      "material": "UC_BODY_WHITE",
+      "node_count": 7,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "textures": [
+        "UC_BODY_WHITE_COL.jpg",
+        "UC_BODY_WHITE_MR.png",
+        "UC_BODY_WHITE_NORMAL.png"
+      ]
+    },
+    {
+      "source_material": "blinn6SG",
+      "material": "UC_BODY_RED",
+      "node_count": 8,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "textures": [
+        "UC_BODY_RED_COL.jpg",
+        "UC_BODY_RED_MR.png",
+        "UC_BODY_RED_NORMAL.png",
+        "UC_BODY_RED_EMISSION.png"
+      ]
+    },
+    {
+      "source_material": "blinn7SG",
+      "material": "UC_BODY_OTHER",
+      "node_count": 7,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "textures": [
+        "UC_BODY_OTHER_COL.jpg",
+        "UC_BODY_OTHER_MR.png",
+        "UC_BODY_OTHER_NORMAL.png"
+      ]
+    },
+    {
+      "source_material": "blinn8SG",
+      "material": "UC_WAIST_WHITE",
+      "node_count": 7,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "textures": [
+        "UC_WAIST_WHITE_COL.jpg",
+        "UC_WAIST_WHITE_MR.png",
+        "UC_WAIST_WHITE_NORMAL.png"
+      ]
+    },
+    {
+      "source_material": "blinn9SG",
+      "material": "UC_WAIST_RED",
+      "node_count": 8,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "textures": [
+        "UC_WAIST_RED_COL.jpg",
+        "UC_WAIST_RED_MR.png",
+        "UC_WAIST_RED_NORMAL.png",
+        "UC_WAIST_RED_EMISSION.png"
+      ]
+    },
+    {
+      "source_material": "rhand_other_texSG",
+      "material": "UC_RHAND_OTHER",
+      "node_count": 7,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "textures": [
+        "UC_RHAND_OTHER_COL.jpg",
+        "UC_RHAND_OTHER_MR.png",
+        "UC_RHAND_OTHER_NORMAL.png"
+      ]
+    },
+    {
+      "source_material": "rhand_red_texSG",
+      "material": "UC_RHAND_RED",
+      "node_count": 8,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "textures": [
+        "UC_RHAND_RED_COL.jpg",
+        "UC_RHAND_RED_MR.png",
+        "UC_RHAND_RED_NORMAL.png",
+        "UC_RHAND_RED_EMISSION.png"
+      ]
+    },
+    {
+      "source_material": "rhand_white_texSG",
+      "material": "UC_RHAND_WHITE",
+      "node_count": 7,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "textures": [
+        "UC_RHAND_WHITE_COL.jpg",
+        "UC_RHAND_WHITE_MR.png",
+        "UC_RHAND_WHITE_NORMAL.png"
+      ]
+    },
+    {
+      "source_material": "rleg_other_texSG",
+      "material": "UC_RLEG_OTHER",
+      "node_count": 7,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "textures": [
+        "UC_RLEG_OTHER_COL.jpg",
+        "UC_RLEG_OTHER_MR.png",
+        "UC_RLEG_OTHER_NORMAL.png"
+      ]
+    },
+    {
+      "source_material": "rleg_red_texSG",
+      "material": "UC_RLEG_RED",
+      "node_count": 8,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "textures": [
+        "UC_RLEG_RED_COL.jpg",
+        "UC_RLEG_RED_MR.png",
+        "UC_RLEG_RED_NORMAL.png",
+        "UC_RLEG_RED_EMISSION.png"
+      ]
+    },
+    {
+      "source_material": "rleg_white_texSG",
+      "material": "UC_RLEG_WHITE",
+      "node_count": 7,
+      "alpha": 1.0,
+      "transmission": 0.0,
+      "textures": [
+        "UC_RLEG_WHITE_COL.jpg",
+        "UC_RLEG_WHITE_MR.png",
+        "UC_RLEG_WHITE_NORMAL.png"
+      ]
+    }
+  ],
+  "limitations": [
+    "Author files contain legacy diffuse, bump and specular-intensity maps, not native metallic/roughness PBR.",
+    "Original COL pixels, including baked lighting, wear, panel lines and markings, remain unchanged; baked shading can compound with runtime lighting.",
+    "SPEC intensity supplies bounded roughness variation only; no measured glossiness, IOR or true metallic masks exist.",
+    "Dark mixed atlases use a conservative artistic metal fraction with bright COL regions masked toward dielectric paint; this does not recover physical material identity.",
+    "Tangent normals assume white-is-high bump and OpenGL +Y; height scale is artistic, since MTL bump amplitude has no reliable physical unit.",
+    "Emission is a restrained artistic treatment for the eight RED COL atlases, masked by red chroma; the untextured red material remains non-emissive because its identity is unknown.",
+    "MTL illum=4, Tf=1 and Ni=1 are legacy exporter defaults and do not establish transparent armor; the converted materials are opaque with transmission zero."
+  ]
+}
